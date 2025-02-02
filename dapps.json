@@ -8,7 +8,7 @@
     {
         "name": "Monadex",
         "type": "Defi",
-        "logo": "https://pbs.twimg.com/profile_images/1845736875069198351/rPMdx1dE_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1875333130246057985/L0YkWW0T_400x400.jpg",
         "description": "Let’s Make Dex experience fun on Monad."
     },
     {
@@ -32,7 +32,7 @@
     {
         "name": "gmon.fun",
         "type": "Defi",
-        "logo": "https://pbs.twimg.com/profile_images/1818583064714362880/KejczOrx_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1879478139363192832/yuiBR7Bp_400x400.png",
         "description": "Enabling nads to launch coins within seconds."
     },
     {
@@ -56,13 +56,13 @@
     {
         "name": "Kuru",
         "type": "Defi",
-        "logo": "https://pbs.twimg.com/profile_images/1814320744819507200/H0MXwCOf_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1876637778336710656/2en6ZY-L_400x400.jpg",
         "description": "Find and trade your favourite coins on a fully on-chain CLOB."
     },
     {
         "name": "Kizzy",
         "type": "Prediction",
-        "logo": "https://pbs.twimg.com/profile_images/1786972911766757376/BcaFd5O8_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1880147243128483841/Qe3_O5VB_400x400.jpg",
         "description": "Tap into the new world of social media betting."
     },
     {
@@ -104,7 +104,7 @@
     {
         "name": "Score",
         "type": "AI",
-        "logo": "https://pbs.twimg.com/profile_images/1816267379459891200/AGts3X_h_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1859358797803778048/Uun98CfQ_400x400.jpg",
         "description": "Unifying fragmented data across global football to deliver elite analytics."
     },
     {
@@ -114,21 +114,15 @@
         "description": "A lossless crypto experience powered by yield bearing assets."
     },
     {
-        "name": "Monart",
-        "type": "Incentive",
-        "logo": "https://pbs.twimg.com/profile_images/1851944690284924932/Qcw9pv2N_400x400.jpg",
-        "description": "A Monad-native cultural incentive protocol."
-    },
-    {
         "name": "Monorail",
         "type": "Defi",
-        "logo": "https://pbs.twimg.com/profile_images/1852466843023298560/TlKrkjP__400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1867666284353036288/VQntKH9l_400x400.png",
         "description": "Merging orderbook efficiency with AMM liquidity into personalized orderbooks."
     },
     {
         "name": "Sparkball",
         "type": "Game",
-        "logo": "https://pbs.twimg.com/profile_images/1828814274447482881/PwGGUpw5_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1873539179298398208/xG3rc8eJ_400x400.jpg",
         "description": "A 4v4 rush of adrenaline - brawl hard, ball harder."
     },
     {
@@ -140,7 +134,7 @@
     {
         "name": "Pulse",
         "type": "DEPIN",
-        "logo": "https://pbs.twimg.com/profile_images/1832845974244323328/a_eodQBQ_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1865163275807150080/jov8V4we_400x400.jpg",
         "description": "Next-gen longevity wearable & protocol."
     }
 ]
