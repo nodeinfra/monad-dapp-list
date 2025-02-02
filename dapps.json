@@ -1,0 +1,146 @@
+{
+    {
+        "name": "NoMoreLonely.Life",
+        "type": "Social",
+        "logo": "https://pbs.twimg.com/profile_images/1791760368915865600/_I__WC3b_400x400.jpg",
+        "description": "Building a new social interaction on Monad."
+    },
+    {
+        "name": "Monadex",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1845736875069198351/rPMdx1dE_400x400.jpg",
+        "description": "Let’s Make Dex experience fun on Monad."
+    },
+    {
+        "name": "Monad Pad",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1817930736768303105/1Hd2OFRw_400x400.jpg",
+        "description": "Leading the way as the first launchpad on Monad."
+    },
+    {
+        "name": "Dusted",
+        "type": "Social",
+        "logo": "https://pbs.twimg.com/profile_images/1828047418304409601/GGXw7DEE_400x400.jpg",
+        "description": "We revolutionize this and that to make a better world for bagholders."
+    },
+    {
+        "name": "Holdara",
+        "type": "Game",
+        "logo": "https://pbs.twimg.com/profile_images/1755904514001920000/zMIsmhmq_400x400.png",
+        "description": "A Living World where Players Forge the Future."
+    },
+    {
+        "name": "gmon.fun",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1818583064714362880/KejczOrx_400x400.jpg",
+        "description": "Enabling nads to launch coins within seconds."
+    },
+    {
+        "name": "Magma",
+        "type": "Staking",
+        "logo": "https://pbs.twimg.com/profile_images/1798840544887787520/OWxSEpYX_400x400.jpg",
+        "description": "Building Liquid Staking for Monad."
+    },
+    {
+        "name": "MonadStarter",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1810011806795988992/FKksBJnX_400x400.jpg",
+        "description": "Community-focused fundraising platform featuring launchpad and LBPs."
+    },
+    {
+        "name": "Hedgemony",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1822286581736378368/tzWQhkz5_400x400.jpg",
+        "description": "Intent Centric Execution Layer. Building the best trading experience on Monad."
+    },
+    {
+        "name": "Kuru",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1814320744819507200/H0MXwCOf_400x400.jpg",
+        "description": "Find and trade your favourite coins on a fully on-chain CLOB."
+    },
+    {
+        "name": "Kizzy",
+        "type": "Prediction",
+        "logo": "https://pbs.twimg.com/profile_images/1786972911766757376/BcaFd5O8_400x400.jpg",
+        "description": "Tap into the new world of social media betting."
+    },
+    {
+        "name": "apriori",
+        "type": "Staking",
+        "logo": "https://pbs.twimg.com/profile_images/1821177411796410369/GtzmUXok_400x400.jpg",
+        "description": "mev powered liquid staking platform."
+    },
+    {
+        "name": "Townesquare",
+        "type": "Dev",
+        "logo": "https://pbs.twimg.com/profile_images/1563311542334267398/gaQXK0FD_400x400.jpg",
+        "description": "The Modular DApp Layer for Web 3 & DeFi onboarding."
+    },
+    {
+        "name": "RareBetSports",
+        "type": "Prediction",
+        "logo": "https://pbs.twimg.com/profile_images/1802788848956506112/KJnlcaQj_400x400.jpg",
+        "description": "Building the culture of sports onchain."
+    },
+    {
+        "name": "Dusted",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1828047418304409601/GGXw7DEE_400x400.jpg",
+        "description": "Automatic chats for every token you hold."
+    },
+    {
+        "name": "Modus",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1842311976308928512/W-LT6OO9_400x400.jpg",
+        "description": "Capital efficiency gone wild on Monad's first modular lending stack."
+    },
+    {
+        "name": "Fortytwo",
+        "type": "AI",
+        "logo": "https://pbs.twimg.com/profile_images/1850852364367900672/KC0GPnT3_400x400.png",
+        "description": "Decentralized AI for Unmatched Scalability on Monad."
+    },
+    {
+        "name": "Score",
+        "type": "AI",
+        "logo": "https://pbs.twimg.com/profile_images/1816267379459891200/AGts3X_h_400x400.jpg",
+        "description": "Unifying fragmented data across global football to deliver elite analytics."
+    },
+    {
+        "name": "Mozi",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1797574929904508928/QTb2OJV2_400x400.jpg",
+        "description": "A lossless crypto experience powered by yield bearing assets."
+    },
+    {
+        "name": "Monart",
+        "type": "Incentive",
+        "logo": "https://pbs.twimg.com/profile_images/1851944690284924932/Qcw9pv2N_400x400.jpg",
+        "description": "A Monad-native cultural incentive protocol."
+    },
+    {
+        "name": "Monorail",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1852466843023298560/TlKrkjP__400x400.jpg",
+        "description": "Merging orderbook efficiency with AMM liquidity into personalized orderbooks."
+    },
+    {
+        "name": "Sparkball",
+        "type": "Game",
+        "logo": "https://pbs.twimg.com/profile_images/1828814274447482881/PwGGUpw5_400x400.jpg",
+        "description": "A 4v4 rush of adrenaline - brawl hard, ball harder."
+    },
+    {
+        "name": "Totem",
+        "type": "AI",
+        "logo": "https://pbs.twimg.com/profile_images/1852314929136861184/FZXUnMqn_400x400.png",
+        "description": "Capture, unlock, and monetize the untapped data value."
+    },
+    {
+        "name": "Pulse",
+        "type": "DEPIN",
+        "logo": "https://pbs.twimg.com/profile_images/1832845974244323328/a_eodQBQ_400x400.jpg",
+        "description": "Next-gen longevity wearable & protocol."
+    }
+}
