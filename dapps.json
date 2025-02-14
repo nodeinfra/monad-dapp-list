@@ -4,6 +4,8 @@
         "type": "Social",
         "logo": "https://pbs.twimg.com/profile_images/1791760368915865600/_I__WC3b_400x400.jpg",
         "description": "Building a new social interaction on Monad."
+        "contracts": [],
+        "monad-exclusive": true,
     },
     {
         "name": "Monadex",
