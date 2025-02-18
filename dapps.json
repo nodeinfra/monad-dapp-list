@@ -25,7 +25,7 @@
     },
     {
       "name": "Encifher",
-      "type": "Staking",
+      "type": "Dev",
       "logo": "https://pbs.twimg.com/profile_images/1884893783164395520/j8AdcIiG_400x400.jpg",
       "description": "Encrypting soon",
       "monad_exclusive": true,
