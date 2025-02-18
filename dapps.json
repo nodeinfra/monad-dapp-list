@@ -1,5 +1,4 @@
-{
-  "topCollections": [
+[
     {
       "name": "Narrative",
       "type": "Defi",
@@ -304,5 +303,4 @@
       "monad_exclusive": true,
       "contracts": []
     }
-  ]
-}
+]
