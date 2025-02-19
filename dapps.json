@@ -5,7 +5,7 @@
       "logo": "https://pbs.twimg.com/profile_images/1882134871214051328/6R7oJYe6_400x400.png",
       "description": "Trade narratives. Powered by @monad_xyz",
       "monad_exclusive": true,
-      "contracts": ["0xFcc20DDdb395dC684750a68933AD553EF8923266"]
+      "contracts": []
     },
     {
       "name": "Composite Labs",
@@ -13,7 +13,7 @@
       "logo": "https://pbs.twimg.com/profile_images/1772956651210891264/1Murgaqw_400x400.jpg",
       "description": "Building the best all-in-one trading platform on @monad_xyz",
       "monad_exclusive": true,
-      "contracts": ["0xB4A9d7a8a4AB16Ef4d4Ba7B05e6472A02D546b83"]
+      "contracts": []
     },
     {
       "name": "Omnia",
