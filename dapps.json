@@ -237,14 +237,6 @@
       "contracts": []
     },
     {
-      "name": "Magma",
-      "type": "Staking",
-      "logo": "https://pbs.twimg.com/profile_images/1798840544887787520/OWxSEpYX_400x400.jpg",
-      "description": "Building Liquid Staking for Monad.",
-      "monad_exclusive": true,
-      "contracts": []
-    },
-    {
       "name": "Hedgemony",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1822286581736378368/tzWQhkz5_400x400.jpg",
@@ -273,14 +265,6 @@
       "type": "Prediction",
       "logo": "https://pbs.twimg.com/profile_images/1889975983941591040/NeddfENS_400x400.jpg",
       "description": "Tap into the new world of social media betting.",
-      "monad_exclusive": true,
-      "contracts": []
-    },
-    {
-      "name": "apriori",
-      "type": "Staking",
-      "logo": "https://pbs.twimg.com/profile_images/1821177411796410369/GtzmUXok_400x400.jpg",
-      "description": "mev powered liquid staking platform.",
       "monad_exclusive": true,
       "contracts": []
     },
