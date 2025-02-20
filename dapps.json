@@ -1,9 +1,17 @@
 [
     {
-      "name": "aPriori",
+      "name": "Magma",
       "type": "Staking",
-      "logo": "https://pbs.twimg.com/profile_images/1821177411796410369/GtzmUXok_400x400.jpg",
-      "description": "mev powered liquid staking platform on Monad",
+      "logo": "https://pbs.twimg.com/profile_images/1798840544887787520/OWxSEpYX_400x400.jpg",
+      "description": "Liquid Staking for the People on @monad_xyz",
+      "monad_exclusive": true,
+      "contracts": ["0x2c9C959516e9AAEdB2C748224a41249202ca8BE7"]
+    },
+    {
+      "name": "Kintsu",
+      "type": "Staking",
+      "logo": "https://pbs.twimg.com/profile_images/1889795497059143680/c-neRA1E_400x400.png",
+      "description": "Creators of sMON and the most decentralized and powerful Liquid Staking protocol ever made.",
       "monad_exclusive": true,
       "contracts": []
     },
@@ -13,7 +21,7 @@
       "logo": "https://pbs.twimg.com/profile_images/1821177411796410369/GtzmUXok_400x400.jpg",
       "description": "mev powered liquid staking platform on Monad",
       "monad_exclusive": true,
-      "contracts": []
+      "contracts": ["0xb2f82D0f38dc453D596Ad40A37799446Cc89274A"]
     },
     {
       "name": "Lootify",
