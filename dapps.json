@@ -1,5 +1,21 @@
 [
     {
+      "name": "Nad Name Service",
+      "type": "Social",
+      "logo": "https://pbs.twimg.com/profile_images/1882928904589254656/HOrr3i1H_400x400.png",
+      "description": "First and only .nad name service on @Monad_xyz.",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
+      "name": "Dirol",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1868761381639483392/a12NGbOG_400x400.jpg",
+      "description": "DeFi without the complexity. All on Dirol.",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
       "name": "Narrative",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1882134871214051328/6R7oJYe6_400x400.png",
@@ -7,6 +23,15 @@
       "monad_exclusive": true,
       "contracts": []
     },
+    {
+      "name": "Griffy",
+      "type": "Prediction",
+      "logo": "https://pbs.twimg.com/profile_images/1888905511783084032/pf1nPK14_400x400.jpg",
+      "description": "Prediction market for degens 💜",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    
     {
       "name": "Composite Labs",
       "type": "Defi",
