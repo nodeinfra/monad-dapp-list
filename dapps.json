@@ -13,7 +13,7 @@
       "logo": "https://pbs.twimg.com/profile_images/1741714746842263552/h5PynzNX_400x400.jpg",
       "description": "Nitro Fused Trade Ledger + Standard Meme DEX on Monad",
       "monad_exclusive": true,
-      "contracts": []
+      "contracts": ["0xc218d4dd36C9d865a6Da0913b2aa517fa5629dC7", "0x2470D9F5CCf95cA782D43b9e61B9e54BDa1B440F", "0xDAdd5aa38952e7bDB0113Df8500f27dFFAd59BcB", "0x6Be402B06D4FE8CDE9B698a50853a66Ea260d009", "0xBa0fACfB8fd4971BE4765Eb336136bcf7e524ba2", "0xd10047Dc109167Aa52617b74CD8F4E94C90e0479"]
     },
     {
       "name": "Poply",
