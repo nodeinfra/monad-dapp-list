@@ -48,6 +48,14 @@
       "contracts": []
     },
     {
+      "name": "nad.fun",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1827607782356619264/Owr-840k_400x400.jpg",
+      "description": "Social Memecoin Playground. Powered by Monad.",
+      "monad_exclusive": true,
+      "contracts": ["0x822eb1add41cf87c3f178100596cf24c9a6442f6"]
+    },
+    {
       "name": "Narwhal Finance",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1888827499775397888/y5kxJoAo_400x400.jpg",
@@ -502,5 +510,29 @@
         "0x29D924267ef89036d50C2008C810842A0E1091B5",
         "0xE1dDD3273A775e70eB532b311073DefB79bc5D82"
       ]
+    },
+    {
+      "name": "Ambient",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1686951614656225280/eb1BN7ld_400x400.jpg",
+      "description": "Zero-to-One Decentralized Trading Protocol.",
+      "monad_exclusive": "",
+      "contracts": ["0x88B96aF200c8a9c35442C8AC6cd3D22695AaE4F0"]
+    },
+    {
+      "name": "Bean Exchange",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1875029488180080640/vVqXpCvW_400x400.jpg",
+      "description": "Gamified on-chain Spot & Perpetual DEX natively built on Monad ⨀ Powered by Pyth 🔮",
+      "monad_exclusive": "",
+      "contracts": ["0xca810d095e90daae6e867c19df6d9a8c56db2c89"]
+    },
+    {
+      "name": "Bebop",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1888879617886531584/EqdazUob_400x400.jpg",
+      "description": "Web3 trading app and API that finds the best route for all your trades. 😎",
+      "monad_exclusive": "",
+      "contracts": []
     }
 ]
