@@ -1,5 +1,13 @@
 [
     {
+      "name": "Narwhal Finance",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1888827499775397888/y5kxJoAo_400x400.jpg",
+      "description": "AI-Driven Trading; Gamified Glory; only on Monad",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
       "name": "Magma",
       "type": "Staking",
       "logo": "https://pbs.twimg.com/profile_images/1798840544887787520/OWxSEpYX_400x400.jpg",
