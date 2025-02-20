@@ -1,5 +1,53 @@
 [
     {
+      "name": "Chewy",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1878757174098194433/kWm-9ITJ_400x400.png",
+      "description": "Earn, stake, upgrade, trade. 🤖",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
+      "name": "NitroFTL",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1741714746842263552/h5PynzNX_400x400.jpg",
+      "description": "Nitro Fused Trade Ledger + Standard Meme DEX on Monad",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
+      "name": "Poply",
+      "type": "AI",
+      "logo": "https://pbs.twimg.com/profile_images/1875189576207110144/n5tn07pM_400x400.jpg",
+      "description": "Community-based NFT marketplace where anyone can generate custom NFT collections",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
+      "name": "OctoSwap",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1881835000024231936/Fb3P06s-_400x400.jpg",
+      "description": "Simple, secure, efficient and fun.  Natively on Monad.",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
+      "name": "Mace",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1876861581763764224/3Z3F9Cef_400x400.jpg",
+      "description": "The first native DEX aggregator on Monad",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
+      "name": "Drake",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1840900183787520001/RiZyjhhL_400x400.png",
+      "description": "Putting the CEX in perp DEX | High-speed, fully-onchain orderbook",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
       "name": "Narwhal Finance",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1888827499775397888/y5kxJoAo_400x400.jpg",
