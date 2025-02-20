@@ -319,7 +319,7 @@
       "name": "aiCraft.fun",
       "type": "AI",
       "logo": "https://pbs.twimg.com/profile_images/1880563397655150592/C_wOzCgf_400x400.jpg",
-      "description": "Plug in AI. Earn. The 1st Decentralized AI Agent Launchpad that turns your expertise into income. Bet on people, build on @monad_xyz.",
+      "description": "Plug in AI. Earn. The 1st Decentralized AI Agent Launchpad that turns your expertise into income.",
       "monad_exclusive": "",
       "contracts": ["0xd227d3bce59b91380b7bc4a61a045b528b509439"]
     },
@@ -327,7 +327,7 @@
       "name": "Codatta",
       "type": "AI", 
       "logo": "https://pbs.twimg.com/profile_images/1795634788382203904/zTxvHedw_400x400.jpg",
-      "description": "Make AI Subscribe to Your Knowledge. Backed by @OKX_Ventures",
+      "description": "Make AI Subscribe to Your Knowledge.",
       "monad_exclusive": "",
       "contracts": ["0x7DdD7dE29a12c122AC6a97584Aa734b5d096EF8f"]
     },
@@ -343,7 +343,7 @@
       "name": "Nextmate.AI",
       "type": "Betting",
       "logo": "https://pbs.twimg.com/profile_images/1820582939110866944/3sRJ544t_400x400.jpg",
-      "description": "Decentralized AI-Driven Prediction Market！ Join us at https://t.me/nextmate_ai. Play here https://nextmate.ai/predictionMarket",
+      "description": "Decentralized AI-Driven Prediction Market！",
       "monad_exclusive": "",
       "contracts": []
     },
@@ -362,24 +362,10 @@
       ]
     },
     {
-      "name": "Folks Finance",
-      "type": "Defi",
-      "logo": "https://pbs.twimg.com/profile_images/1876186652059516928/7mUfAYZh_400x400.jpg",
-      "description": "Lend, borrow, stake and trade between @avax ⭤ @ethereum ⭤ @base ⭤ @bnbchain ⭤ @arbitrum ⭤ @algorand",
-      "monad_exclusive": "",
-      "contracts": [
-        "0x811A937b4349850AD8a52C6cA47083337d65c3dB",
-        "0x1217Fd6DDa71708FF3A8eB82602777379b59ba64",
-        "0xeA2bcd7178fa69c12389C0a5E6FfaB0B0154D653",
-        "0x0e78A4EE07e3f20ef7a21C0f61eb58FCa26d4d1f",
-        "0x3e44ba19e932F4985983994DFa1Bd01f2a2f8eE2"
-      ]
-    },
-    {
       "name": "Impossible Finance",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1388056927167340544/9SxWPsH6_400x400.jpg",
-      "description": "Building the Impossible | Accelerator, Advisor & Launchpad | Empowering users with top-tier investment opportunities. Operating @roninlaunchpad & @fuel_catalyst",
+      "description": "Building the Impossible | Accelerator, Advisor & Launchpad",
       "monad_exclusive": "",
       "contracts": []
     },
@@ -387,7 +373,7 @@
       "name": "INFINIT",
       "type": "DeFi",
       "logo": "https://pbs.twimg.com/profile_images/1881657854337413120/Q-cwamaR_400x400.jpg",
-      "description": "The DeFi Abstraction Layer For DeFAI Automate personalized intents with DeFi Agents. Backed by @ElectricCapital, @mirana, @hashed_official, and more.",
+      "description": "The DeFi Abstraction Layer For DeFAI Automate personalized intents with DeFi Agents.",
       "monad_exclusive": "",
       "contracts": []
     },
@@ -395,7 +381,7 @@
       "name": "iZUMi Finance",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1509704804032937991/5qVVZwJj_400x400.jpg",
-      "description": "iZUMi Finance is a multi-chain DeFi protocol providing one-stop DEX-as-a-Service (DaaS) Follow our socials 👉http://link3.to/izumifinance",
+      "description": "iZUMi Finance is a multi-chain DeFi protocol providing one-stop DEX-as-a-Service (DaaS).",
       "monad_exclusive": "",
       "contracts": [
         "0x64c2F1306b4ED3183E7B345158fd01c19C0d8c5E",
@@ -412,7 +398,7 @@
       "name": "Kinza Finance",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1743294053247307776/UG7myCUz_400x400.jpg",
-      "description": "The Ultimate Liquidity Hub for BTC&ETH Restaking Assets, backed by @BinanceLabs. http://discord.gg/JFXTEp8Nub http://t.me/kinza_finance",
+      "description": "The Ultimate Liquidity Hub for BTC&ETH Restaking Assets.",
       "monad_exclusive": "",
       "contracts": [
         "0x590B03D84441c1277f32784d1fbC22Fe18b1eEe0",
