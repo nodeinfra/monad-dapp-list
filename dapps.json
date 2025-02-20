@@ -1,5 +1,13 @@
 [
     {
+      "name": "nad.fun",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1827607782356619264/Owr-840k_400x400.jpg",
+      "description": "Social Memecoin Playground. Powered by Monad.",
+      "monad_exclusive": true,
+      "contracts": ["0x822eb1add41cf87c3f178100596cf24c9a6442f6"]
+    },
+    {
       "name": "Narwhal Finance",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1888827499775397888/y5kxJoAo_400x400.jpg",
