@@ -1,5 +1,13 @@
 [
     {
+      "name": "fantasy.top",
+      "type": "Prediction",
+      "logo": "https://pbs.twimg.com/profile_images/1892230717163126784/eqi-qnny_400x400.jpg",
+      "description": "Bet on your favorite 𝕏 influencers",
+      "monad_exclusive": true,
+      "contracts": []
+    },
+    {
       "name": "Chewy",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1878757174098194433/kWm-9ITJ_400x400.png",
@@ -250,7 +258,37 @@
       "logo": "https://pbs.twimg.com/profile_images/1890481278673207296/TiHA905U_400x400.png",
       "description": "DeFi from everywhere, for everyone. Powered by @wormhole",
       "monad_exclusive": false,
-      "contracts": []
+      "contracts": [ 
+	      "0xA3dbBD3887228aE84f08bE839f9e20485759a004", 
+	      "0x0f1208510A8C3373179F08F496992735a4B0878e", 
+	      "0x7a9C5264bCa5a04B7555bEe2B85c81bd85b12D51", 
+	      "0x9E8B8EF23E4dF648ad186C38868E0D09Aae0A14f", 
+	      "0xcf812caa58BEcD37DA673b6c265Bb1505b1D93a4", 
+	      "0x7fdF92a43C54171F9C278C67088ca43F2079d09b", 
+	      "0xe6DB1Fb846A59E0780124b659358B6d2ccb45A81", 
+	      "0x9E7EbD0f8255F3A910Bc77FD006A410E9D54EE36", 
+	      "0xcDA16E9c25f429F4B01A87Ff302Ee7943F2D5015", 
+	      "0xCfeE48B617F60067F1976E558D47c2Af3F9BD7a7", 
+	      "0x5b54153100e40000f6821a7EA8101DC8F5186C2D", 
+	      "0x5D876D73f4441D5f2438B1A3e2A51771B337F27A", 
+	      "0x6BB379A2056d1304E73012b99338F8F581eE2E18", 
+	      "0xDFCf14d3e2a6eB731e27A810Cb1400eEa42A7Fdc", 
+	      "0x0E1C9362CDeA1d556E5ff89140107126BAAf6b09", 
+	      "0xB5481b57fF4e23eA7D2fda70f3137b16D0D99118", 
+	      "0xB7C174bF3b05E7a4DEf6794Cac3F740D38fDAC73", 
+	      "0x2f930b339DE82F34FDbe54e872Eb4A2855B76EA2", 
+	      "0x2994Add81714dB3354dd254f60B118602F9fbe5d", 
+	      "0x21BCb0b8E3b96aFFDA697B93Be36220e82637590", 
+	      "0xfBe02Ba8f0d729A33fF8d9aCB3a4aAb47D8cf4A5", 
+	      "0x14eB1F738a2044960804A156F23243552e5a90D6", 
+	      "0xF1a75FC4C9B3785c24571aFf2cA7d44d2f7f874C", 
+	      "0x8462c247356d7deB7e26160dbFab16B351Eef242", 
+	      "0x952f9Ea592Ed1e94c0934F6835a2d27C28A001c2", 
+	      "0x9b678ff27160378EB9B847200b2eEABc7C4aEB0a", 
+	      "0x372Bf9CDf3669C5aB418B89AB1F4e29ae59b1877", 
+	      "0xa598C0533F7BDC43b9ebef054Ac92A48001BE727", 
+	      "0x2555223A15a931a71951707cb32A541f14e2c730" 
+      ]
     },
     {
       "name": "NoMoreLonely.Life",
