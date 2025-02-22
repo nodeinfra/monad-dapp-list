@@ -1,5 +1,13 @@
 [
     {
+      "name": "Flappy Monad",
+      "type": "Game",
+      "logo": "https://pbs.twimg.com/profile_images/1893215783481942016/HW-g2N5X_400x400.jpg",
+      "description": "First fully on-chain Flappy Bird game, built on Monad",
+      "monad_exclusive": true,
+      "contracts": ["0x9ed532A08B2C29bF61f3D196fE6BFC655c21cd7e"]
+    },
+    {
       "name": "fantasy.top",
       "type": "Prediction",
       "logo": "https://pbs.twimg.com/profile_images/1892230717163126784/eqi-qnny_400x400.jpg",
