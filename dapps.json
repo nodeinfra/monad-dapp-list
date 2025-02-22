@@ -432,7 +432,7 @@
       "logo": "https://pbs.twimg.com/profile_images/1867666284353036288/VQntKH9l_400x400.png",
       "description": "Merging orderbook efficiency with AMM liquidity into personalized orderbooks.",
       "monad_exclusive": true,
-      "contracts": []
+      "contracts": ["0xC995498c22a012353FAE7eCC701810D673E25794"]
     },
     {
       "name": "Sparkball",
