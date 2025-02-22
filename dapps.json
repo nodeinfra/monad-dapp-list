@@ -253,11 +253,11 @@
       "contracts": []
     },
     {
-      "name": "Curvanance",
+      "name": "Curvance",
       "type": "Defi",
       "logo": "https://pbs.twimg.com/profile_images/1890481278673207296/TiHA905U_400x400.png",
       "description": "DeFi from everywhere, for everyone. Powered by @wormhole",
-      "monad_exclusive": false,
+      "monad_exclusive": true,
       "contracts": [ 
 	      "0xA3dbBD3887228aE84f08bE839f9e20485759a004", 
 	      "0x0f1208510A8C3373179F08F496992735a4B0878e", 
