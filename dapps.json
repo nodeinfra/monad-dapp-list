@@ -604,7 +604,7 @@
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1686951614656225280/eb1BN7ld_400x400.jpg",
         "description": "Zero-to-One Decentralized Trading Protocol.",
-        "monad_exclusive": "",
+        "monad_exclusive": "false",
         "contracts": ["0x88B96aF200c8a9c35442C8AC6cd3D22695AaE4F0"]
     },
     {
