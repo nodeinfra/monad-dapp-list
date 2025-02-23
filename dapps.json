@@ -54,8 +54,8 @@
         "type": "Prediction",
         "logo": "https://pbs.twimg.com/profile_images/1892230717163126784/eqi-qnny_400x400.jpg",
         "description": "Bet on your favorite 𝕏 influencers",
-        "monad_exclusive": true,
-        "contracts": []
+        "monad_exclusive": false,
+        "contracts": ["0xfA4D5a9ceA2822BA08d0266F121011aC527ced64"]
     },
     {
         "name": "Chewy",
