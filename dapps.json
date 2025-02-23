@@ -370,7 +370,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1828047418304409601/GGXw7DEE_400x400.jpg",
         "description": "We revolutionize this and that to make a better world for bagholders.",
         "monad_exclusive": true,
-        "contracts": []
+        "contracts": ["0x18C9534dfe16a0314B66395F48549716FfF9AA66", "0xd3E51bfEE95E31760B671AfEF9763fB2CF4A375a"]
     },
     {
         "name": "Holdara",
