@@ -30,28 +30,6 @@
             "0x1cD929af003B72C77FDD25511890B42b99153eAa",
             "0xce94391ed2e95b13d41aE3FeF7A27499Ac4C3E01" 
         ]
-    },
-    {
-        "name": "Talentum",
-        "type": "Social",
-        "logo": "https://pbs.twimg.com/profile_images/1887928331066060801/_ahPl-Y4_400x400.jpg",
-        "description": "1st of its kind: combined with SocialFi and GambleFi dynamics",
-        "monad_exclusive": false,
-        "contracts": [
-            "0xEf01ef16dB18D78552881FE0c45cD4c1A0D26E30",
-            "0x89Cb2761A18eD26D39c6cDBE89BbFaace3bd919d",
-            "0xE9027dE44Da8174079E9f35639a5005076E0402e",
-            "0x2519620eA16b0a6ce4D3751A9E431968bDB1A3ec",
-            "0xBf0333c952Cf2261067D028b57e3480FB5F81027",
-            "0xa723f242b46B323b1E576884c5126619340f0D4c",
-            "0xdC30709A9626F43B6cadC9fC5FF9C79DA836DC91",
-            "0xE4Ba314ebb73B9A1dEbe0709B3005933e45447D4",
-            "0xFdf2f120833A9d86E1c6BAB0254a3Cd2138211EF",
-            "0xf5bC687410583D39C0edf806948Cfa08A86AbEB8",
-            "0x79Ee84D10369Fc6e62e94399b75b26C3Aa8411da",
-            "0x1cD929af003B72C77FDD25511890B42b99153eAa",
-            "0xce94391ed2e95b13d41aE3FeF7A27499Ac4C3E01" 
-        ]
 
 
     },
