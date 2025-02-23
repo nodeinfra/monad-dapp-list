@@ -354,7 +354,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1875333130246057985/L0YkWW0T_400x400.jpg",
         "description": "Let’s Make Dex experience fun on Monad.",
         "monad_exclusive": true,
-        "contracts": []
+        "contracts": ["0xd829c1d3649dbc3fd96d3d22500ef33a46daae46", "0x8e9ee594125019cb0a658df98809f8ab8ad41f45", "0xcbcd292c9dae11875e090bb963aa4c74ccce6a23"]
     },
     {
         "name": "Monad Pad",
