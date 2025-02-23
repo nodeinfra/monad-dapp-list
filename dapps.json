@@ -216,8 +216,10 @@
         "logo": "https://pbs.twimg.com/profile_images/1834464053701607424/bgW06V3j_400x400.jpg",
         "description": "World's first protocol for LSDs with no lockups, hedge against volatility of the underlying asset.",
         "monad_exclusive": false,
-        "contracts": ["0x14c17817F5De551db8dFC9071Af53BBE26C6Ff71"]
-    },
+        "contracts": ["0x14c17817F5De551db8dFC9071Af53BBE26C6Ff71",
+                      "0x199c0Da6F291a897302300AAAe4F20d139162916" 
+                     ]
+    }
     {
         "name": "Zaros",
         "type": "Defi",
