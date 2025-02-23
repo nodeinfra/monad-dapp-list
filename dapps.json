@@ -4,7 +4,7 @@
         "type": "NFT",
         "logo": "https://pbs.twimg.com/profile_images/1886971538169323521/rec2Sh_B_400x400.jpg",
         "description": "Kickstart your next project with Opals",
-        "monad_exclusive": false,
+        "monad_exclusive": true,
         "contracts": [
             "0x23B5938F89d19a03cF00E08579cF9328EF7B615a"
         ]
@@ -215,7 +215,7 @@
         "type": "Staking",
         "logo": "https://pbs.twimg.com/profile_images/1834464053701607424/bgW06V3j_400x400.jpg",
         "description": "World's first protocol for LSDs with no lockups, hedge against volatility of the underlying asset.",
-        "monad_exclusive": false,
+        "monad_exclusive": true,
         "contracts": ["0x14c17817F5De551db8dFC9071Af53BBE26C6Ff71"]
     },
     {
@@ -307,7 +307,7 @@
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1890481278673207296/TiHA905U_400x400.png",
         "description": "DeFi from everywhere, for everyone. Powered by @wormhole",
-        "monad_exclusive": true,
+        "monad_exclusive": false,
         "contracts": [ 
             "0xA3dbBD3887228aE84f08bE839f9e20485759a004", 
             "0x0f1208510A8C3373179F08F496992735a4B0878e", 
@@ -513,7 +513,7 @@
         "type": "AI",
         "logo": "https://pbs.twimg.com/profile_images/1880563397655150592/C_wOzCgf_400x400.jpg",
         "description": "Plug in AI. Earn. The 1st Decentralized AI Agent Launchpad that turns your expertise into income.",
-        "monad_exclusive": "",
+        "monad_exclusive": "true",
         "contracts": ["0xd227d3bce59b91380b7bc4a61a045b528b509439"]
     },
     {
@@ -521,7 +521,7 @@
         "type": "AI", 
         "logo": "https://pbs.twimg.com/profile_images/1795634788382203904/zTxvHedw_400x400.jpg",
         "description": "Make AI Subscribe to Your Knowledge.",
-        "monad_exclusive": "",
+        "monad_exclusive": "false",
         "contracts": ["0x7DdD7dE29a12c122AC6a97584Aa734b5d096EF8f"]
     },
     {
@@ -612,7 +612,7 @@
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1875029488180080640/vVqXpCvW_400x400.jpg",
         "description": "Gamified on-chain Spot & Perpetual DEX natively built on Monad ⨀ Powered by Pyth 🔮",
-        "monad_exclusive": "",
+        "monad_exclusive": "true",
         "contracts": ["0xca810d095e90daae6e867c19df6d9a8c56db2c89"]
     },
     {
