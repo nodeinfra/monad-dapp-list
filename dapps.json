@@ -159,7 +159,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1882928904589254656/HOrr3i1H_400x400.png",
         "description": "First and only .nad name service on @Monad_xyz.",
         "monad_exclusive": true,
-        "contracts": []
+        "contracts": ["0x758D80767a751fc1634f579D76e1CcaAb3485c9c"]
     },
     {
         "name": "Dirol",
@@ -216,7 +216,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1834464053701607424/bgW06V3j_400x400.jpg",
         "description": "World's first protocol for LSDs with no lockups, hedge against volatility of the underlying asset.",
         "monad_exclusive": false,
-        "contracts": []
+        "contracts": ["0x14c17817F5De551db8dFC9071Af53BBE26C6Ff71"]
     },
     {
         "name": "Zaros",
