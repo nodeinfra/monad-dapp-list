@@ -1,5 +1,20 @@
 [
     {
+        "name": "Crystal",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1879675733162827777/8LXGXCcY_400x400.jpg",
+        "description": "Crystal is a fully on-chain CLOB exchange that brings CEX-grade performance to the EVM",
+        "monad_exclusive": true,
+        "contracts": [
+            "0xefe2f96DF94Bd1337E79bdF3D524cEc44b10B45C",
+            "0x3E186070cb7a1B2C498cD7347735859Bc5ae278D",
+            "0x3514E481e658533EE4d02A7De53C19A803F1783F",
+            "0x35e79dac2EF49aBD319F50d028F99e7d0f1a3559",
+            "0x302f9eadE89F38Cef56a252C8F84f3a1F7f94933",
+            "0x20db6a0DB7B47539E513CE29Ac4018fe504FBb2a",
+        ]
+    },
+    {
         "name": "Opals",
         "type": "NFT",
         "logo": "https://pbs.twimg.com/profile_images/1886971538169323521/rec2Sh_B_400x400.jpg",
