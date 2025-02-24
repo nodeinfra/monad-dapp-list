@@ -1,5 +1,20 @@
 [
     {
+        "name": "Fizen",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1882605133584027648/AwUfhIOh_400x400.jpg",
+        "description": "Fizen Super App w/ Crypto Payments at 10,000 TPS on Monad",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x985ddbb8dd2c6eba617fa059e75f61c329d7501d",
+            "0x40d224b96ce70cbcbda7735d1085d66f7d8da473",
+            "0x78dc21acea2a3de42f222313744972244f12ae87",
+            "0xb7670fe22654ada625311ba76a84125fa00138a9",
+            "0xc368e98be777820c0bcc9414b576ef0636336288",
+            "0x374eb01ce9a641d2bb2d39c0467f7d0b92f18409"
+        ]
+    },
+    {
         "name": "Crystal",
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1879675733162827777/8LXGXCcY_400x400.jpg",
