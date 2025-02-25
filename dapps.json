@@ -484,7 +484,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1802788848956506112/KJnlcaQj_400x400.jpg",
         "description": "Building the culture of sports onchain.",
         "monad_exclusive": true,
-        "contracts": ["0x3AD50059d6008b711209A509Fe58E68F0B672a42"]
+        "contracts": ["0x047b1457956F31bcbC966F99180B6410a5f817E5", "0x80B3480695D94d6c0Cc305e77f2001062807F031", "0x8a86d48c867b76FF74A36d3AF4d2F1E707B143eD", "0xF70DA0470B81315Fe9cEb695c9bE89F67713C815", "0x3AD50059d6008b711209A509Fe58E68F0B672a42"]
     },
     {
         "name": "Modus",
