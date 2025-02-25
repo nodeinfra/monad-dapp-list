@@ -175,7 +175,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1889795497059143680/c-neRA1E_400x400.png",
         "description": "Creators of sMON and the most decentralized and powerful Liquid Staking protocol ever made.",
         "monad_exclusive": true,
-        "contracts": []
+        "contracts": ["0x51E6da0E284609cD96e3134B12E94b4C4F0cA241", "0x07AabD925866E8353407E67C1D157836f7Ad923e"]
     },
     {
         "name": "aPriori",
