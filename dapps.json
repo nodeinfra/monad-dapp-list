@@ -1,5 +1,21 @@
 [
     {
+        "name": "Magic Eden",
+        "type": "NFT",
+        "logo": "https://pbs.twimg.com/profile_images/1833545964285513728/oPr7l7VU_400x400.jpg",
+        "description": "Gmonad 💜 Magic Eden",
+        "monad_exclusive": false,
+        "contracts": ["0x224ecB4Eae96d31372D1090c3B0233C8310dBbaB", "0x0000000000000068F116a894984e2DB1123eB395"]
+    },
+    {
+        "name": "Zaros Finance",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1877572008512204800/KwLZqD6k_400x400.jpg",
+        "description": "Trade, Earn, and Build Derivatives on Zaros",
+        "monad_exclusive": false,
+        "contracts": ["0x6D90B34da7e2AdCB07FDf096242875ff7941eC74"]
+    },
+    {
         "name": "Monarch",
         "type": "AI",
         "logo": "https://pbs.twimg.com/profile_images/1891939490769567744/OpT7M2-5_400x400.png",
@@ -169,7 +185,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1888827499775397888/y5kxJoAo_400x400.jpg",
         "description": "AI-Driven Trading; Gamified Glory; only on Monad",
         "monad_exclusive": true,
-        "contracts": []
+        "contracts": ["0x6593F49Ca8D3038cA002314C187b63dD348c2F94"]
     },
     {
         "name": "Magma",
