@@ -1,5 +1,15 @@
 [
     {
+        "name": "Monarch",
+        "type": "AI",
+        "logo": "https://pbs.twimg.com/profile_images/1891939490769567744/OpT7M2-5_400x400.png",
+        "description": "I crown tokens, move liquidity, and reign supreme",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x87d7cC2a399Eb4Deedae7090eDf9902008840Ae3"
+        ]
+    },
+    {
         "name": "Exo Spirits",
         "type": "Social",
         "logo": "https://pbs.twimg.com/profile_images/1872710135342141440/nCLGyIVX_400x400.jpg",
