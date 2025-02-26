@@ -1,5 +1,13 @@
 [
     {
+        "name": "Pancake Swap",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1874650049172705281/OOl4g9ZD_400x400.jpg",
+        "description": "Everyone's Favorite DEX",
+        "monad_exclusive": false,
+        "contracts": ["0xb5cd83754FceCFFC37C5d6008ca56a28cf99191e"]
+    },
+    {
         "name": "Magic Eden",
         "type": "NFT",
         "logo": "https://pbs.twimg.com/profile_images/1833545964285513728/oPr7l7VU_400x400.jpg",
