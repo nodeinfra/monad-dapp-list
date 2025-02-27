@@ -1,5 +1,21 @@
 [
     {
+        "name": "Owlto Finance",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1886736859054923778/Iv098oCX_400x400.jpg",
+        "description": "🦉 An intent-centric interoperability protocol",
+        "monad_exclusive": false,
+        "contracts": ["0x05c4c16F7aAF68EFca9b32f5e6AE260Fa2c26B2c"]
+    },
+    {
+        "name": "Uniswap",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1831348758753206272/y2Z0hMrl_400x400.jpg",
+        "description": "The largest onchain marketplace.",
+        "monad_exclusive": false,
+        "contracts": ["0x3aE6D8A282D67893e17AA70ebFFb33EE5aa65893"]
+    },
+    {
         "name": "Pancake Swap",
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1874650049172705281/OOl4g9ZD_400x400.jpg",
