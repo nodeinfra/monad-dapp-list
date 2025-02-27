@@ -50,6 +50,7 @@
         "description": "Fizen Super App w/ Crypto Payments at 10,000 TPS on Monad",
         "monad_exclusive": false,
         "contracts": [
+            "0x9c766d18493e56174Fb8c85E20B374CB8780dF1f",
             "0x985ddbb8dd2c6eba617fa059e75f61c329d7501d",
             "0x40d224b96ce70cbcbda7735d1085d66f7d8da473",
             "0x78dc21acea2a3de42f222313744972244f12ae87",
