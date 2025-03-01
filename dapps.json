@@ -107,6 +107,15 @@
         "description": "1st of its kind: combined with SocialFi and GambleFi dynamics",
         "monad_exclusive": false,
         "contracts": [
+              "0x938040943A712E381732215aF499123857bd6FC4",
+              "0x260f79C677E12aeCB03C69b481eF1B35512C7837",
+              "0x7De60c03E2CeAF3D96E5FbD0278C6EC07bB0E182",
+              "0xF8636866Af66124ebB9e217Aa9DDc6994B5986AE",
+              "0x9eBA691d4B08Da1806b0E0f26bf2257AC17AeA77",
+              "0x45F5C5AF2ebD444bC102557Ea638812d9a939F1E",
+              "0x1815FA538b3B47216317b38EFe1965Be333bcC65",
+
+
             "0xEf01ef16dB18D78552881FE0c45cD4c1A0D26E30",
             "0x89Cb2761A18eD26D39c6cDBE89BbFaace3bd919d",
             "0xE9027dE44Da8174079E9f35639a5005076E0402e",
