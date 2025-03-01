@@ -515,7 +515,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1889975983941591040/NeddfENS_400x400.jpg",
         "description": "Tap into the new world of social media betting.",
         "monad_exclusive": true,
-        "contracts": ["0xc816865f172d640d93712C68a7E1F83F3fA63235"]
+        "contracts": []
     },
     {
         "name": "Townesquare",
