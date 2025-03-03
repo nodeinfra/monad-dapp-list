@@ -571,7 +571,11 @@
         "logo": "https://pbs.twimg.com/profile_images/1559273554876633088/M3Pk_USD_400x400.jpg",
         "description": "Accelerating execution & security on Monad with FastLane for Validators",
         "monad_exclusive": false,
-        "contracts": []
+        "contracts": [
+            "0x9eaba701a49ade7525dffe338f0c7e06eca7cf07",
+            "0x3a98250F98Dd388C211206983453837C8365BDc1",
+            "0x686bff22da7eecff8d9606e81b1a8ce15dd925b7"
+        ]
     },
     {
         "name": "Monorail",
