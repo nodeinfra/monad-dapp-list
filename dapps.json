@@ -220,7 +220,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1827607782356619264/Owr-840k_400x400.jpg",
         "description": "Social Memecoin Playground. Powered by Monad.",
         "monad_exclusive": true,
-        "contracts": ["0x822eb1add41cf87c3f178100596cf24c9a6442f6"]
+        "contracts": ["0x822eb1add41cf87c3f178100596cf24c9a6442f6", "0x619d07287e87c9c643c60882ca80d23c8ed44652"]
     },
     {
         "name": "Narwhal Finance",
