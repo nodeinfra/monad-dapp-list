@@ -378,6 +378,9 @@
         "description": "RWA on Monad | Join the Yield Mu-vement",
         "monad_exclusive": true,
         "contracts": [
+            "0x49FDEEe09430dd74d2a7FaB8b5157F9D47BcA87f",
+            "0x87d28Ff0a712b28D2f89B228118Af5e4F84045B4",
+            "0x0EfeD4D9fB7863ccC7bb392847C08dCd00FE9bE2",
             "0x1a5c6875BCB96b31d312f9ba36Ff8aF35b748163",
             "0x87d28Ff0a712b28D2f89B228118Af5e4F84045B4",
             "0xab832F9d41788A792b9801A4889DB90c7e28cA3e"
