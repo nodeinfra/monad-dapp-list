@@ -762,14 +762,6 @@
         "contracts": ["0xbd03338D0740cAC5929CF605a3C246B32C489fD5"]
     },
     {
-        "name": "Folks Finance",
-        "type": "Defi",
-        "logo": "https://pbs.twimg.com/profile_images/1876186652059516928/7mUfAYZh_400x400.jpg",
-        "description": "Lend, borrow, stake and trade.",
-        "monad_exclusive": "",
-        "contracts": []
-    },
-    {
         "name": "Fufuture",
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1780486877235249152/3jHe57EW_400x400.jpg",
