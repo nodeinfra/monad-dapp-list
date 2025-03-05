@@ -736,11 +736,62 @@
     },
     {
         "name": "Zona",
-        "type": "Game",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1816376732183863296/YK5ufOqo_400x400.png",
         "description": "Scalable and composable RWAs || 🏙️ Long or short housing prices in 🇨🇳🇮🇳🇭🇰🇸🇬 🇦🇺🇦🇪",
         "monad_exclusive": "",
         "contracts": ["0xCF91CD9f22889F1E8631a51B6115B46B51548202"]
+    },
+    {
+      "name": "Demask Finance",
+      "type": "Defi",
+      "logo": "https://pbs.twimg.com/profile_images/1760896467370139648/cPAMD1ra_400x400.jpg",
+      "description": "NFT-Fi project on @monad_xyz 💜",
+      "monad_exclusive": "",
+      "contracts": [
+        "0xd70160709b01d7e5E3CDEfB80eb7807345bB51c2",
+        "0x61d312360E36a6045cf4b96dDb64Cc721D9CcAC8"
+      ]
+    },
+    {
+        "name": "Defx",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1748268807964205056/kfUHpQV1_400x400.jpg",
+        "description": "A pretty good perp DEX. Tweets, voice and opinions by Defx intern™.",
+        "monad_exclusive": "",
+        "contracts": ["0xbd03338D0740cAC5929CF605a3C246B32C489fD5"]
+    },
+    {
+        "name": "Folks Finance",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1876186652059516928/7mUfAYZh_400x400.jpg",
+        "description": "Lend, borrow, stake and trade.",
+        "monad_exclusive": "",
+        "contracts": []
+    },
+    {
+        "name": "Fufuture",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1780486877235249152/3jHe57EW_400x400.jpg",
+        "description": "Perpetual options, 0 slippage, never liquidate, dual pools.",
+        "monad_exclusive": "",
+        "contracts": []
+    },
+    {
+        "name": "Golden Goose",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1839294437803044870/DMmcRsCR_400x400.jpg",
+        "description": "The first real super hybrid yields platform incubated by @cyclenetwork_GO",
+        "monad_exclusive": "",
+        "contracts": []
+    },
+    {
+        "name": "hashflow",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1847278911270350848/02xMr_HB_400x400.png",
+        "description": "Powering DeFi with RFQ. Proving Exchanges with xOS.",
+        "monad_exclusive": "",
+        "contracts": ["0xCa310B1B942A30Ff4b40a5E1b69AB4607eC79Bc1"]
     },
     {
         "name": "Kuru",
