@@ -325,11 +325,13 @@
         "logo": "https://pbs.twimg.com/profile_images/1834464053701607424/bgW06V3j_400x400.jpg",
         "description": "World's first protocol for LSDs with no lockups, hedge against volatility of the underlying asset.",
         "monad_exclusive": true,
-        "contracts": ["0xaC65Aa139370e3D50525AB24dfC534942968a62D", 
-                      "0x14c17817F5De551db8dFC9071Af53BBE26C6Ff71", 
-                      "0x199c0Da6F291a897302300AAAe4F20d139162916",
-                      "0xd026e90B490115CeE33c34f1aE56c23dD65b3B90",
-                      "0xF4cA0DC6b15F20E0B7d172746F3DeE98c9aB0Fb4" ]
+        "contracts": [
+          "0xaC65Aa139370e3D50525AB24dfC534942968a62D", 
+          "0x14c17817F5De551db8dFC9071Af53BBE26C6Ff71", 
+          "0x199c0Da6F291a897302300AAAe4F20d139162916",
+          "0xd026e90B490115CeE33c34f1aE56c23dD65b3B90",
+          "0xF4cA0DC6b15F20E0B7d172746F3DeE98c9aB0Fb4"
+        ]
     },
     {
         "name": "Zaros",
@@ -382,7 +384,6 @@
             "0x87d28Ff0a712b28D2f89B228118Af5e4F84045B4",
             "0x0EfeD4D9fB7863ccC7bb392847C08dCd00FE9bE2",
             "0x1a5c6875BCB96b31d312f9ba36Ff8aF35b748163",
-            "0x87d28Ff0a712b28D2f89B228118Af5e4F84045B4",
             "0xab832F9d41788A792b9801A4889DB90c7e28cA3e"
         ]
     },
@@ -470,7 +471,11 @@
         "logo": "https://pbs.twimg.com/profile_images/1875333130246057985/L0YkWW0T_400x400.jpg",
         "description": "Let’s Make Dex experience fun on Monad.",
         "monad_exclusive": true,
-        "contracts": ["0xd829c1d3649dbc3fd96d3d22500ef33a46daae46", "0x8e9ee594125019cb0a658df98809f8ab8ad41f45", "0xcbcd292c9dae11875e090bb963aa4c74ccce6a23"]
+        "contracts": [
+          "0xd829c1d3649dbc3fd96d3d22500ef33a46daae46", 
+          "0x8e9ee594125019cb0a658df98809f8ab8ad41f45", 
+          "0xcbcd292c9dae11875e090bb963aa4c74ccce6a23"
+        ]
     },
     {
         "name": "Monad Pad",
@@ -534,7 +539,13 @@
         "logo": "https://pbs.twimg.com/profile_images/1802788848956506112/KJnlcaQj_400x400.jpg",
         "description": "Building the culture of sports onchain.",
         "monad_exclusive": true,
-        "contracts": ["0x047b1457956F31bcbC966F99180B6410a5f817E5", "0x80B3480695D94d6c0Cc305e77f2001062807F031", "0x8a86d48c867b76FF74A36d3AF4d2F1E707B143eD", "0xF70DA0470B81315Fe9cEb695c9bE89F67713C815", "0x3AD50059d6008b711209A509Fe58E68F0B672a42"]
+        "contracts": [
+          "0x047b1457956F31bcbC966F99180B6410a5f817E5", 
+          "0x80B3480695D94d6c0Cc305e77f2001062807F031", 
+          "0x8a86d48c867b76FF74A36d3AF4d2F1E707B143eD", 
+          "0xF70DA0470B81315Fe9cEb695c9bE89F67713C815", 
+          "0x3AD50059d6008b711209A509Fe58E68F0B672a42"
+        ]
     },
     {
         "name": "Modus",
@@ -683,7 +694,7 @@
         "contracts": [
             "0x64c2F1306b4ED3183E7B345158fd01c19C0d8c5E",
             "0xED9b4E3ED8fe7e820B950F28f939AF848f98e995",
-            "0x706A11AF5bb5C2a50aB9802503ddbfF69373D1bd", 
+            "0x706A11AF5bb5C2a50aB9802503ddbfF69373D1bd",
             "0x817EC83Fb6906ba0777E89110d5089313385F4A2",
             "0xAF931D7AaB9643d1E63Ed2E1fB17911c65e09678",
             "0x29b66280F0Ea5F5DfbD7C94D560FC060575360cd",
