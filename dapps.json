@@ -736,7 +736,7 @@
     },
     {
         "name": "Zona",
-        "type": "Betting",
+        "type": "Game",
         "logo": "https://pbs.twimg.com/profile_images/1816376732183863296/YK5ufOqo_400x400.png",
         "description": "Scalable and composable RWAs || 🏙️ Long or short housing prices in 🇨🇳🇮🇳🇭🇰🇸🇬 🇦🇺🇦🇪",
         "monad_exclusive": "",
