@@ -32,6 +32,14 @@
         "contracts": ["0xb5cd83754FceCFFC37C5d6008ca56a28cf99191e"]
     },
     {
+        "name": "Covenant",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1760674458497654784/SeqF3eEq_400x400.jpg",
+        "description": "Liberating token liquidity. Lever up or earn yield, through tradeable debt markets.",
+        "monad_exclusive": false,
+        "contracts": ["0x1d30392503203dd42f5516B32dACA6b2e11F71d7"]
+    },
+    {
         "name": "Magic Eden",
         "type": "NFT",
         "logo": "https://pbs.twimg.com/profile_images/1833545964285513728/oPr7l7VU_400x400.jpg",
