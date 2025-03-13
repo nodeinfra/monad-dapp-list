@@ -5819,5 +5819,17 @@
             "0x70b9cefc12b7ca7e6e556c58f185961bb1d1bebf",
             "0xaf1e345f4d78dc0f2dfe333831dfd5ebeb141e52"
         ]
+    },
+    {
+        "name": "O.LAB",
+        "type": "Prediction",
+        "logo": "https://static.olab.xyz/OlabIcon.jpg",
+        "description": "The World's Opinion Protocol, enabling anyone to create predictions using any token in a decentralized, permissionless way. The O.LAB product suite empower users to predict, trade, and verify truth like never before.",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x9f2515fA41c85208bc51309693e768F577C4B924",
+            "0x024dDBC9559b7d1D076A83dD03a3e44aa7eD916f",
+            "0x1cc00c2669a9ee82ab1088e1b172f9da4bf4bfff"
+        ]
     }
 ]
