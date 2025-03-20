@@ -108,12 +108,21 @@
     },
     {
         "name": "Opals",
-        "type": "NFT",
+        "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1886971538169323521/rec2Sh_B_400x400.jpg",
-        "description": "Kickstart your next project with Opals",
+        "description": "Kickstart with Opals.io => PatronNFTs + Token Launcher + Diamond Hand Vesting",
         "monad_exclusive": true,
         "contracts": [
-            "0x23B5938F89d19a03cF00E08579cF9328EF7B615a"
+            "0x23B5938F89d19a03cF00E08579cF9328EF7B615a",
+            "0xcf311F55A787f4ae2AC03879ba8dBF2184d6b109",
+            "0x7a93589147246e93D0A52e8EEbF7d8dD1A1172A6",
+            "0xCE754009a519a302d09693cC402CC6ba0809d35E",
+            "0x6a0be6487344ed6b276ee7779c140e0d07c55eb2",
+            "0x7bcd924cd5d3b18c54ab19287d35452d03175e60",
+            "0x2ed9bbfc150d794b50a308e5b16e8ee8f33f4e0a",
+            "0xa62af50bc0bc44d8b7e740a22f540d0fc32226e3",
+            "0x9a8b3623b2f7abcdeb7a7cbd3f007854750d85d6"
+
         ]
     },
     {
