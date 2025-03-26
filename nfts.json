@@ -78,5 +78,9 @@
     {
         "name": "Wonad | Plant to Earn",
         "contracts": ["0x9a452f1ae5c1927259dacfa3fd58ede9679c61d0"]
+    },
+    {
+        "name": "Lootie Bandits",
+        "contracts": ["0x5666476cdd401289b84b34e8bd74e695d596600a"] 
     }
 ]

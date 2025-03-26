@@ -5836,5 +5836,18 @@
             "0x024dDBC9559b7d1D076A83dD03a3e44aa7eD916f",
             "0x1cc00c2669a9ee82ab1088e1b172f9da4bf4bfff"
         ]
+    },
+    {
+        "name": "LootGO",
+        "type": "Social",
+        "logo": "https://pbs.twimg.com/profile_images/1894255158218907648/P2CmvTG0_400x400.jpg",
+        "description": "A free walk-to-earn mobile game. Turn your daily life into a treasure hunt!",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x7aBa1665355D1A23d2Ce551d167A4Fe709fEB485",
+            "0xB05bC271F3Fe62bB94142e118195a191138B8368",
+            "0xbF004aA0b6c6e1bD183851385D22e53dFF816943",
+            "0x5666476cdd401289b84b34e8bd74e695d596600a"
+        ]
     }
 ]
