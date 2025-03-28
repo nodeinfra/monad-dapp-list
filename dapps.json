@@ -5849,5 +5849,15 @@
             "0xbF004aA0b6c6e1bD183851385D22e53dFF816943",
             "0x5666476cdd401289b84b34e8bd74e695d596600a"
         ]
+    },
+    {
+        "name": "Monad Cam",
+        "type": "NFT",
+        "logo": "https://pbs.twimg.com/profile_images/1904394848087777281/BLAj_Xr-_400x400.jpg",
+        "description": "Capture moments, Earn rewards on @monadcam",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x526764626f9b83B5A2FcDac5Dbd921E3b7d24E21"
+        ]
     }
 ]
