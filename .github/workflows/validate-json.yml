@@ -2,7 +2,7 @@ name: Validate JSON
 
 on:
   pull_request:
-    branches: [ main, shinhwi ]
+    branches: [ main ]
     paths:
       - '**.json'
   push:
@@ -18,5 +18,5 @@ jobs:
       
       - name: Validate JSON
         uses: OrRosenblatt/validate-json-action@0.1.0
-        with:
-          pattern: '**/*.json'
+        env:
+          INPUT_JSONS: ./dapps.json,./nfts.json
