@@ -1,0 +1,20 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '**.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Validate JSON
+        uses: OrRosenblatt/validate-json-action@0.1.0
+        with:
+          # 검사할 JSON 파일의 패턴
+          # 기본값은 프로젝트 내 모든 JSON 파일 검사
+          pattern: '**/*.json'
