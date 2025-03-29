@@ -1,4 +1,4 @@
-name: Validate JSON Syntax
+name: Validate JSON
 
 on:
   pull_request:
@@ -16,14 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Validate JSON syntax
-        run: |
-          find . -name "*.json" -type f -print0 | while IFS= read -r -d '' file; do
-            echo "Validating $file"
-            if jq empty "$file"; then
-              echo "✅ $file is valid JSON"
-            else
-              echo "❌ $file is invalid JSON"
-              exit 1
-            fi
-          done
+      - name: Validate JSON
+        uses: OrRosenblatt/validate-json-action@0.1.0
+        env:
+          INPUT_JSONS: ./dapps.json,./nfts.json
