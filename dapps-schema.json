@@ -21,11 +21,13 @@
           "type": "string"
         },
         "monad_exclusive": {
-          "type": ["boolean", "string", "null"],
           "oneOf": [
             { "type": "boolean" },
             { "type": "null" },
-            { "type": "string", "enum": [""] }
+            { 
+              "type": "string", 
+              "enum": ["", "true", "false"] 
+            }
           ]
         },
         "contracts": {

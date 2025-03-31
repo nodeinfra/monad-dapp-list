@@ -34,7 +34,8 @@ jobs:
           
           const ajv = new Ajv({ 
             allErrors: true,
-            verbose: true 
+            verbose: true,
+            strict: false  // strict 모드 비활성화
           });
           addFormats(ajv);
           
@@ -48,12 +49,8 @@ jobs:
             
             // 각 항목의 monad_exclusive 필드 확인 (디버깅 목적)
             dapps.forEach((dapp, index) => {
-              if (dapp.monad_exclusive !== undefined && 
-                  dapp.monad_exclusive !== true && 
-                  dapp.monad_exclusive !== false && 
-                  dapp.monad_exclusive !== null && 
-                  dapp.monad_exclusive !== '') {
-                console.log(\`정보: dapp[\${index}].monad_exclusive 값 확인: \${JSON.stringify(dapp.monad_exclusive)}, 타입: \${typeof dapp.monad_exclusive}\`);
+              if (dapp.monad_exclusive !== undefined) {
+                console.log(\`정보: dapp[\${index}].monad_exclusive 값: \${JSON.stringify(dapp.monad_exclusive)}, 타입: \${typeof dapp.monad_exclusive}\`);
               }
             });
             
@@ -92,7 +89,8 @@ jobs:
           
           const ajv = new Ajv({ 
             allErrors: true,
-            verbose: true 
+            verbose: true,
+            strict: false  // strict 모드 비활성화
           });
           addFormats(ajv);
           
