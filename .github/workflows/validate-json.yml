@@ -2,13 +2,14 @@ name: Validate JSON
 
 on:
   pull_request:
-    branches: [ main ]
     paths:
-      - '**.json'
+      - '*.json'
   push:
-    branches: [ main, shinhwi ]
+    branches:
+      - main
+      - shinhwi
     paths:
-      - '**.json'
+      - '*.json'
 
 jobs:
   validate-json:
@@ -16,7 +17,106 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Validate JSON
-        uses: OrRosenblatt/validate-json-action@0.1.0
-        env:
-          INPUT_JSONS: ./dapps.json,./nfts.json
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install ajv ajv-formats
+        
+      - name: Validate JSON files
+        run: |
+          node -e "
+          const fs = require('fs');
+          const Ajv = require('ajv');
+          const addFormats = require('ajv-formats');
+          
+          const ajv = new Ajv({ allErrors: true });
+          addFormats(ajv);
+          
+          // 스키마 로드
+          const schema = JSON.parse(fs.readFileSync('./schema.json', 'utf8'));
+          
+          // dapps.json 검증
+          try {
+            const dapps = JSON.parse(fs.readFileSync('./dapps.json', 'utf8'));
+            
+            // 이름 중복 검사
+            const names = dapps.map(d => d.name);
+            const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
+            
+            if (duplicateNames.length > 0) {
+              console.error('Error in dapps.json: Duplicate dapp names found:', [...new Set(duplicateNames)]);
+              process.exit(1);
+            }
+            
+            // 계약 주소 중복 검사
+            const allContracts = dapps.flatMap(d => d.contracts);
+            const normalizedContracts = allContracts.map(c => c.toLowerCase());
+            const duplicateContracts = normalizedContracts.filter((contract, index) => 
+              normalizedContracts.indexOf(contract) !== index
+            );
+            
+            if (duplicateContracts.length > 0) {
+              console.error('Error in dapps.json: Duplicate contract addresses found:', [...new Set(duplicateContracts)]);
+              process.exit(1);
+            }
+            
+            // JSON 스키마 검증
+            const dappValidator = ajv.compile(schema);
+            const dappValid = dappValidator(dapps);
+            
+            if (!dappValid) {
+              console.error('dapps.json validation errors:');
+              console.error(dappValidator.errors);
+              process.exit(1);
+            }
+            
+            console.log('dapps.json is valid');
+          } catch (error) {
+            console.error('Error validating dapps.json:', error.message);
+            process.exit(1);
+          }
+          
+          // nfts.json 검증
+          try {
+            const nfts = JSON.parse(fs.readFileSync('./nfts.json', 'utf8'));
+            
+            // 이름 중복 검사
+            const names = nfts.map(n => n.name);
+            const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
+            
+            if (duplicateNames.length > 0) {
+              console.error('Error in nfts.json: Duplicate NFT names found:', [...new Set(duplicateNames)]);
+              process.exit(1);
+            }
+            
+            // 계약 주소 중복 검사
+            const allContracts = nfts.flatMap(n => n.contracts);
+            const normalizedContracts = allContracts.map(c => c.toLowerCase());
+            const duplicateContracts = normalizedContracts.filter((contract, index) => 
+              normalizedContracts.indexOf(contract) !== index
+            );
+            
+            if (duplicateContracts.length > 0) {
+              console.error('Error in nfts.json: Duplicate contract addresses found:', [...new Set(duplicateContracts)]);
+              process.exit(1);
+            }
+            
+            // JSON 스키마 검증
+            const nftValidator = ajv.compile(schema);
+            const nftValid = nftValidator(nfts);
+            
+            if (!nftValid) {
+              console.error('nfts.json validation errors:');
+              console.error(nftValidator.errors);
+              process.exit(1);
+            }
+            
+            console.log('nfts.json is valid');
+          } catch (error) {
+            console.error('Error validating nfts.json:', error.message);
+            process.exit(1);
+          }
+          "

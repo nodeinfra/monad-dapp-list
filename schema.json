@@ -1,0 +1,69 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+      "dapp": {
+        "type": "object",
+        "required": ["name", "type", "logo", "description", "monad_exclusive", "contracts"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "type": {
+            "type": "string",
+            "minLength": 1
+          },
+          "logo": {
+            "type": "string",
+            "format": "uri"
+          },
+          "description": {
+            "type": "string"
+          },
+          "monad_exclusive": {
+            "type": "boolean"
+          },
+          "contracts": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^0x[a-fA-F0-9]{40}$"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "nft": {
+        "type": "object",
+        "required": ["name", "contracts"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "contracts": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^0x[a-fA-F0-9]{40}$"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "oneOf": [
+      {
+        "type": "array",
+        "items": {
+          "$ref": "#/definitions/dapp"
+        }
+      },
+      {
+        "type": "array",
+        "items": {
+          "$ref": "#/definitions/nft"
+        }
+      }
+    ]
+}
