@@ -25,74 +25,95 @@ jobs:
       - name: Install dependencies
         run: npm install ajv ajv-formats
         
-      - name: Validate JSON files
+      - name: Validate dapps.json
         run: |
           node -e "
           const fs = require('fs');
           const Ajv = require('ajv');
           const addFormats = require('ajv-formats');
           
-          const ajv = new Ajv({ allErrors: true });
+          const ajv = new Ajv({ 
+            allErrors: true,
+            verbose: true 
+          });
           addFormats(ajv);
           
-          // 스키마 로드
-          const schema = JSON.parse(fs.readFileSync('./schema.json', 'utf8'));
-          
-          // dapps.json 검증
           try {
-            const dapps = JSON.parse(fs.readFileSync('./dapps.json', 'utf8'));
+            // dapps.json 로드 및 파싱
+            const dappsData = fs.readFileSync('./dapps.json', 'utf8');
+            const dapps = JSON.parse(dappsData);
             
-            // 이름 중복 검사
+            // dapps-schema.json 로드
+            const schema = JSON.parse(fs.readFileSync('./dapps-schema.json', 'utf8'));
+            
+            // 각 항목의 monad_exclusive 필드 확인 (디버깅 목적)
+            dapps.forEach((dapp, index) => {
+              if (dapp.monad_exclusive !== undefined && 
+                  dapp.monad_exclusive !== true && 
+                  dapp.monad_exclusive !== false && 
+                  dapp.monad_exclusive !== null && 
+                  dapp.monad_exclusive !== '') {
+                console.log(\`정보: dapp[\${index}].monad_exclusive 값 확인: \${JSON.stringify(dapp.monad_exclusive)}, 타입: \${typeof dapp.monad_exclusive}\`);
+              }
+            });
+            
+            // 중복된 이름 확인
             const names = dapps.map(d => d.name);
             const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
             
             if (duplicateNames.length > 0) {
-              console.error('Error in dapps.json: Duplicate dapp names found:', [...new Set(duplicateNames)]);
+              console.error('오류: 중복된 dapp 이름 발견:', [...new Set(duplicateNames)]);
               process.exit(1);
             }
             
-            // 계약 주소 중복 검사
-            const allContracts = dapps.flatMap(d => d.contracts);
-            const normalizedContracts = allContracts.map(c => c.toLowerCase());
-            const duplicateContracts = normalizedContracts.filter((contract, index) => 
-              normalizedContracts.indexOf(contract) !== index
-            );
+            // 스키마 검증
+            const validate = ajv.compile(schema);
+            const valid = validate(dapps);
             
-            if (duplicateContracts.length > 0) {
-              console.error('Error in dapps.json: Duplicate contract addresses found:', [...new Set(duplicateContracts)]);
+            if (!valid) {
+              console.error('dapps.json 검증 오류:');
+              console.error(JSON.stringify(validate.errors, null, 2));
               process.exit(1);
             }
             
-            // JSON 스키마 검증
-            const dappValidator = ajv.compile(schema);
-            const dappValid = dappValidator(dapps);
-            
-            if (!dappValid) {
-              console.error('dapps.json validation errors:');
-              console.error(dappValidator.errors);
-              process.exit(1);
-            }
-            
-            console.log('dapps.json is valid');
+            console.log('dapps.json이 유효합니다.');
           } catch (error) {
-            console.error('Error validating dapps.json:', error.message);
+            console.error('오류 발생:', error.message);
             process.exit(1);
           }
+          "
+        
+      - name: Validate nfts.json
+        run: |
+          node -e "
+          const fs = require('fs');
+          const Ajv = require('ajv');
+          const addFormats = require('ajv-formats');
           
-          // nfts.json 검증
+          const ajv = new Ajv({ 
+            allErrors: true,
+            verbose: true 
+          });
+          addFormats(ajv);
+          
           try {
-            const nfts = JSON.parse(fs.readFileSync('./nfts.json', 'utf8'));
+            // nfts.json 로드 및 파싱
+            const nftsData = fs.readFileSync('./nfts.json', 'utf8');
+            const nfts = JSON.parse(nftsData);
             
-            // 이름 중복 검사
+            // nfts-schema.json 로드
+            const schema = JSON.parse(fs.readFileSync('./nfts-schema.json', 'utf8'));
+            
+            // 중복된 이름 확인
             const names = nfts.map(n => n.name);
             const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
             
             if (duplicateNames.length > 0) {
-              console.error('Error in nfts.json: Duplicate NFT names found:', [...new Set(duplicateNames)]);
+              console.error('오류: 중복된 NFT 이름 발견:', [...new Set(duplicateNames)]);
               process.exit(1);
             }
             
-            // 계약 주소 중복 검사
+            // 중복된 계약 주소 확인
             const allContracts = nfts.flatMap(n => n.contracts);
             const normalizedContracts = allContracts.map(c => c.toLowerCase());
             const duplicateContracts = normalizedContracts.filter((contract, index) => 
@@ -100,23 +121,23 @@ jobs:
             );
             
             if (duplicateContracts.length > 0) {
-              console.error('Error in nfts.json: Duplicate contract addresses found:', [...new Set(duplicateContracts)]);
+              console.error('오류: 중복된 계약 주소 발견:', [...new Set(duplicateContracts)]);
               process.exit(1);
             }
             
-            // JSON 스키마 검증
-            const nftValidator = ajv.compile(schema);
-            const nftValid = nftValidator(nfts);
+            // 스키마 검증
+            const validate = ajv.compile(schema);
+            const valid = validate(nfts);
             
-            if (!nftValid) {
-              console.error('nfts.json validation errors:');
-              console.error(nftValidator.errors);
+            if (!valid) {
+              console.error('nfts.json 검증 오류:');
+              console.error(JSON.stringify(validate.errors, null, 2));
               process.exit(1);
             }
             
-            console.log('nfts.json is valid');
+            console.log('nfts.json이 유효합니다.');
           } catch (error) {
-            console.error('Error validating nfts.json:', error.message);
+            console.error('오류 발생:', error.message);
             process.exit(1);
           }
           "
