@@ -6,7 +6,7 @@
         "description": "One-stop Web3 platform: Create & trade tokens/NFTs + DEX trading",
         "monad_exclusive": false,
         "contracts": ["0xC4e34BB4d73b2062725E4C27260DE61c7F389Ed2", "0xC4e34BB4d73b2062725E4C27260DE61c7F389ed2"]
-    }
+    },
     {
         "name": "Owlto Finance",
         "type": "Defi",
