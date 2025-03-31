@@ -63,6 +63,18 @@ jobs:
               process.exit(1);
             }
             
+            // 중복된 계약 주소 확인 (대소문자 구분 없이)
+            const allContracts = dapps.flatMap(d => d.contracts);
+            const normalizedContracts = allContracts.map(c => c.toLowerCase());
+            const duplicateContracts = normalizedContracts.filter((contract, index) => 
+              normalizedContracts.indexOf(contract) !== index
+            );
+            
+            if (duplicateContracts.length > 0) {
+              console.error('오류: 중복된 계약 주소 발견:', [...new Set(duplicateContracts)]);
+              process.exit(1);
+            }
+            
             // 스키마 검증
             const validate = ajv.compile(schema);
             const valid = validate(dapps);
@@ -111,7 +123,7 @@ jobs:
               process.exit(1);
             }
             
-            // 중복된 계약 주소 확인
+            // 중복된 계약 주소 확인 (대소문자 구분 없이)
             const allContracts = nfts.flatMap(n => n.contracts);
             const normalizedContracts = allContracts.map(c => c.toLowerCase());
             const duplicateContracts = normalizedContracts.filter((contract, index) => 
@@ -123,6 +135,8 @@ jobs:
               process.exit(1);
             }
             
+            console.log('nfts.json이 유효합니다.');
+            
             // 스키마 검증
             const validate = ajv.compile(schema);
             const valid = validate(nfts);
@@ -132,10 +146,37 @@ jobs:
               console.error(JSON.stringify(validate.errors, null, 2));
               process.exit(1);
             }
-            
-            console.log('nfts.json이 유효합니다.');
           } catch (error) {
             console.error('오류 발생:', error.message);
+            process.exit(1);
+          }
+          "
+      
+      - name: Check cross file duplicates
+        run: |
+          node -e "
+          const fs = require('fs');
+          
+          try {
+            // 두 파일 로드
+            const dapps = JSON.parse(fs.readFileSync('./dapps.json', 'utf8'));
+            const nfts = JSON.parse(fs.readFileSync('./nfts.json', 'utf8'));
+            
+            // 모든 계약 주소 추출
+            const dappContracts = dapps.flatMap(d => d.contracts.map(c => c.toLowerCase()));
+            const nftContracts = nfts.flatMap(n => n.contracts.map(c => c.toLowerCase()));
+            
+            // 파일 간 중복 주소 확인
+            const duplicates = dappContracts.filter(c => nftContracts.includes(c));
+            
+            if (duplicates.length > 0) {
+              console.error('오류: dapps.json과 nfts.json 사이에 중복된 계약 주소 발견:', duplicates);
+              process.exit(1);
+            }
+            
+            console.log('파일 간 계약 주소 중복이 없습니다.');
+          } catch (error) {
+            console.error('파일 간 중복 검사 중 오류 발생:', error.message);
             process.exit(1);
           }
           "
