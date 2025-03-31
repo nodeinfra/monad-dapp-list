@@ -35,35 +35,35 @@ jobs:
           const ajv = new Ajv({ 
             allErrors: true,
             verbose: true,
-            strict: false  // strict 모드 비활성화
+            strict: false  // disable strict mode
           });
           addFormats(ajv);
           
           try {
-            // dapps.json 로드 및 파싱
+            // Load and parse dapps.json
             const dappsData = fs.readFileSync('./dapps.json', 'utf8');
             const dapps = JSON.parse(dappsData);
             
-            // dapps-schema.json 로드
+            // Load dapps-schema.json
             const schema = JSON.parse(fs.readFileSync('./dapps-schema.json', 'utf8'));
             
-            // 각 항목의 monad_exclusive 필드 확인 (디버깅 목적)
+            // Check monad_exclusive field for each item (for debugging)
             dapps.forEach((dapp, index) => {
               if (dapp.monad_exclusive !== undefined) {
-                console.log(\`정보: dapp[\${index}].monad_exclusive 값: \${JSON.stringify(dapp.monad_exclusive)}, 타입: \${typeof dapp.monad_exclusive}\`);
+                console.log(\`Info: dapp[\${index}].monad_exclusive value: \${JSON.stringify(dapp.monad_exclusive)}, type: \${typeof dapp.monad_exclusive}\`);
               }
             });
             
-            // 중복된 이름 확인
+            // Check for duplicate names
             const names = dapps.map(d => d.name);
             const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
             
             if (duplicateNames.length > 0) {
-              console.error('오류: 중복된 dapp 이름 발견:', [...new Set(duplicateNames)]);
+              console.error('Error: Duplicate dapp names found:', [...new Set(duplicateNames)]);
               process.exit(1);
             }
             
-            // 중복된 계약 주소 확인 (대소문자 구분 없이)
+            // Check for duplicate contract addresses (case-insensitive)
             const allContracts = dapps.flatMap(d => d.contracts);
             const normalizedContracts = allContracts.map(c => c.toLowerCase());
             const duplicateContracts = normalizedContracts.filter((contract, index) => 
@@ -71,23 +71,23 @@ jobs:
             );
             
             if (duplicateContracts.length > 0) {
-              console.error('오류: 중복된 계약 주소 발견:', [...new Set(duplicateContracts)]);
+              console.error('Error: Duplicate contract addresses found:', [...new Set(duplicateContracts)]);
               process.exit(1);
             }
             
-            // 스키마 검증
+            // Schema validation
             const validate = ajv.compile(schema);
             const valid = validate(dapps);
             
             if (!valid) {
-              console.error('dapps.json 검증 오류:');
+              console.error('dapps.json validation errors:');
               console.error(JSON.stringify(validate.errors, null, 2));
               process.exit(1);
             }
             
-            console.log('dapps.json이 유효합니다.');
+            console.log('dapps.json is valid.');
           } catch (error) {
-            console.error('오류 발생:', error.message);
+            console.error('Error occurred:', error.message);
             process.exit(1);
           }
           "
@@ -102,28 +102,28 @@ jobs:
           const ajv = new Ajv({ 
             allErrors: true,
             verbose: true,
-            strict: false  // strict 모드 비활성화
+            strict: false  // disable strict mode
           });
           addFormats(ajv);
           
           try {
-            // nfts.json 로드 및 파싱
+            // Load and parse nfts.json
             const nftsData = fs.readFileSync('./nfts.json', 'utf8');
             const nfts = JSON.parse(nftsData);
             
-            // nfts-schema.json 로드
+            // Load nfts-schema.json
             const schema = JSON.parse(fs.readFileSync('./nfts-schema.json', 'utf8'));
             
-            // 중복된 이름 확인
+            // Check for duplicate names
             const names = nfts.map(n => n.name);
             const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
             
             if (duplicateNames.length > 0) {
-              console.error('오류: 중복된 NFT 이름 발견:', [...new Set(duplicateNames)]);
+              console.error('Error: Duplicate NFT names found:', [...new Set(duplicateNames)]);
               process.exit(1);
             }
             
-            // 중복된 계약 주소 확인 (대소문자 구분 없이)
+            // Check for duplicate contract addresses (case-insensitive)
             const allContracts = nfts.flatMap(n => n.contracts);
             const normalizedContracts = allContracts.map(c => c.toLowerCase());
             const duplicateContracts = normalizedContracts.filter((contract, index) => 
@@ -131,23 +131,23 @@ jobs:
             );
             
             if (duplicateContracts.length > 0) {
-              console.error('오류: 중복된 계약 주소 발견:', [...new Set(duplicateContracts)]);
+              console.error('Error: Duplicate contract addresses found:', [...new Set(duplicateContracts)]);
               process.exit(1);
             }
             
-            // 스키마 검증
+            // Schema validation
             const validate = ajv.compile(schema);
             const valid = validate(nfts);
             
             if (!valid) {
-              console.error('nfts.json 검증 오류:');
+              console.error('nfts.json validation errors:');
               console.error(JSON.stringify(validate.errors, null, 2));
               process.exit(1);
             }
             
-            console.log('nfts.json이 유효합니다.');
+            console.log('nfts.json is valid.');
           } catch (error) {
-            console.error('오류 발생:', error.message);
+            console.error('Error occurred:', error.message);
             process.exit(1);
           }
           "
@@ -158,25 +158,25 @@ jobs:
           const fs = require('fs');
           
           try {
-            // 두 파일 로드
+            // Load both files
             const dapps = JSON.parse(fs.readFileSync('./dapps.json', 'utf8'));
             const nfts = JSON.parse(fs.readFileSync('./nfts.json', 'utf8'));
             
-            // 모든 계약 주소 추출
+            // Extract all contract addresses
             const dappContracts = dapps.flatMap(d => d.contracts.map(c => c.toLowerCase()));
             const nftContracts = nfts.flatMap(n => n.contracts.map(c => c.toLowerCase()));
             
-            // 파일 간 중복 주소 확인
+            // Check for duplicate addresses between files
             const duplicates = dappContracts.filter(c => nftContracts.includes(c));
             
             if (duplicates.length > 0) {
-              console.log('참고: dapps.json과 nfts.json 사이에 중복된 계약 주소 있음:', duplicates);
-              // process.exit(1); - 오류로 처리하지 않음
+              console.log('Note: Duplicate contract addresses found between dapps.json and nfts.json:', duplicates);
+              // process.exit(1); - not treating as error
             } else {
-              console.log('파일 간 계약 주소 중복이 없습니다.');
+              console.log('No duplicate contract addresses between files.');
             }
           } catch (error) {
-            console.error('파일 간 중복 검사 중 오류 발생:', error.message);
-            // process.exit(1); - 오류로 처리하지 않음
+            console.error('Error during cross-file duplicate check:', error.message);
+            // process.exit(1); - not treating as error
           }
           "
