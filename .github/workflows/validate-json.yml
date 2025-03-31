@@ -1,0 +1,182 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    paths:
+      - '*.json'
+  push:
+    branches:
+      - main
+      - shinhwi
+    paths:
+      - '*.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install ajv ajv-formats
+        
+      - name: Validate dapps.json
+        run: |
+          node -e "
+          const fs = require('fs');
+          const Ajv = require('ajv');
+          const addFormats = require('ajv-formats');
+          
+          const ajv = new Ajv({ 
+            allErrors: true,
+            verbose: true,
+            strict: false  // strict 모드 비활성화
+          });
+          addFormats(ajv);
+          
+          try {
+            // dapps.json 로드 및 파싱
+            const dappsData = fs.readFileSync('./dapps.json', 'utf8');
+            const dapps = JSON.parse(dappsData);
+            
+            // dapps-schema.json 로드
+            const schema = JSON.parse(fs.readFileSync('./dapps-schema.json', 'utf8'));
+            
+            // 각 항목의 monad_exclusive 필드 확인 (디버깅 목적)
+            dapps.forEach((dapp, index) => {
+              if (dapp.monad_exclusive !== undefined) {
+                console.log(\`정보: dapp[\${index}].monad_exclusive 값: \${JSON.stringify(dapp.monad_exclusive)}, 타입: \${typeof dapp.monad_exclusive}\`);
+              }
+            });
+            
+            // 중복된 이름 확인
+            const names = dapps.map(d => d.name);
+            const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
+            
+            if (duplicateNames.length > 0) {
+              console.error('오류: 중복된 dapp 이름 발견:', [...new Set(duplicateNames)]);
+              process.exit(1);
+            }
+            
+            // 중복된 계약 주소 확인 (대소문자 구분 없이)
+            const allContracts = dapps.flatMap(d => d.contracts);
+            const normalizedContracts = allContracts.map(c => c.toLowerCase());
+            const duplicateContracts = normalizedContracts.filter((contract, index) => 
+              normalizedContracts.indexOf(contract) !== index
+            );
+            
+            if (duplicateContracts.length > 0) {
+              console.error('오류: 중복된 계약 주소 발견:', [...new Set(duplicateContracts)]);
+              process.exit(1);
+            }
+            
+            // 스키마 검증
+            const validate = ajv.compile(schema);
+            const valid = validate(dapps);
+            
+            if (!valid) {
+              console.error('dapps.json 검증 오류:');
+              console.error(JSON.stringify(validate.errors, null, 2));
+              process.exit(1);
+            }
+            
+            console.log('dapps.json이 유효합니다.');
+          } catch (error) {
+            console.error('오류 발생:', error.message);
+            process.exit(1);
+          }
+          "
+        
+      - name: Validate nfts.json
+        run: |
+          node -e "
+          const fs = require('fs');
+          const Ajv = require('ajv');
+          const addFormats = require('ajv-formats');
+          
+          const ajv = new Ajv({ 
+            allErrors: true,
+            verbose: true,
+            strict: false  // strict 모드 비활성화
+          });
+          addFormats(ajv);
+          
+          try {
+            // nfts.json 로드 및 파싱
+            const nftsData = fs.readFileSync('./nfts.json', 'utf8');
+            const nfts = JSON.parse(nftsData);
+            
+            // nfts-schema.json 로드
+            const schema = JSON.parse(fs.readFileSync('./nfts-schema.json', 'utf8'));
+            
+            // 중복된 이름 확인
+            const names = nfts.map(n => n.name);
+            const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
+            
+            if (duplicateNames.length > 0) {
+              console.error('오류: 중복된 NFT 이름 발견:', [...new Set(duplicateNames)]);
+              process.exit(1);
+            }
+            
+            // 중복된 계약 주소 확인 (대소문자 구분 없이)
+            const allContracts = nfts.flatMap(n => n.contracts);
+            const normalizedContracts = allContracts.map(c => c.toLowerCase());
+            const duplicateContracts = normalizedContracts.filter((contract, index) => 
+              normalizedContracts.indexOf(contract) !== index
+            );
+            
+            if (duplicateContracts.length > 0) {
+              console.error('오류: 중복된 계약 주소 발견:', [...new Set(duplicateContracts)]);
+              process.exit(1);
+            }
+            
+            // 스키마 검증
+            const validate = ajv.compile(schema);
+            const valid = validate(nfts);
+            
+            if (!valid) {
+              console.error('nfts.json 검증 오류:');
+              console.error(JSON.stringify(validate.errors, null, 2));
+              process.exit(1);
+            }
+            
+            console.log('nfts.json이 유효합니다.');
+          } catch (error) {
+            console.error('오류 발생:', error.message);
+            process.exit(1);
+          }
+          "
+      
+      - name: Check cross file duplicates (informational only)
+        run: |
+          node -e "
+          const fs = require('fs');
+          
+          try {
+            // 두 파일 로드
+            const dapps = JSON.parse(fs.readFileSync('./dapps.json', 'utf8'));
+            const nfts = JSON.parse(fs.readFileSync('./nfts.json', 'utf8'));
+            
+            // 모든 계약 주소 추출
+            const dappContracts = dapps.flatMap(d => d.contracts.map(c => c.toLowerCase()));
+            const nftContracts = nfts.flatMap(n => n.contracts.map(c => c.toLowerCase()));
+            
+            // 파일 간 중복 주소 확인
+            const duplicates = dappContracts.filter(c => nftContracts.includes(c));
+            
+            if (duplicates.length > 0) {
+              console.log('참고: dapps.json과 nfts.json 사이에 중복된 계약 주소 있음:', duplicates);
+              // process.exit(1); - 오류로 처리하지 않음
+            } else {
+              console.log('파일 간 계약 주소 중복이 없습니다.');
+            }
+          } catch (error) {
+            console.error('파일 간 중복 검사 중 오류 발생:', error.message);
+            // process.exit(1); - 오류로 처리하지 않음
+          }
+          "
