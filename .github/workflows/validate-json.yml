@@ -2,21 +2,34 @@ name: Validate JSON
 
 on:
   pull_request:
-    branches: [ main ]
     paths:
-      - '**.json'
+      - '*.json'
   push:
-    branches: [ main, shinhwi ]
+    branches:
+      - main
+      - shinhwi
     paths:
-      - '**.json'
+      - '*.json'
 
 jobs:
-  validate-json:
+  validate-dapps-json:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       
-      - name: Validate JSON
-        uses: OrRosenblatt/validate-json-action@0.1.0
+      - name: Validate dapps.json
+        uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_JSONS: ./dapps.json,./nfts.json
+          INPUT_SCHEMA: ./schema.json
+          INPUT_JSONS: ./dapps.json
+
+  validate-nfts-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Validate nfts.json
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schema.json
+          INPUT_JSONS: ./nfts.json
