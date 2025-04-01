@@ -5865,5 +5865,15 @@
         "contracts": [
             "0x526764626f9b83B5A2FcDac5Dbd921E3b7d24E21"
         ]
+    },
+    {
+        "name": "GlacierFi",
+        "type": "Defi",
+        "logo": "https://glacierfi.com/android-chrome-512x512.png",
+        "description": "Humble DeFi for nads 💜",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x42A35134779159d60968A8b777B8a096dFFe8BeD"
+        ]
     }
 ]
