@@ -5875,5 +5875,15 @@
         "contracts": [
             "0x42A35134779159d60968A8b777B8a096dFFe8BeD"
         ]
+    },
+    {
+        "name": "Flap",
+        "type": "Defi",
+        "logo": "https://flap.sh/logo.png",
+        "description": "Launch your coin with just one click on Monad with Flap, the premier memecoin launchpad.",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x4267F317adee7C6478a5EE92985c2BD5D855E274"
+        ]
     }
 ]
