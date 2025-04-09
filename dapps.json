@@ -5873,7 +5873,8 @@
         "description": "Humble DeFi for nads 💜",
         "monad_exclusive": true,
         "contracts": [
-            "0x42A35134779159d60968A8b777B8a096dFFe8BeD"
+            "0x42A35134779159d60968A8b777B8a096dFFe8BeD",
+            "0x54D5b6878974fd506c18f5c02A0788Fe65eF5Cb5"
         ]
     },
     {
