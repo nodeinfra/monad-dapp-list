@@ -1,5 +1,19 @@
 [
     {
+        "name": "Crust Finance",
+        "type": "Defi",
+        "logo": "https://pbs.twimg.com/profile_images/1814222320795369473/_EZGsvtJ_400x400.jpg",
+        "description": "Concentrated Liquidity DEX with native ALM, ve(3,3) mechanics and oTokenomics",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x8b146d71a2b075407F1C4e8f2092f4FFe6d626B8", 
+            "0x41fF64E47E35d9eC56Def353E15FBE3A27bec5eA",
+            "0xa03cc635595F0607622222cD15822cf4f1Bcd411",
+            "0xEB7B885CF774aAB4C658123fB2bDC1096ee3B175",
+            "0x021724a16C7831be1FaA306A324438Ed95a6144E"
+        ]
+    },
+    {
         "name": "TokenFactroy",
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1874971972628533248/NwrEOM9B_400x400.jpg",
