@@ -1,78 +1,97 @@
 [
     {
         "name": "BreathOfEstova",
+        "logo": "https://ipfs.io/ipfs/bafkreieq2frof3gzvq4ouj5ydipsx6zhy3dczanui7lurdk3c3r2hdgvyy",
         "contracts": ["0xD528a57C0517EeA0E16b58040dEbe703597D9b2b"]
     },
     {
         "name": "Mecha Box",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x3db6c11474893689cdb9d7cdedc251532cadf32b"]
     },
     {
         "name": "Chog Pass",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x7370a0a9e9a833bcd071b38fc25184e7afb57aff"]
     },
     {
         "name": "chogstars",
+        "logo": "https://bafybeidxyp7gmz6qdtrf6joh6vxvnzyei4lnlkktfotzybgyke7cdqql5u.ipfs.w3s.link/0.GIF",
         "contracts": ["0x26c86f2835c114571df2b6ce9ba52296cc0fa6bb"]
     },
     {
         "name": "llamao",
+        "logo": "https://bafybeidj7gchxqqbgzggvtig6u2l3z6cmuf6f2wnzezdhyefpffcp6orpm.ipfs.w3s.link/0.gif",
         "contracts": ["0x38f3730b009ec1707f5409caf44e329cc7b4d050"]
     },
     {
         "name": "Meowwnads",
+        "logo": "https://pbs.twimg.com/media/Gk9XAG6XcAARZkg?format=jpg&name=4096x4096",
         "contracts": ["0xa568cabe34c8ca0d2a8671009ae0f6486a314425"]
     },
     {
         "name": "Monad Nomads",
+        "logo": "https://monad-nomads.s3.us-east-1.amazonaws.com/99.png",
         "contracts": ["0x9aC5998884Cf59d8A87DFC157560C1F0e1672E04"]
     },
     {
         "name": "Chapter2: Back to the Past",
+        "logo": "https://ipfs.io/ipfs/bafkreics3licfl4fgkjp4fdrcumc5ri665ea73pcsjfbd3g4shofvgroim",
         "contracts": ["0x3a9acc3be6e9678fa5d23810488c37a3192aaf75"]
     },
     {
         "name": "Mondana Baddies: Baddie Eye",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x84db60168be10fb2ae274ea84e24cb22ffe11ddd"]
     },
     {
         "name": "Monshape Hopium",
+        "logo": "https://ipfs.io/ipfs/QmUMcAKgVzJdmTCSEJnAreDtBHAWrY31XsJxs2gBzpcDNh",
         "contracts": ["0x69f2688abe5dcde0e2413f77b80efcc16361a56e"]
     },
     {
         "name": "overnads",
+        "logo": "https://overnads.xyz/assets/over_logo.png",
         "contracts": ["0x66b655de495268eb4c7b70bf4ac1ab4094589f93"]
     },
     {
         "name": "PEPENAD",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x3559c92cdc105f3df9da37b7ac8232b7967f9fd2"]
     },
     {
         "name": "Skrumpets",
+        "logo": "https://bafybeigczg5mnwyuj7jepylramy2pk4mar52i2vesklmdt53nuyopypqiu.ipfs.w3s.link/99.png",
         "contracts": ["0xe8f0635591190fb626f9d13c49b60626561ed145"]
     },
     {
         "name": "slmnd",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x038b19e8f047d22bea5355ca99d976f7ee02c754"]
     },
     {
         "name": "Spike It Up",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x9e4339d4d36bac6747e4e42e85e39cd1e2c58a1f"]
     },
     {
         "name": "The 10k squad",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0xe9e955130515dd086bf608f07802a03403b1984c"]
     },
     {
         "name": "The Daks Fantasies",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x4e88056e13de12bde065589e501033227d8188e6"]
     },
     {
         "name": "Genesis Planter Card Testnet",
+        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
         "contracts": ["0x9a452f1ae5c1927259dacfa3fd58ede9679c61d0"]
     },
     {
         "name": "Lootie Bandits",
+        "logo": "https://ipfs.io/ipfs/bafybeihgjtzz4nxwvdet6dnr3wvfx7xkrp22lgth4rs2zi54ib7qa6yj6a",
         "contracts": ["0x5666476cdd401289b84b34e8bd74e695d596600a"]
     }
 ]
