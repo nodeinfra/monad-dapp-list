@@ -9,6 +9,10 @@
           "type": "string",
           "minLength": 1
         },
+        "logo": {
+          "type": "string",
+          "format": "uri"
+        },
         "contracts": {
           "type": "array",
           "items": {
