@@ -1,5 +1,17 @@
 [
     {
+         "name": "Monda DEX",
+         "type": "Defi",
+         "logo": "https://pbs.twimg.com/profile_images/1898733671798157312/SKe2XB43_400x400.jpg",
+         "description": "Deep Liquidity, Fluid Incubation & Unmatched DEX Execution",
+         "monad_exclusive": true,
+         "contracts": [
+             "0xC921877BEcB785fDFbb96B6D8354Bb443C015995", 
+             "0xc80585f78A6e44fb46e1445006f820448840386e",
+             "0x0c0c92fcf37ae2cbcc512e59714cd3a1a1cbc411"
+         ]
+    },
+    {
         "name": "Crust Finance",
         "type": "Defi",
         "logo": "https://pbs.twimg.com/profile_images/1814222320795369473/_EZGsvtJ_400x400.jpg",
