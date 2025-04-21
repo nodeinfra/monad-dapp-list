@@ -5922,5 +5922,17 @@
             "0x56b88CFe40d592Ec4d4234043e039d7CA807f110",
             "0xFAC34076fc84579916573c2C307d70304caB2c8E"
         ]
-    }
+    },
+    {
+        "name": "AI Jarvis",
+        "type": "AI",
+        "logo": "https://javis-agent.s3.ap-southeast-1.amazonaws.com/uploads/avatars/Javis-logo.png",
+        "description": "The powerful AI Agent platform with asset integration and fun | natively.",
+        "monad_exclusive": true,
+        "contracts": [
+            "0xCc5B42F9d6144DFDFb6fb3987a2A916af902F5f8",
+            "0xF7FC153d5b3B287fB2382530090c13D9cB0227F9",
+            "0x9A99dbBa2b080954FFb4C4644909036E0747D61B"
+        ]
+    },
 ]
