@@ -1,7 +1,7 @@
 [
     {
          "name": "Monda DEX",
-         "type": "Defi",
+         "type": "DeFi",
          "logo": "https://pbs.twimg.com/profile_images/1898733671798157312/SKe2XB43_400x400.jpg",
          "description": "Deep Liquidity, Fluid Incubation & Unmatched DEX Execution",
          "monad_exclusive": true,
@@ -13,7 +13,7 @@
     },
     {
         "name": "Crust Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1814222320795369473/_EZGsvtJ_400x400.jpg",
         "description": "Concentrated Liquidity DEX with native ALM, ve(3,3) mechanics and oTokenomics",
         "monad_exclusive": true,
@@ -27,7 +27,7 @@
     },
     {
         "name": "zkSwap Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://static.debank.com/image/user/official_avatar/10984/b895dab7bab94c50de493cebd0a4e8fb.png",
         "description": "zkSwap Finance is a DEX and a Swap to Earn DeFi Platform",
         "monad_exclusive": false,
@@ -58,7 +58,7 @@
     },
     {
         "name": "TokenFactroy",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1874971972628533248/NwrEOM9B_400x400.jpg",
         "description": "One-stop Web3 platform: Create & trade tokens/NFTs + DEX trading",
         "monad_exclusive": false,
@@ -66,7 +66,7 @@
     },
     {
         "name": "Owlto Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1886736859054923778/Iv098oCX_400x400.jpg",
         "description": "🦉 An intent-centric interoperability protocol",
         "monad_exclusive": false,
@@ -74,7 +74,7 @@
     },
     {
         "name": "Uniswap",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1831348758753206272/y2Z0hMrl_400x400.jpg",
         "description": "The largest onchain marketplace.",
         "monad_exclusive": false,
@@ -82,7 +82,7 @@
     },
     {
         "name": "Pancake Swap",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1874650049172705281/OOl4g9ZD_400x400.jpg",
         "description": "Everyone's Favorite DEX",
         "monad_exclusive": false,
@@ -90,7 +90,7 @@
     },
     {
         "name": "Covenant",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1760674458497654784/SeqF3eEq_400x400.jpg",
         "description": "Liberating token liquidity. Lever up or earn yield, through tradeable debt markets.",
         "monad_exclusive": false,
@@ -106,7 +106,7 @@
     },
     {
         "name": "Zaros Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1877572008512204800/KwLZqD6k_400x400.jpg",
         "description": "Trade, Earn, and Build Derivatives on Zaros",
         "monad_exclusive": false,
@@ -134,7 +134,7 @@
     },
     {
         "name": "Fizen",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1882605133584027648/AwUfhIOh_400x400.jpg",
         "description": "Fizen Super App w/ Crypto Payments at 10,000 TPS on Monad",
         "monad_exclusive": false,
@@ -150,7 +150,7 @@
     },
     {
         "name": "Crystal",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1879675733162827777/8LXGXCcY_400x400.jpg",
         "description": "Crystal is a fully on-chain CLOB exchange that brings CEX-grade performance to the EVM",
         "monad_exclusive": true,
@@ -165,7 +165,7 @@
     },
     {
         "name": "Opals",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1886971538169323521/rec2Sh_B_400x400.jpg",
         "description": "Kickstart with Opals.io => PatronNFTs + Token Launcher + Diamond Hand Vesting",
         "monad_exclusive": true,
@@ -218,7 +218,7 @@
     },
     {
         "name": "Folks Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1898632548495831040/7blTbbiv_400x400.jpg",
         "description": "Lend, borrow, stake and trade.",
         "monad_exclusive": false,
@@ -247,7 +247,7 @@
     },
     {
         "name": "Chewy",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1878757174098194433/kWm-9ITJ_400x400.png",
         "description": "Earn, stake, upgrade, trade. 🤖",
         "monad_exclusive": true,
@@ -255,7 +255,7 @@
     },
     {
         "name": "NitroFTL",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1741714746842263552/h5PynzNX_400x400.jpg",
         "description": "Nitro Fused Trade Ledger + Standard Meme DEX on Monad",
         "monad_exclusive": true,
@@ -283,7 +283,7 @@
     },
     {
         "name": "OctoSwap",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1881835000024231936/Fb3P06s-_400x400.jpg",
         "description": "Simple, secure, efficient and fun.  Natively on Monad.",
         "monad_exclusive": true,
@@ -291,7 +291,7 @@
     },
     {
         "name": "Mace",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1876861581763764224/3Z3F9Cef_400x400.jpg",
         "description": "The first native DEX aggregator on Monad",
         "monad_exclusive": true,
@@ -299,7 +299,7 @@
     },
     {
         "name": "Drake",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1840900183787520001/RiZyjhhL_400x400.png",
         "description": "Putting the CEX in perp DEX | High-speed, fully-onchain orderbook",
         "monad_exclusive": true,
@@ -307,7 +307,7 @@
     },
     {
         "name": "nad.fun",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1827607782356619264/Owr-840k_400x400.jpg",
         "description": "Social Memecoin Playground. Powered by Monad.",
         "monad_exclusive": true,
@@ -322,7 +322,7 @@
     },
     {
         "name": "Narwhal Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1888827499775397888/y5kxJoAo_400x400.jpg",
         "description": "AI-Driven Trading; Gamified Glory; only on Monad",
         "monad_exclusive": true,
@@ -388,7 +388,7 @@
     },
     {
         "name": "Dirol",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1868761381639483392/a12NGbOG_400x400.jpg",
         "description": "DeFi without the complexity. All on Dirol.",
         "monad_exclusive": true,
@@ -396,7 +396,7 @@
     },
     {
         "name": "Narrative",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1882134871214051328/6R7oJYe6_400x400.png",
         "description": "Trade narratives. Powered by @monad_xyz",
         "monad_exclusive": true,
@@ -413,7 +413,7 @@
 
     {
         "name": "Composite Labs",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1772956651210891264/1Murgaqw_400x400.jpg",
         "description": "Building the best all-in-one trading platform on @monad_xyz",
         "monad_exclusive": true,
@@ -437,7 +437,7 @@
     },
     {
         "name": "Caddy Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1834464053701607424/bgW06V3j_400x400.jpg",
         "description": "World's first protocol for LSDs with no lockups, hedge against volatility of the underlying asset.",
         "monad_exclusive": true,
@@ -453,7 +453,7 @@
     },
     {
         "name": "Zaros",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1877572008512204800/KwLZqD6k_400x400.jpg",
         "description": "Trade, Earn, and Build Derivatives on Zaros",
         "monad_exclusive": false,
@@ -461,7 +461,7 @@
     },
     {
         "name": "NitroFTL ✧",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1741714746842263552/h5PynzNX_400x400.jpg",
         "description": "Nitro Fused Trade Ledger + Standard Meme DEX on @monad_xyz",
         "monad_exclusive": true,
@@ -485,7 +485,7 @@
     },
     {
         "name": "Cult",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1891352473903767552/3vT2bgFS_400x400.jpg",
         "description": "Believe in Something. Launch Cults.",
         "monad_exclusive": true,
@@ -493,7 +493,7 @@
     },
     {
         "name": "Mu Digital",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1834816886292508672/VDkHAG2v_400x400.jpg",
         "description": "RWA on Monad | Join the Yield Mu-vement",
         "monad_exclusive": true,
@@ -507,7 +507,7 @@
     },
     {
         "name": "Gwei",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1875225566020038658/MaGUoMSS_400x400.jpg",
         "description": "All-in-One DeFi Super dApp built on @Monad_xyz",
         "monad_exclusive": true,
@@ -515,7 +515,7 @@
     },
     {
         "name": "Jigsaw",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1766154707083640832/S6Hu9K57_400x400.jpg",
         "description": "The missing piece of DeFi 🧩",
         "monad_exclusive": false,
@@ -539,7 +539,7 @@
     },
     {
         "name": "Curvance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1890481278673207296/TiHA905U_400x400.png",
         "description": "DeFi from everywhere, for everyone. Powered by @wormhole",
         "monad_exclusive": false,
@@ -585,7 +585,7 @@
     },
     {
         "name": "Monadex",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1875333130246057985/L0YkWW0T_400x400.jpg",
         "description": "Let’s Make Dex experience fun on Monad.",
         "monad_exclusive": true,
@@ -597,7 +597,7 @@
     },
     {
         "name": "Monad Pad",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1817930736768303105/1Hd2OFRw_400x400.jpg",
         "description": "Leading the way as the first launchpad on Monad.",
         "monad_exclusive": true,
@@ -621,7 +621,7 @@
     },
     {
         "name": "Hedgemony",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1822286581736378368/tzWQhkz5_400x400.jpg",
         "description": "Intent Centric Execution Layer. Building the best trading experience on Monad.",
         "monad_exclusive": true,
@@ -659,7 +659,7 @@
     },
     {
         "name": "Modus",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1842311976308928512/W-LT6OO9_400x400.jpg",
         "description": "Capital efficiency gone wild on Monad's first modular lending stack.",
         "monad_exclusive": true,
@@ -683,7 +683,7 @@
     },
     {
         "name": "Mozi",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1797574929904508928/QTb2OJV2_400x400.jpg",
         "description": "A lossless crypto experience powered by yield bearing assets.",
         "monad_exclusive": true,
@@ -704,7 +704,7 @@
     },
     {
         "name": "Monorail",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1867666284353036288/VQntKH9l_400x400.png",
         "description": "Merging orderbook efficiency with AMM liquidity into personalized orderbooks.",
         "monad_exclusive": true,
@@ -768,7 +768,7 @@
     },
     {
         "name": "Balancer",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1656222978919784449/eQgwPTaY_400x400.png",
         "description": "Build On Balancer http://discord.balancer.fi",
         "monad_exclusive": "",
@@ -782,7 +782,7 @@
     },
     {
         "name": "Impossible Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1388056927167340544/9SxWPsH6_400x400.jpg",
         "description": "Building the Impossible | Accelerator, Advisor & Launchpad",
         "monad_exclusive": "",
@@ -798,7 +798,7 @@
     },
     {
         "name": "iZUMi Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1509704804032937991/5qVVZwJj_400x400.jpg",
         "description": "iZUMi Finance is a multi-chain DeFi protocol providing one-stop DEX-as-a-Service (DaaS).",
         "monad_exclusive": "",
@@ -815,7 +815,7 @@
     },
     {
         "name": "Kinza Finance",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1743294053247307776/UG7myCUz_400x400.jpg",
         "description": "The Ultimate Liquidity Hub for BTC&ETH Restaking Assets.",
         "monad_exclusive": "",
@@ -827,7 +827,7 @@
     },
     {
         "name": "Ambient",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1686951614656225280/eb1BN7ld_400x400.jpg",
         "description": "Zero-to-One Decentralized Trading Protocol.",
         "monad_exclusive": "false",
@@ -835,7 +835,7 @@
     },
     {
         "name": "Bean Exchange",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1875029488180080640/vVqXpCvW_400x400.jpg",
         "description": "Gamified on-chain Spot & Perpetual DEX natively built on Monad ⨀ Powered by Pyth 🔮",
         "monad_exclusive": "true",
@@ -851,7 +851,7 @@
     },
     {
         "name": "Bebop",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1888879617886531584/EqdazUob_400x400.jpg",
         "description": "Web3 trading app and API that finds the best route for all your trades. 😎",
         "monad_exclusive": "",
@@ -867,7 +867,7 @@
     },
     {
       "name": "Demask Finance",
-      "type": "Defi",
+      "type": "DeFi",
       "logo": "https://pbs.twimg.com/profile_images/1760896467370139648/cPAMD1ra_400x400.jpg",
       "description": "NFT-Fi project on @monad_xyz 💜",
       "monad_exclusive": "",
@@ -878,7 +878,7 @@
     },
     {
         "name": "Defx",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1748268807964205056/kfUHpQV1_400x400.jpg",
         "description": "A pretty good perp DEX. Tweets, voice and opinions by Defx intern™.",
         "monad_exclusive": "",
@@ -886,7 +886,7 @@
     },
     {
         "name": "Fufuture",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1780486877235249152/3jHe57EW_400x400.jpg",
         "description": "Perpetual options, 0 slippage, never liquidate, dual pools.",
         "monad_exclusive": "",
@@ -894,7 +894,7 @@
     },
     {
         "name": "Golden Goose",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1839294437803044870/DMmcRsCR_400x400.jpg",
         "description": "The first real super hybrid yields platform incubated by @cyclenetwork_GO",
         "monad_exclusive": "",
@@ -902,7 +902,7 @@
     },
     {
         "name": "hashflow",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1847278911270350848/02xMr_HB_400x400.png",
         "description": "Powering DeFi with RFQ. Proving Exchanges with xOS.",
         "monad_exclusive": "",
@@ -910,7 +910,7 @@
     },
     {
         "name": "Kuru",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1876637778336710656/2en6ZY-L_400x400.jpg",
         "description": "Find and trade your favourite coins on a fully on-chain CLOB.",
         "monad_exclusive": true,
@@ -5926,7 +5926,7 @@
     },
     {
         "name": "GlacierFi",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://glacierfi.com/android-chrome-512x512.png",
         "description": "Humble DeFi for nads 💜",
         "monad_exclusive": true,
@@ -5937,7 +5937,7 @@
     },
     {
         "name": "Flap",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://flap.sh/logo.png",
         "description": "Launch your coin with just one click on Monad with Flap, the premier memecoin launchpad.",
         "monad_exclusive": false,
@@ -5947,7 +5947,7 @@
     },
     {
         "name": "Clober",
-        "type": "Defi",
+        "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1679045925556355075/lvEiK0XY_400x400.jpg",
         "description": "Clober is a fully on-chain orderbook DEX protocol that offers CEX-equivalent trading experience, powered by Limit Order Book with Segment Tree for Efficient Order-matching (LOBSTER) algorithm.",
         "monad_exclusive": false,
