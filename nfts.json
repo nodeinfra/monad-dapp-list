@@ -93,5 +93,15 @@
         "name": "Lootie Bandits",
         "logo": "https://ipfs.io/ipfs/bafybeihgjtzz4nxwvdet6dnr3wvfx7xkrp22lgth4rs2zi54ib7qa6yj6a",
         "contracts": ["0x5666476cdd401289b84b34e8bd74e695d596600a"]
+    },
+    {
+        "name": "Beannad",
+        "logo": "https://ipfs.io/ipfs/bafybeignlxreiyrno7mytfqwa2saajk2jz6engyncctveuzywqotssimyy",
+        "contracts": ["0xb03b60818fd7f391e2e02c2c41a61cff86e4f3f5"]
+    },
+    {
+        "name": "AI JARVIS",
+        "logo": "https://ipfs.io/ipfs/bafybeibnk4lwlwiyzsbjqvxyjtxenl7jxvgocuhnn4z5kae2laqramfc4m",
+        "contracts": ["0xF7FC153d5b3B287fB2382530090c13D9cB0227F9"]
     }
 ]
