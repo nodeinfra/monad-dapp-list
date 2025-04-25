@@ -6,12 +6,12 @@
     },
     {
         "name": "Mecha Box",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x3db6c11474893689cdb9d7cdedc251532cadf32b"]
     },
     {
         "name": "Chog Pass",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x7370a0a9e9a833bcd071b38fc25184e7afb57aff"]
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "name": "Mondana Baddies: Baddie Eye",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x84db60168be10fb2ae274ea84e24cb22ffe11ddd"]
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "name": "PEPENAD",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x3559c92cdc105f3df9da37b7ac8232b7967f9fd2"]
     },
     {
@@ -66,27 +66,27 @@
     },
     {
         "name": "slmnd",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x038b19e8f047d22bea5355ca99d976f7ee02c754"]
     },
     {
         "name": "Spike It Up",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x9e4339d4d36bac6747e4e42e85e39cd1e2c58a1f"]
     },
     {
         "name": "The 10k squad",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0xe9e955130515dd086bf608f07802a03403b1984c"]
     },
     {
         "name": "The Daks Fantasies",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x4e88056e13de12bde065589e501033227d8188e6"]
     },
     {
         "name": "Genesis Planter Card Testnet",
-        "logo": "https://testnet.monadexplorer.com/images/nft/nft-default.png",
+        "logo": "",
         "contracts": ["0x9a452f1ae5c1927259dacfa3fd58ede9679c61d0"]
     },
     {
