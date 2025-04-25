@@ -10,8 +10,17 @@
         "minLength": 1
       },
       "logo": {
-        "type": "string",
-        "format": "uri"
+        "oneOf": [
+          { 
+            "type": "string",
+            "format": "uri" 
+          },
+          { "type": "null" },
+          {
+            "type": "string",
+            "enum": [""]
+          }
+        ]
       },
       "contracts": {
         "type": "array",
