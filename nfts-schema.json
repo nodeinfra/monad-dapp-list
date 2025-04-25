@@ -1,26 +1,26 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "type": "array",
-    "items": {
-      "type": "object",
-      "required": ["name", "contracts"],
-      "properties": {
-        "name": {
-          "type": "string",
-          "minLength": 1
-        },
-        "logo": {
-          "type": "string",
-          "format": "uri"
-        },
-        "contracts": {
-          "type": "array",
-          "items": {
-            "type": "string",
-            "pattern": "^0x[a-fA-F0-9]{40}$"
-          }
-        }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "logo", "contracts"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1
       },
-      "additionalProperties": false
-    }
+      "logo": {
+        "type": "string",
+        "format": "uri"
+      },
+      "contracts": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^0x[a-fA-F0-9]{40}$"
+        }
+      }
+    },
+    "additionalProperties": false
   }
+}
