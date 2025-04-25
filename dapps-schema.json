@@ -18,17 +18,8 @@
         "format": "uri"
       },
       "website": {
-        "oneOf": [
-          { 
-            "type": "string",
-            "format": "uri" 
-          },
-          { "type": "null" },
-          { 
-            "type": "string",
-            "enum": [""] 
-          }
-        ]
+        "type": "string",
+        "format": "uri"
       },
       "description": {
         "type": "string"

@@ -419,15 +419,6 @@
         "contracts": []
     },
     {
-        "name": "Narrative",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1882134871214051328/6R7oJYe6_400x400.png",
-        "website": "",
-        "description": "Trade narratives. Powered by @monad_xyz",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
         "name": "Griffy",
         "type": "Prediction",
         "logo": "https://pbs.twimg.com/profile_images/1888905511783084032/pf1nPK14_400x400.jpg",
@@ -581,15 +572,6 @@
         ]
     },
     {
-        "name": "NoMoreLonely.Life",
-        "type": "Social",
-        "logo": "https://pbs.twimg.com/profile_images/1791760368915865600/_I__WC3b_400x400.jpg",
-        "website": "",
-        "description": "Building a new social interaction on Monad.",
-        "contracts": [],
-        "monad_exclusive": true
-    },
-    {
         "name": "Monadex",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1875333130246057985/L0YkWW0T_400x400.jpg",
@@ -601,15 +583,6 @@
           "0x8e9ee594125019cb0a658df98809f8ab8ad41f45", 
           "0xcbcd292c9dae11875e090bb963aa4c74ccce6a23"
         ]
-    },
-    {
-        "name": "Monad Pad",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1817930736768303105/1Hd2OFRw_400x400.jpg",
-        "website": "",
-        "description": "Leading the way as the first launchpad on Monad.",
-        "monad_exclusive": true,
-        "contracts": []
     },
     {
         "name": "Dusted",
@@ -690,15 +663,6 @@
         "contracts": []
     },
     {
-        "name": "Score",
-        "type": "AI",
-        "logo": "https://pbs.twimg.com/profile_images/1859358797803778048/Uun98CfQ_400x400.jpg",
-        "website": "",
-        "description": "Unifying fragmented data across global football to deliver elite analytics.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
         "name": "Mozi",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1797574929904508928/QTb2OJV2_400x400.jpg",
@@ -736,15 +700,6 @@
         "logo": "https://pbs.twimg.com/profile_images/1873539179298398208/xG3rc8eJ_400x400.jpg",
         "website": "https://linktr.ee/playsparkball",
         "description": "A 4v4 rush of adrenaline - brawl hard, ball harder.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Totem",
-        "type": "AI",
-        "logo": "https://pbs.twimg.com/profile_images/1852314929136861184/FZXUnMqn_400x400.png",
-        "website": "",
-        "description": "Capture, unlock, and monetize the untapped data value.",
         "monad_exclusive": true,
         "contracts": []
     },
@@ -5962,7 +5917,7 @@
         "name": "Monad Cam",
         "type": "NFT",
         "logo": "https://pbs.twimg.com/profile_images/1904394848087777281/BLAj_Xr-_400x400.jpg",
-        "website": "",
+        "website": "https://hail-william-dce.notion.site/Monad-Cam-1bd495f3e4a1803894c2f02faf9c694a",
         "description": "Capture moments, Earn rewards on @monadcam",
         "monad_exclusive": true,
         "contracts": [
