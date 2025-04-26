@@ -108,7 +108,7 @@
         "name": "Magic Eden",
         "type": "NFT",
         "logo": "https://pbs.twimg.com/profile_images/1833545964285513728/oPr7l7VU_400x400.jpg",
-        "website": "https://magiceden.io/",
+        "website": "https://magiceden.io/monad-testnet",
         "description": "Gmonad 💜 Magic Eden",
         "monad_exclusive": false,
         "contracts": ["0x224ecB4Eae96d31372D1090c3B0233C8310dBbaB", "0x0000000000000068F116a894984e2DB1123eB395"]
