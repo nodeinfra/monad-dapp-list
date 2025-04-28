@@ -1,9 +1,9 @@
 [
     {
-        "name": "Monda DEX",
+        "name": "Purps DEX",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1898733671798157312/SKe2XB43_400x400.jpg",
-        "website": "https://www.monda.fund/",
+        "website": "https://www.purps.xyz/",
         "description": "Deep Liquidity, Fluid Incubation & Unmatched DEX Execution",
         "monad_exclusive": true,
         "contracts": [
