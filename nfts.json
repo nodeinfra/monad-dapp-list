@@ -108,5 +108,15 @@
         "name": "zkSwap Finance: ZFNFT",
         "logo": "https://ipfs.io/ipfs/bafkreihxmfvgmn4re7mgwq7yaq5z2jwyacdcrcpgmqdcainya7suxadozu",
         "contracts": ["0x4f79d211d0536fFe453203229C6AD32aD25681e8"]
+    },
+    {
+        "name": "Flappy Trump NFTs",
+        "logo": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/QmS5Y767McxFR5MA5Ep7zLvkriEEMCrEEQvNhUmXtAoTct/IMG_1962.png",
+        "contracts": ["0xb2570ab0c9e1dbac805c40e78121d61bfa4eeaaa"]
+    },
+    {
+        "name": "Flappy Trump Alpha Pass",
+        "logo": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/QmQNDTEVoiMmTfvj29jzXoi8zaGtz4WetcX2efq77pBwKj/Flappy%20Trump%20Icon.png",
+        "contracts": ["0x8a4c367F84903c17F2Dcc3d013Ee649faF164f28"]
     }
 ]
