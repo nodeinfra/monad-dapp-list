@@ -6006,7 +6006,7 @@
         "type": "Game",
         "logo": "https://pbs.twimg.com/profile_images/1914024120905269248/mTGLpPmv_400x400.jpg",
         "website": "https://flappy-trump-beta.vercel.app/",
-        "description": "Player single player to $FLAPs and NFTs or compete in PvP Duels to win upto 200 MON per match.",
+        "description": "Player single player to earn $FLAPs and NFTs or compete in PvP Duels to win upto 200 MON per match.",
         "monad_exclusive": true,
         "contracts": [
             "0x3d6A5699eeBeC63cDeCeDb625164Bd57424f13F3",
