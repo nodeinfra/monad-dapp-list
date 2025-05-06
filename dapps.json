@@ -6000,5 +6000,30 @@
             "0xF7FC153d5b3B287fB2382530090c13D9cB0227F9",
             "0x9A99dbBa2b080954FFb4C4644909036E0747D61B"
         ]
-    }
+    },
+	{
+		"name": "Pingu Exchange",
+		"type": "DeFi",
+		"logo": "https://pingu.exchange/external/token-512.png",
+		"website": "https://pingu.exchange/",
+		"description": "High-performance on-chain trading",
+		"monad_exclusive": false,
+		"contracts": [
+			"0xd6Cbc67c307257E62A2a64d0ea8891520805abD4",
+			"0x325012aDFcc5d29d2dcDf604633fc17F886fa304",
+			"0x2c57D920961007ae56D3B93169e98a803b336eF1",
+			"0xC8ed087353ad3fE7ae9E6cF093eD51A4fEae079d",
+			"0xa2ef98702bb7287c58eEe8B8b81F28b2031A8a6C",
+			"0xD849497f08180d3f1a79397EF8ae4DBD05EC1a5c",
+			"0x1CF4e597f66FEa41263cA90E5C1B422c8719E334",
+			"0x6DCF87A42ccFcEdeE684607e406E75D079Cbf23a",
+			"0x9cB06997CA7bD7ed945A8C3d3456D307C70f1672",
+			"0x3d0D5e08b6F37F5e4072D1168a1F543B944A3878",
+			"0x3d7ec93875B6a6f0A5102fE29f887ee6E751b12F",
+			"0x75F2948bfF7D6D6bb6133cc5FE3c710656c2A939",
+			"0xfe4b86dbA6b80797e4E33695A4d308CC2cAb96d8",
+			"0xeDb0f17E5B701C8A1278B94B961384Cf4015F240",
+			"0xCf410B10C0f30948033e47b7209CC026054E9F18",
+		]
+	}
 ]
