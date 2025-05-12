@@ -6088,5 +6088,16 @@
             "0xE0590015A873bF326bd645c3E1266d4db41C4E6B",
             "0x786f4aA162457EcdF8fa4657759fa3E86C9394fF"
         ]
+    },
+    {
+	"name": "Castora",
+	"type": "Prediction",
+	"logo": "https://pbs.twimg.com/profile_images/1911526716553527296/ZETE3zfp_400x400.jpg",
+	"website": "https://castora.xyz",
+	"description": "Funfair price prediction markets on Monad.",
+	"monad_exclusive": true,
+	"contracts": [
+	     "0xa0742C672e713327b0D6A4BfF34bBb4cbb319C53"
+	]
     }
 ]
