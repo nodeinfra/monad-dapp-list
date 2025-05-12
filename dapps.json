@@ -6053,6 +6053,20 @@
 			"0xCf410B10C0f30948033e47b7209CC026054E9F18"
 		]
 	},
+	  {
+	   "name": "Mon Bridge Dex",
+	   "type": "DeFi",
+	   "logo": "https://pbs.twimg.com/profile_images/1906041880271556608/YU_iF1IE_400x400.jpg",
+	   "website": "https://monbridgedex.xyz/",
+	   "description": "Mon Bridge Dex compares multiple DEX routers to deliver the best swap output for your trades on Monad.",
+	   "monad_exclusive": true,
+	   "contracts": [
+					 "0x7c8d3897f0d40bf1a956be3525815350406fe8f1",
+					 "0x5Dc186D5fDDb5A2A49635F2b1C2459db904F87a5",
+					 "0x6c1c0a512ec6B2De3C5D9165d8301f6a2B9c06ac",
+					 "0xf0E000f7247eA81A922412905655e0B8ad815850"
+					]
+	   },
     {
         "name": "Madness Finance",
         "type": "DeFi",
