@@ -91,6 +91,20 @@
         "contracts": ["0x3aE6D8A282D67893e17AA70ebFFb33EE5aa65893"]
     },
     {
+        "name": "MonadM0narch",
+        "type": "GameFi",
+        "logo": "https://m0narch.xyz/logo.jpg",
+	"website": "https://m0narch.xyz",
+        "description": "MonadM0narch is provably fair, fully on‑chain gaming platform",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x32abcb3ec874c934bfb81fc66bc7943bf3dacde7",
+            "0x801bab7088890ec76db4841822d9abc427a6aa8d",
+            "0xb320c0db0e7d2feeda4cf09dbd009450561c551e",
+            "0x21730Db7aE00538A2ccfF5AFA602c37db1C0cC2f"
+        ]
+    },
+    {
         "name": "Pancake Swap",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1874650049172705281/OOl4g9ZD_400x400.jpg",
@@ -6039,19 +6053,40 @@
 			"0xCf410B10C0f30948033e47b7209CC026054E9F18"
 		]
 	},
-          {
-           "name": "Mon Bridge Dex",
-           "type": "DeFi",
-           "logo": "https://pbs.twimg.com/profile_images/1906041880271556608/YU_iF1IE_400x400.jpg",
-           "website": "https://monbridgedex.xyz/",
-           "description": "Mon Bridge Dex compares multiple DEX routers to deliver the best swap output for your trades on Monad.",
-           "monad_exclusive": true,
-           "contracts": [
-                         "0x7c8d3897f0d40bf1a956be3525815350406fe8f1",
-                         "0x5Dc186D5fDDb5A2A49635F2b1C2459db904F87a5",
-                         "0x6c1c0a512ec6B2De3C5D9165d8301f6a2B9c06ac",
-                         "0xf0E000f7247eA81A922412905655e0B8ad815850"
-                        ]
-           }
-
+	  {
+	   "name": "Mon Bridge Dex",
+	   "type": "DeFi",
+	   "logo": "https://pbs.twimg.com/profile_images/1906041880271556608/YU_iF1IE_400x400.jpg",
+	   "website": "https://monbridgedex.xyz/",
+	   "description": "Mon Bridge Dex compares multiple DEX routers to deliver the best swap output for your trades on Monad.",
+	   "monad_exclusive": true,
+	   "contracts": [
+					 "0x7c8d3897f0d40bf1a956be3525815350406fe8f1",
+					 "0x5Dc186D5fDDb5A2A49635F2b1C2459db904F87a5",
+					 "0x6c1c0a512ec6B2De3C5D9165d8301f6a2B9c06ac",
+					 "0xf0E000f7247eA81A922412905655e0B8ad815850"
+					]
+	   },
+    {
+        "name": "Madness Finance",
+        "type": "DeFi",
+        "logo": "https://pbs.twimg.com/profile_images/1892429480926556160/FKy7hJOY_400x400.png",
+        "website": "https://madness.finance/swap",
+        "description":"Trade with Speed and Security - The Native DEX on Monad",
+        "monad_exclusive": "",
+        "contracts": [
+            "0x642871094fd976de43a21cB48aA20B4A8baAAa0D",
+            "0x64Aff7245EbdAAECAf266852139c67E4D8DBa4de",
+            "0xC8527e96c3CB9522f6E35e95C0A28feAb8144f15",
+            "0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d",
+            "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
+            "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
+            "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
+            "0x5387C85A4965769f6B0Df430638a1388493486F1",
+            "0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714",
+            "0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50",
+            "0xE0590015A873bF326bd645c3E1266d4db41C4E6B",
+            "0x786f4aA162457EcdF8fa4657759fa3E86C9394fF"
+        ]
+    }
 ]
