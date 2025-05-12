@@ -94,6 +94,7 @@
         "name": "MonadM0narch",
         "type": "GameFi",
         "logo": "https://m0narch.xyz/logo.jpg",
+	"website": "https://m0narch.xyz",
         "description": "MonadM0narch is provably fair, fully on‑chain gaming platform",
         "monad_exclusive": true,
         "contracts": [
