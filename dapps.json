@@ -6073,7 +6073,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1892429480926556160/FKy7hJOY_400x400.png",
         "website": "https://madness.finance/swap",
         "description":"Trade with Speed and Security - The Native DEX on Monad",
-        "monad_exclusive": "",
+        "monad_exclusive": true,
         "contracts": [
             "0x642871094fd976de43a21cB48aA20B4A8baAAa0D",
             "0x64Aff7245EbdAAECAf266852139c67E4D8DBa4de",
