@@ -484,7 +484,7 @@
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1834464053701607424/bgW06V3j_400x400.jpg",
         "website": "https://caddy.finance/",
-        "description": "World's first protocol for LSDs with no lockups, hedge against volatility of the underlying asset.",
+        "description": "Deposit BTC and earn yields through derivatives strategies—choose Bull, Neutral, or Bear vaults and let our RFQ‑powered engine handle execution, risk mitigation, and payouts",
         "monad_exclusive": true,
         "contracts": [
           "0xaC65Aa139370e3D50525AB24dfC534942968a62D", 
@@ -493,7 +493,8 @@
           "0xd026e90B490115CeE33c34f1aE56c23dD65b3B90",
           "0xF4cA0DC6b15F20E0B7d172746F3DeE98c9aB0Fb4",
           "0xbB667fe78300751297a236b90F866E0d7D77c366",
-          "0x864994fF0F4ae3B7f6D0606372E4fC6D9Fd3EeCC"
+          "0x864994fF0F4ae3B7f6D0606372E4fC6D9Fd3EeCC",
+	  "0x2EE1136DDB32052674B7CeC3b04337B586859C33"
         ]
     },
     {
