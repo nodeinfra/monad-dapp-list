@@ -6103,5 +6103,18 @@
 	"contracts": [
 	     "0xa0742C672e713327b0D6A4BfF34bBb4cbb319C53"
 	]
+    },
+    {
+        "name": "Sherpa",
+        "type": "Aggregator",
+        "logo": "https://www.hedgemony.xyz/token_icon.png",
+        "website": "https://sherpa.trade",
+        "description": "AI-Powered DeFi Abstraction Layer",
+        "monad_exclusive": false,
+        "contracts": [
+            "0xfB06ac672944099E33Ad7F27f0Aa9B1bc43e65F8",
+            "0xc745fAdb86E78636838FD2DB193D7a0854345C13",
+            "0x04a9d9D4AEa93F512A4c7b71993915004325ed38"
+        ]
     }
 ]
