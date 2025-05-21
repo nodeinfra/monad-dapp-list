@@ -1,4 +1,13 @@
 [
+     {
+        "name": "NadPoker",
+        "type": "GameFi",
+        "logo": "https://purple-deep-aardvark-498.mypinata.cloud/ipfs/bafkreianrtiamrj6aodtdxlhn63ewlidgsoqvtpjswradcsagsmwvsvkvq",
+        "website": "https://nadpoker.xyz/",
+        "description": "NadPoker: First Monad-based platform letting anyone host poker tournaments",
+        "monad_exclusive": true,
+        "contracts": ["0x93E9CaE50424C7a4E3c5eCEb7855B6dab74Bc803"]
+    },
     {
         "name": "Monda DEX",
         "type": "DeFi",
