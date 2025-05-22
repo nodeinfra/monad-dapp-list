@@ -14,6 +14,24 @@
             "0x4019EBaFEbe64213e7777D8F0A4Bd60e645dB599"
         ]
     },
+	{
+        "name": "NadPoker",
+        "type": "GameFi",
+        "logo": "https://purple-deep-aardvark-498.mypinata.cloud/ipfs/bafkreianrtiamrj6aodtdxlhn63ewlidgsoqvtpjswradcsagsmwvsvkvq",
+        "website": "https://nadpoker.xyz/",
+        "description": "NadPoker: First Monad-based platform letting anyone host poker tournaments",
+        "monad_exclusive": true,
+        "contracts": ["0x93E9CaE50424C7a4E3c5eCEb7855B6dab74Bc803"]
+    },
+    {
+        "name": "Monad 2048",
+        "type": "GameFi",
+        "logo": "https://2048.monad.xyz/monad-logo.svg",
+        "website": "https://2048.monad.xyz/",
+        "description": "Monad 2048",
+        "monad_exclusive": true,
+        "contracts": ["0xe0FA8195AE92b9C473c0c0c12c2D6bCbd245De47"]
+    },
     {
         "name": "Crust Finance",
         "type": "DeFi",
