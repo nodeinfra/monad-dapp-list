@@ -16,7 +16,7 @@
     },
 	{
         "name": "NadPoker",
-        "type": "GameFi",
+        "type": "Game",
         "logo": "https://purple-deep-aardvark-498.mypinata.cloud/ipfs/bafkreianrtiamrj6aodtdxlhn63ewlidgsoqvtpjswradcsagsmwvsvkvq",
         "website": "https://nadpoker.xyz/",
         "description": "NadPoker: First Monad-based platform letting anyone host poker tournaments",
@@ -25,8 +25,8 @@
     },
     {
         "name": "Monad 2048",
-        "type": "GameFi",
-        "logo": "https://2048.monad.xyz/monad-logo.svg",
+        "type": "Game",
+        "logo": "https://pbs.twimg.com/profile_images/1877532281419739137/I_t8rg_V_400x400.jpg",
         "website": "https://2048.monad.xyz/",
         "description": "Monad 2048",
         "monad_exclusive": true,
@@ -110,7 +110,7 @@
     },
     {
         "name": "MonadM0narch",
-        "type": "GameFi",
+        "type": "Game",
         "logo": "https://m0narch.xyz/logo.jpg",
 	"website": "https://m0narch.xyz",
         "description": "MonadM0narch is provably fair, fully on‑chain gaming platform",
@@ -338,15 +338,6 @@
         ]
     },
     {
-        "name": "Poply",
-        "type": "NFT",
-        "logo": "https://pbs.twimg.com/profile_images/1875189576207110144/n5tn07pM_400x400.jpg",
-        "website": "https://linktr.ee/poply_xyz",
-        "description": "Community-based NFT marketplace where anyone can generate custom NFT collections",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
         "name": "OctoSwap",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1881835000024231936/Fb3P06s-_400x400.jpg",
@@ -357,24 +348,6 @@
 		"0xb6091233aAcACbA45225a2B2121BBaC807aF4255",
 		"0xe26dd94f67Ca3615fcaF6062750147F37Df84F7a"
 	]
-    },
-    {
-        "name": "Mace",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1876861581763764224/3Z3F9Cef_400x400.jpg",
-        "website": "https://www.mace.ag/",
-        "description": "The first native DEX aggregator on Monad",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Drake",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1840900183787520001/RiZyjhhL_400x400.png",
-        "website": "https://linktr.ee/drake_exchange",
-        "description": "Putting the CEX in perp DEX | High-speed, fully-onchain orderbook",
-        "monad_exclusive": true,
-        "contracts": []
     },
     {
         "name": "nad.fun",
@@ -450,15 +423,6 @@
         "contracts": ["0xb2f82D0f38dc453D596Ad40A37799446Cc89274A"]
     },
     {
-        "name": "Lootify",
-        "type": "Social",
-        "logo": "https://pbs.twimg.com/profile_images/1849030393787195392/Yf3tL4-H_400x400.jpg",
-        "website": "https://beta.lootify.xyz/",
-        "description": "Empowering hobbies on @monad_xyz",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
         "name": "Nad Name Service",
         "type": "Social",
         "logo": "https://pbs.twimg.com/profile_images/1882928904589254656/HOrr3i1H_400x400.png",
@@ -466,52 +430,6 @@
         "description": "First and only .nad name service on @Monad_xyz.",
         "monad_exclusive": true,
         "contracts": ["0x758D80767a751fc1634f579D76e1CcaAb3485c9c"]
-    },
-    {
-        "name": "Dirol",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1910640573490380800/VDASt3Gj_400x400.jpg",
-        "website": "https://dex.dirol.network/",
-        "description": "DeFi without the complexity. All on Dirol.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Griffy",
-        "type": "Prediction",
-        "logo": "https://pbs.twimg.com/profile_images/1888905511783084032/pf1nPK14_400x400.jpg",
-        "website": "https://t.me/griffybot_bot",
-        "description": "Prediction market for degens 💜",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-
-    {
-        "name": "Composite Labs",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1772956651210891264/1Murgaqw_400x400.jpg",
-        "website": "https://www.compositelabs.io/",
-        "description": "Building the best all-in-one trading platform on @monad_xyz",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Omnia",
-        "type": "Game",
-        "logo": "https://pbs.twimg.com/profile_images/1796709016808394752/C91LWB9H_400x400.jpg",
-        "website": "https://t.co/pzGcUdcy2v",
-        "description": "An upcoming pet battle and adventure game. Brought to you by Sappy.",
-        "monad_exclusive": false,
-        "contracts": []
-    },
-    {
-        "name": "Encifher",
-        "type": "Dev",
-        "logo": "https://pbs.twimg.com/profile_images/1884893783164395520/j8AdcIiG_400x400.jpg",
-        "website": "http://monad.encifher.io/",
-        "description": "Encrypting soon",
-        "monad_exclusive": true,
-        "contracts": []
     },
     {
         "name": "Caddy Finance",
@@ -532,24 +450,6 @@
         ]
     },
     {
-        "name": "HaHa Wallet",
-        "type": "Wallet",
-        "logo": "https://pbs.twimg.com/profile_images/1439511089406955523/djw2YASo_400x400.jpg",
-        "website": "https://www.haha.me/",
-        "description": "Best Wallet Experience on Monad 📱🧰",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Monadata.ai",
-        "type": "AI",
-        "logo": "https://pbs.twimg.com/profile_images/1795745903728541696/hQc4MMtO_400x400.jpg",
-        "website": "https://monadata.ai/",
-        "description": "Pioneering AI Annotator Workflow on @monad_xyz",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
         "name": "Mu Digital",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1834816886292508672/VDkHAG2v_400x400.jpg",
@@ -565,15 +465,6 @@
         ]
     },
     {
-        "name": "Jigsaw",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1766154707083640832/S6Hu9K57_400x400.jpg",
-        "website": "https://jigsaw.finance/",
-        "description": "The missing piece of DeFi 🧩",
-        "monad_exclusive": false,
-        "contracts": []
-    },
-    {
         "name": "Moseiki",
         "type": "Social",
         "logo": "https://pbs.twimg.com/profile_images/1875460351665295360/GzV_mEab_400x400.jpg",
@@ -581,15 +472,6 @@
         "description": "Moseiki | AI Powered SocialFi Platform",
         "monad_exclusive": true,
         "contracts": ["0x9B3e4242d5D301e05e8EF3f0399cb1a579e757B3", "0x5Ec240Bb1cEa429b67e0Edd62f58362CEB8CD2E7"]
-    },
-    {
-        "name": "Levr.Bet",
-        "type": "Prediction",
-        "logo": "https://pbs.twimg.com/profile_images/1836024387042004992/YKdDMkOG_400x400.jpg",
-        "website": "http://levr.bet/",
-        "description": "Decentralized Leveraged Sports Betting",
-        "monad_exclusive": true,
-        "contracts": []
     },
     {
         "name": "Curvance",
@@ -653,42 +535,6 @@
         "contracts": ["0x18C9534dfe16a0314B66395F48549716FfF9AA66", "0xd3E51bfEE95E31760B671AfEF9763fB2CF4A375a"]
     },
     {
-        "name": "Holdara",
-        "type": "Game",
-        "logo": "https://pbs.twimg.com/profile_images/1755904514001920000/zMIsmhmq_400x400.png",
-        "website": "https://holdara.io/",
-        "description": "A Living World where Players Forge the Future.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Hedgemony",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1822286581736378368/tzWQhkz5_400x400.jpg",
-        "website": "https://www.hedgemony.xyz/",
-        "description": "Intent Centric Execution Layer. Building the best trading experience on Monad.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Kizzy",
-        "type": "Prediction",
-        "logo": "https://pbs.twimg.com/profile_images/1889975983941591040/NeddfENS_400x400.jpg",
-        "website": "https://kizzy.io/",
-        "description": "Tap into the new world of social media betting.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Townesquare",
-        "type": "Dev",
-        "logo": "https://pbs.twimg.com/profile_images/1563311542334267398/gaQXK0FD_400x400.jpg",
-        "website": "http://townesquare.xyz/",
-        "description": "The Modular DApp Layer for Web 3 & DeFi onboarding.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
         "name": "RareBetSports",
         "type": "Prediction",
         "logo": "https://pbs.twimg.com/profile_images/1802788848956506112/KJnlcaQj_400x400.jpg",
@@ -702,33 +548,6 @@
           "0xF70DA0470B81315Fe9cEb695c9bE89F67713C815", 
           "0x3AD50059d6008b711209A509Fe58E68F0B672a42"
         ]
-    },
-    {
-        "name": "Modus",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1842311976308928512/W-LT6OO9_400x400.jpg",
-        "website": "https://www.modus.finance/",
-        "description": "Capital efficiency gone wild on Monad's first modular lending stack.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Fortytwo",
-        "type": "AI",
-        "logo": "https://pbs.twimg.com/profile_images/1892073351524319232/mX1OD5jb_400x400.png",
-        "website": "https://fortytwo.network/",
-        "description": "Decentralized AI for Unmatched Scalability on Monad.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Mozi",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1797574929904508928/QTb2OJV2_400x400.jpg",
-        "website": "https://mozi.finance/",
-        "description": "A lossless crypto experience powered by yield bearing assets.",
-        "monad_exclusive": true,
-        "contracts": []
     },
     {
         "name": "Fastlane",
@@ -754,24 +573,6 @@
         "contracts": ["0xC995498c22a012353FAE7eCC701810D673E25794"]
     },
     {
-        "name": "Sparkball",
-        "type": "Game",
-        "logo": "https://pbs.twimg.com/profile_images/1873539179298398208/xG3rc8eJ_400x400.jpg",
-        "website": "https://linktr.ee/playsparkball",
-        "description": "A 4v4 rush of adrenaline - brawl hard, ball harder.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
-        "name": "Pulse",
-        "type": "DEPIN",
-        "logo": "https://pbs.twimg.com/profile_images/1865163275807150080/jov8V4we_400x400.jpg",
-        "website": "https://linktr.ee/PulseNoLimits",
-        "description": "Next-gen longevity wearable & protocol.",
-        "monad_exclusive": true,
-        "contracts": []
-    },
-    {
         "name": "aiCraft.fun",
         "type": "AI",
         "logo": "https://pbs.twimg.com/profile_images/1880563397655150592/C_wOzCgf_400x400.jpg",
@@ -790,24 +591,6 @@
         "contracts": ["0x7DdD7dE29a12c122AC6a97584Aa734b5d096EF8f"]
     },
     {
-        "name": "MERV",
-        "type": "AI",
-        "logo": "https://pbs.twimg.com/profile_images/1829480401930264577/Cs2lSwGe_400x400.jpg",
-        "website": "https://merv.wtf/",
-        "description": "THE FIRST IP LAUNCHPAD ❀❀❀❀❀❀❀❀ Autonomous Memetic Mascots ❀ Infinite Media Engine ❀",
-        "monad_exclusive": "",
-        "contracts": []
-    },
-    {
-        "name": "Nextmate.AI",
-        "type": "Betting",
-        "logo": "https://pbs.twimg.com/profile_images/1820582939110866944/3sRJ544t_400x400.jpg",
-        "website": "https://nextmate.ai/",
-        "description": "Decentralized AI-Driven Prediction Market！",
-        "monad_exclusive": "",
-        "contracts": []
-    },
-    {
         "name": "Balancer",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1656222978919784449/eQgwPTaY_400x400.png",
@@ -821,24 +604,6 @@
             "0x956CCab09898C0AF2aCa5e6C229c3aD4E93d9288",
             "0x36caC20dd805d128c1a6Dd16eeA845C574b5A17C"
         ]
-    },
-    {
-        "name": "Impossible Finance",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1388056927167340544/9SxWPsH6_400x400.jpg",
-        "website": "https://impossible.finance/",
-        "description": "Building the Impossible | Accelerator, Advisor & Launchpad",
-        "monad_exclusive": "",
-        "contracts": []
-    },
-    {
-        "name": "INFINIT",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1881657854337413120/Q-cwamaR_400x400.jpg",
-        "website": "https://infinit.tech/",
-        "description": "The DeFi Abstraction Layer For DeFAI Automate personalized intents with DeFi Agents.",
-        "monad_exclusive": "",
-        "contracts": []
     },
     {
         "name": "iZUMi Finance",
@@ -899,15 +664,6 @@
         ]
     },
     {
-        "name": "Bebop",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1888879617886531584/EqdazUob_400x400.jpg",
-        "website": "https://bebop.xyz/",
-        "description": "Web3 trading app and API that finds the best route for all your trades. 😎",
-        "monad_exclusive": "",
-        "contracts": []
-    },
-    {
         "name": "Zona",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1816376732183863296/YK5ufOqo_400x400.png",
@@ -936,24 +692,6 @@
         "description": "A pretty good perp DEX. Tweets, voice and opinions by Defx intern™.",
         "monad_exclusive": "",
         "contracts": ["0xbd03338D0740cAC5929CF605a3C246B32C489fD5"]
-    },
-    {
-        "name": "Fufuture",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1780486877235249152/3jHe57EW_400x400.jpg",
-        "website": "https://www.fufuture.io/",
-        "description": "Perpetual options, 0 slippage, never liquidate, dual pools.",
-        "monad_exclusive": "",
-        "contracts": []
-    },
-    {
-        "name": "Golden Goose",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1839294437803044870/DMmcRsCR_400x400.jpg",
-        "website": "https://www.goose.farm/",
-        "description": "The first real super hybrid yields platform incubated by @cyclenetwork_GO",
-        "monad_exclusive": "",
-        "contracts": []
     },
     {
         "name": "hashflow",
@@ -6141,7 +5879,7 @@
     },
     {
         "name": "Sherpa",
-        "type": "Aggregator",
+        "type": "DeFi",
         "logo": "https://www.hedgemony.xyz/token_icon.png",
         "website": "https://sherpa.trade",
         "description": "AI-Powered DeFi Abstraction Layer",
@@ -6154,7 +5892,7 @@
     },
     {
         "name": "Fuku_nad",
-        "type": "GameFi",
+        "type": "DeFi",
         "logo": "https://testnet.fukunad.xyz/images/logo_fuku.svg",
         "website": "https://testnet.fukunad.xyz/",
         "description": "The first privacy decentralized Liquidity hub via gamified UX on @monad_xyz. TLDR:  It's like a spa day for your investments, but with BETTER returns..",
@@ -6167,7 +5905,7 @@
 	},
 	{
         "name": "Libera",
-        "type": "GameFi",
+        "type": "DeFi",
         "logo": "https://libera-media.nyc3.cdn.digitaloceanspaces.com/LIBeraBlackBackGround.png",
         "website": "https://libera.xyz",
         "description": "Libera: The Intelligent, Decentralized, and Non-Custodial gateway to the future of GambleFAI, powered by AI.",
