@@ -6119,6 +6119,19 @@
         ]
     },
     {
+        "name": "Fuku_nad",
+        "type": "GameFi",
+        "logo": "https://testnet.fukunad.xyz/images/logo_fuku.svg",
+        "website": "https://testnet.fukunad.xyz/",
+        "description": "The first privacy decentralized Liquidity hub via gamified UX on @monad_xyz. TLDR:  It's like a spa day for your investments, but with BETTER returns..",
+        "monad_exclusive": false,
+        "contracts": [
+			"0xFe3674c2FAF108e405bed2CD20257bB345f1d5A6",
+			"0x75c508210EA56074De9E9791297c0Ba41d1f063c",
+			"0x41691ca6b884809518794C671E474B4FaF589BC5"
+		]
+	},
+	{
         "name": "Libera",
         "type": "GameFi",
         "logo": "https://libera-media.nyc3.cdn.digitaloceanspaces.com/LIBeraBlackBackGround.png",
