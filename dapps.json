@@ -6117,5 +6117,14 @@
             "0xc745fAdb86E78636838FD2DB193D7a0854345C13",
             "0x04a9d9D4AEa93F512A4c7b71993915004325ed38"
         ]
+    },
+    {
+        "name": "Libera",
+        "type": "GameFi",
+        "logo": "https://libera-media.nyc3.cdn.digitaloceanspaces.com/LIBeraBlackBackGround.png",
+        "website": "https://libera.xyz",
+        "description": "Libera: The Intelligent, Decentralized, and Non-Custodial gateway to the future of GambleFAI, powered by AI.",
+        "monad_exclusive": false,
+        "contracts": ["0x8a5eb2691dd625f58d47b0463f3adb5d0c716a10"]
     }
 ]
