@@ -5,7 +5,7 @@
         "contracts": ["0xD528a57C0517EeA0E16b58040dEbe703597D9b2b"]
     },
     {
-        "name": "Mecha Box",
+        "name": "Mecha Box Mint Pass",
         "logo": "",
         "contracts": ["0x3db6c11474893689cdb9d7cdedc251532cadf32b"]
     },
@@ -15,12 +15,12 @@
         "contracts": ["0x7370a0a9e9a833bcd071b38fc25184e7afb57aff"]
     },
     {
-        "name": "chogstars",
+        "name": "Lil Chogstars",
         "logo": "https://bafybeidxyp7gmz6qdtrf6joh6vxvnzyei4lnlkktfotzybgyke7cdqql5u.ipfs.w3s.link/0.GIF",
         "contracts": ["0x26c86f2835c114571df2b6ce9ba52296cc0fa6bb"]
     },
     {
-        "name": "llamao",
+        "name": "Llamao x Fantasy Top",
         "logo": "https://bafybeidj7gchxqqbgzggvtig6u2l3z6cmuf6f2wnzezdhyefpffcp6orpm.ipfs.w3s.link/0.gif",
         "contracts": ["0x38f3730b009ec1707f5409caf44e329cc7b4d050"]
     },
@@ -35,7 +35,7 @@
         "contracts": ["0x9aC5998884Cf59d8A87DFC157560C1F0e1672E04"]
     },
     {
-        "name": "Chapter2: Back to the Past",
+        "name": "Monadverse: Chapter 2",
         "logo": "https://ipfs.io/ipfs/bafkreics3licfl4fgkjp4fdrcumc5ri665ea73pcsjfbd3g4shofvgroim",
         "contracts": ["0x3a9acc3be6e9678fa5d23810488c37a3192aaf75"]
     },
@@ -100,7 +100,7 @@
         "contracts": ["0xb03b60818fd7f391e2e02c2c41a61cff86e4f3f5"]
     },
     {
-        "name": "AI JARVIS",
+        "name": "AI JARVIS Collection",
         "logo": "https://ipfs.io/ipfs/bafkreicy2ss5clurq3dg7aeqbayxibrnhucz6j2piarjomflv2xgwhjtjm",
         "contracts": ["0xF7FC153d5b3B287fB2382530090c13D9cB0227F9"]
     },
@@ -120,7 +120,7 @@
         "contracts": ["0x8a4c367F84903c17F2Dcc3d013Ee649faF164f28"]
     },
     {
-        "name": "Madness NFT Collection",
+        "name": "Madness NFT",
         "logo": "https://ipfs.io/ipfs/bafkreigptfq6xnmssg5vntonwbuhploqs7zay75risr25m6vw7is5qfpte",
         "contracts": ["0x84a8cd84f6b11aee36a1bb406231215bb8dd7768"]
     }
