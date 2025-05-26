@@ -5,22 +5,22 @@
         "contracts": ["0xD528a57C0517EeA0E16b58040dEbe703597D9b2b"]
     },
     {
-        "name": "Mecha Box",
-        "logo": "",
+        "name": "Mecha Box Mint Pass",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fbafybeidcpazhdbbnbpubez3fs6ae67dc5zh6bsg4cwnzae4ybzrkewti3u.ipfs.dweb.link%2F",
         "contracts": ["0x3db6c11474893689cdb9d7cdedc251532cadf32b"]
     },
     {
         "name": "Chog Pass",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2Fhc%252BnPcLmWxs%252FDW99DlBQ42k40ZoyYV5jCIms5qHjwvsRmJiug7FUha%252F5lHupjKkErN6F8g42JGozAz17GKOeXjaHdSfIavhuYVIYksCB%252BXWSV36q9IDBva54RmKIoZf72jo5sZRxy6QFB1o5NP%252BHfAqe5OYv5X8iSKL2Vgn3f%252BO9wxh%252Bq%252FVbJB6WqUvoCCKA0iGH1hBQ71TE%252F0h4Sw0b2Q%253D%253D",
         "contracts": ["0x7370a0a9e9a833bcd071b38fc25184e7afb57aff"]
     },
     {
-        "name": "chogstars",
+        "name": "Lil Chogstars",
         "logo": "https://bafybeidxyp7gmz6qdtrf6joh6vxvnzyei4lnlkktfotzybgyke7cdqql5u.ipfs.w3s.link/0.GIF",
         "contracts": ["0x26c86f2835c114571df2b6ce9ba52296cc0fa6bb"]
     },
     {
-        "name": "llamao",
+        "name": "Llamao x Fantasy Top",
         "logo": "https://bafybeidj7gchxqqbgzggvtig6u2l3z6cmuf6f2wnzezdhyefpffcp6orpm.ipfs.w3s.link/0.gif",
         "contracts": ["0x38f3730b009ec1707f5409caf44e329cc7b4d050"]
     },
@@ -35,13 +35,13 @@
         "contracts": ["0x9aC5998884Cf59d8A87DFC157560C1F0e1672E04"]
     },
     {
-        "name": "Chapter2: Back to the Past",
+        "name": "Monadverse: Chapter 2",
         "logo": "https://ipfs.io/ipfs/bafkreics3licfl4fgkjp4fdrcumc5ri665ea73pcsjfbd3g4shofvgroim",
         "contracts": ["0x3a9acc3be6e9678fa5d23810488c37a3192aaf75"]
     },
     {
         "name": "Mondana Baddies: Baddie Eye",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2F%252F5Jbi0Ns6zow6QFNdglhEv%252FwIsqnboSrh8zE%252FQM7wAqL0vi5WdB5%252FX3SKaoLslaH1IZvK5sv9m04xednQM9E%252Fq9SDDwrNeBOk1M180SJA8zScIWll1HCUwEFpLFPi0lU.png",
         "contracts": ["0x84db60168be10fb2ae274ea84e24cb22ffe11ddd"]
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "name": "PEPENAD",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2Fi9YO%252F4yHXUdJsWcTqhqvf1KvPqLQb5rgsNvjHZjTaa1Sh%252F21g4Hu%252FamTTG0pmgeFQJvBVWhebl461f5zdQG2GKuoNYdyHFI4Dl4hOeMERj%252BwIjMZ5hUQdytPhMy0pHcR",
         "contracts": ["0x3559c92cdc105f3df9da37b7ac8232b7967f9fd2"]
     },
     {
@@ -66,27 +66,27 @@
     },
     {
         "name": "slmnd",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2FO1GmUbX%252FvNODx2ebXhWa19Re1lmtkuwe5YR658AZtyo6ELLCQjBn4Mug2i9yCl9b1%252Btx%252FprlOjdwsYWvKbdZuLjg0%252B0vKBfzxIHWHVGL5wfvL5EWOpqKUF0ke0Y5d70e.gif",
         "contracts": ["0x038b19e8f047d22bea5355ca99d976f7ee02c754"]
     },
     {
         "name": "Spike It Up",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2Fi9YO%252F4yHXUdJsWcTqhqvf7KBbgAvS1Ipraay8rddiNn8c5IqLkc5jUDT0Ygsu4fPbXk%252BEyC4XT1qZJAX2%252F7hlu9KHYyBALjJAtXLTT6girREllZMO57EYbYbGnEMaSVU",
         "contracts": ["0x9e4339d4d36bac6747e4e42e85e39cd1e2c58a1f"]
     },
     {
         "name": "The 10k squad",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2Fi9YO%252F4yHXUdJsWcTqhqvf8A7gDoiMu41cGiAsjADWMgBU07laMBanWyO9DVLn9FwemAG3xbVIpx%252FOThbM5txzM8YAK%252FyLGUl0DOzd1o%252FasdcqjSrk27o8vLLkkHGOT9Z",
         "contracts": ["0xe9e955130515dd086bf608f07802a03403b1984c"]
     },
     {
         "name": "The Daks Fantasies",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2FO1GmUbX%252FvNODx2ebXhWa14F5BCHU6BA%252FPUcAi21cUAoMBW%252B3IxuWAO94kFNL70p2l2YIbfAYLrM7zpKYQ8sum9kPmp9eJ4CHMCAS6T18nApG7Q0ZSVIkWAZZYncuyfYTP6MkO48Xryj6S9VaLehRkQ%253D%253D.png",
         "contracts": ["0x4e88056e13de12bde065589e501033227d8188e6"]
     },
     {
         "name": "Genesis Planter Card Testnet",
-        "logo": "",
+        "logo": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmonad-testnet%2FrSNTYhb5erNxjAvRIO43Vk66EINxLt355dB0mEl5pwCMEETEUuhP4qmSBzKGobJbwFXCgCrHVu%252FkP6Gs3D5uuEkRSQlZiVBra3p3DZkOJOqov%252FfHU8hDGwXnruqYrvWrPas%252FXkmIZ%252B0yKv5vRrlpBQ%253D%253D.gif",
         "contracts": ["0x9a452f1ae5c1927259dacfa3fd58ede9679c61d0"]
     },
     {
@@ -100,7 +100,7 @@
         "contracts": ["0xb03b60818fd7f391e2e02c2c41a61cff86e4f3f5"]
     },
     {
-        "name": "AI JARVIS",
+        "name": "AI JARVIS Collection",
         "logo": "https://ipfs.io/ipfs/bafkreicy2ss5clurq3dg7aeqbayxibrnhucz6j2piarjomflv2xgwhjtjm",
         "contracts": ["0xF7FC153d5b3B287fB2382530090c13D9cB0227F9"]
     },
@@ -120,7 +120,7 @@
         "contracts": ["0x8a4c367F84903c17F2Dcc3d013Ee649faF164f28"]
     },
     {
-        "name": "Madness NFT Collection",
+        "name": "Madness NFT",
         "logo": "https://ipfs.io/ipfs/bafkreigptfq6xnmssg5vntonwbuhploqs7zay75risr25m6vw7is5qfpte",
         "contracts": ["0x84a8cd84f6b11aee36a1bb406231215bb8dd7768"]
     }
