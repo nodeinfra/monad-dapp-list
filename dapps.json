@@ -15,6 +15,15 @@
         ]
     },
 	{
+        "name": "Amertis",
+        "type": "DeFi",
+        "logo": "https://testnet.amertis.exchange/icon.svg",
+        "website": "https://amertis.exchange/",
+        "description": "Simplifying DeFi swaps with the best rates. Connecting you to deep liquidity across multiple providers.",
+        "monad_exclusive": true,
+        "contracts": ["0xD158Cb79C63F4852485E37F05D20da3093d143Ed"]
+    },
+	{
         "name": "NadPoker",
         "type": "Game",
         "logo": "https://purple-deep-aardvark-498.mypinata.cloud/ipfs/bafkreianrtiamrj6aodtdxlhn63ewlidgsoqvtpjswradcsagsmwvsvkvq",
