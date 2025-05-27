@@ -5912,5 +5912,18 @@
         "description": "Libera: The Intelligent, Decentralized, and Non-Custodial gateway to the future of GambleFAI, powered by AI.",
         "monad_exclusive": false,
         "contracts": ["0x8a5eb2691dd625f58d47b0463f3adb5d0c716a10"]
+    },
+    {
+        "name": "Swmonad",
+        "type": "DeFi",
+        "logo": "https://pbs.twimg.com/profile_images/1924365506141650944/ZktiQ_yh_400x400.jpg",
+        "website": "https://swmonad.xyz/stake",
+        "description": "The Liquid Staking Platform on Monad",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x2Eb6709Ec63421b056522Aae424E94d060D13fA2",
+            "0xaf38734983a68eDFA4C1d6DB403dfa28bbf4009a",
+            "0x78ac1AA0452e293649FC1e0444DA6250ffF342C7"
+    ]
     }
 ]
