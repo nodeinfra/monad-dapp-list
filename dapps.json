@@ -64,7 +64,6 @@
         "description": "zkSwap Finance is a DEX and a Swap to Earn DeFi Platform",
         "monad_exclusive": false,
         "contracts": [
-            "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
             "0x969491FC643492E7a6bCfD49ed06E20Bc9B98C53",
             "0x6dcd25E655A6F551b69A7a00D27e6cBd21c83438",
             "0xF82343c8b777BAdB0921ee4c4F7581c968687B6b",
