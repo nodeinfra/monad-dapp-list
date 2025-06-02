@@ -1,43 +1,47 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "type": "array",
-    "items": {
-      "type": "object",
-      "required": ["name", "type", "logo", "description", "contracts"],
-      "properties": {
-        "name": {
-          "type": "string",
-          "minLength": 1
-        },
-        "type": {
-          "type": "string",
-          "minLength": 1
-        },
-        "logo": {
-          "type": "string",
-          "format": "uri"
-        },
-        "description": {
-          "type": "string"
-        },
-        "monad_exclusive": {
-          "oneOf": [
-            { "type": "boolean" },
-            { "type": "null" },
-            { 
-              "type": "string", 
-              "enum": ["", "true", "false"] 
-            }
-          ]
-        },
-        "contracts": {
-          "type": "array",
-          "items": {
-            "type": "string",
-            "pattern": "^0x[a-fA-F0-9]{40}$"
-          }
-        }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "type", "logo", "website", "description", "monad_exclusive", "contracts"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1
       },
-      "additionalProperties": false
-    }
+      "type": {
+        "type": "string",
+        "minLength": 1
+      },
+      "logo": {
+        "type": "string",
+        "format": "uri"
+      },
+      "website": {
+        "type": "string",
+        "format": "uri"
+      },
+      "description": {
+        "type": "string"
+      },
+      "monad_exclusive": {
+        "oneOf": [
+          { "type": "boolean" },
+          { "type": "null" },
+          {
+            "type": "string",
+            "enum": ["", "true", "false"]
+          }
+        ]
+      },
+      "contracts": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^0x[a-fA-F0-9]{40}$"
+        }
+      }
+    },
+    "additionalProperties": false
   }
+}
