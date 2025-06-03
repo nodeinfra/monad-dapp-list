@@ -5761,7 +5761,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1679045925556355075/lvEiK0XY_400x400.jpg",
         "website": "https://clober.io/",
         "description": "Clober is a fully on-chain orderbook DEX protocol that offers CEX-equivalent trading experience, powered by Limit Order Book with Segment Tree for Efficient Order-matching (LOBSTER) algorithm.",
-        "monad_exclusive": false,
+        "monad_exclusive": true,
         "contracts": [
             "0x7792669BEb769c4035bdFcA4F3d794d55922B954",
             "0xAA9575d63dFC224b9583fC303dB3188C08d5C85A",
@@ -5786,7 +5786,8 @@
             "0xDB1Aa7232c2fF7bb480823af254453570d0E4A16",
             "0x24A08695F06A37C8882CD1588442eC40061e597B",
             "0x41DF9f8a0c014a0ce398A3F2D1af3164ff0F492A",
-            "0x1D074e003E222905e31476A8398e36027141915b"
+            "0x1D074e003E222905e31476A8398e36027141915b",
+            "0xe01a781e7baF7b07a7cE9311a885633D32aE89F3"
         ]
     },
     {
