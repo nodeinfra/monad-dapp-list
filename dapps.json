@@ -5937,5 +5937,14 @@
             "0xaf38734983a68eDFA4C1d6DB403dfa28bbf4009a",
             "0x78ac1AA0452e293649FC1e0444DA6250ffF342C7"
     ]
+    },
+	{
+        "name": "GrinderWiki",
+        "type": "Social",
+        "logo": "https://grinder.wiki/imgs/GrinderLogo.png",
+        "website": "https://new.grinder.wiki/",
+        "description": "The Complete Web3 Quest & Airdrop Platform: Track, Participate, Earn.",
+        "monad_exclusive": false,
+        "contracts": ["0xB5DE142df2d74976247132A34BfF08ADd11e17bB"]
     }
 ]
