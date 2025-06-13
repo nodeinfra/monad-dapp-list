@@ -5946,5 +5946,14 @@
         "description": "The Complete Web3 Quest & Airdrop Platform: Track, Participate, Earn.",
         "monad_exclusive": false,
         "contracts": ["0xB5DE142df2d74976247132A34BfF08ADd11e17bB"]
+    },
+    {
+        "name": "Monday Trade",
+        "type": "DeFi",
+        "logo": "https://pbs.twimg.com/profile_images/1914526782990245888/eI-S7CCj_400x400.jpg",
+        "website": "https://app.monday.trade/",
+        "description": "Win the Week. Trade on Monday.",
+        "monad_exclusive": true,
+        "contracts": ["0xEf8DD29d887EcD977064Ce169366C95d53926B13"]
     }
 ]
