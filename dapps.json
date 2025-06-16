@@ -117,17 +117,19 @@
         "contracts": ["0x3aE6D8A282D67893e17AA70ebFFb33EE5aa65893"]
     },
     {
-        "name": "MonadM0narch",
+        "name": "M0narch",
         "type": "Game",
         "logo": "https://m0narch.xyz/logo.jpg",
-	"website": "https://m0narch.xyz",
+	    "website": "https://m0narch.xyz",
         "description": "MonadM0narch is provably fair, fully on‑chain gaming platform",
         "monad_exclusive": true,
         "contracts": [
             "0x32abcb3ec874c934bfb81fc66bc7943bf3dacde7",
             "0x801bab7088890ec76db4841822d9abc427a6aa8d",
             "0xb320c0db0e7d2feeda4cf09dbd009450561c551e",
-            "0x21730Db7aE00538A2ccfF5AFA602c37db1C0cC2f"
+            "0x21730Db7aE00538A2ccfF5AFA602c37db1C0cC2f",
+            "0x77371f7452AFF5FcaA3A3B59A11794dB19Af5981",
+            "0xeb2A705CEA0Fa7C9C37511a6C09cdfCF2E0B1B95"
         ]
     },
     {
