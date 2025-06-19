@@ -5966,5 +5966,25 @@
         "description": "Win the Week. Trade on Monday.",
         "monad_exclusive": true,
         "contracts": ["0xEf8DD29d887EcD977064Ce169366C95d53926B13"]
+    },
+    {
+        "name": "Sumer Money",
+        "type": "DeFi",
+        "logo": "https://i.postimg.cc/28pvSXyg/Sumer-logo-gold.png",
+        "website": "https://sumer.money/",
+        "description": "Sumer unifies correlated/non-correlated asset lending, CDP synthetics, and bridge liquidity into a capital-efficient DeFi pool.",
+        "monad_exclusive": false,
+        "contracts": [	"0x32F1C06EB41BF76dfd4C3E4F73BEfeBCAEc60D13",
+			"0xd813695790F6224DbefF433414cc0882A1159f3f",
+			"0x25b13e42763a97dd4041f595220642B593962356",
+			"0x4a997f2B619e7c7F4f7C2621b9Fa44CD616941E1",
+			"0x64A9b3e30f9E4A45AB6137d9C0B12AE2bA8DC251",
+			"0xE10b5F5B54eB544f68EFA073Fb6e9Ad16Cbf8bD0",
+			"0xEB441902ac56ae1340E178fBCcb3Ce5890206FcA",
+			"0x7DD4461FC2E0539596E4B9fFEF10C7748C2b8791",
+			"0x7181fBab419D5e45C07EB11d88Cd2C3230649FB8",
+			"0x229E77fC7Cf9a3e5cE79eE98989853C99e0FD225",
+			"0xC6E4cD806Cb6C1Fd032FA79488344D46afd70baD"
+		]
     }
 ]
