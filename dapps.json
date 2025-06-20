@@ -5987,5 +5987,17 @@
 			"0x229E77fC7Cf9a3e5cE79eE98989853C99e0FD225",
 			"0xC6E4cD806Cb6C1Fd032FA79488344D46afd70baD"
 		]
+    },
+    {
+        "name": "Wonad App",
+        "type": "SocialFi",
+        "logo": "https://www.thiswonad.xyz/assets/img/wonadlogo.png",
+        "website": "https://app.thiswonad.xyz/",
+        "description": "Wonad is the first Plant to Earn project in the Monad ecosystem, designed to provide a way to make a real-world impact while earning rewards. Wonad name meaning is World of Monad.",
+        "monad_exclusive": true,
+        "contracts": [	"0x0aD6Ef0E9EB962B4241a5180a94952612f1EB3Eb",
+			"0x15F752B6fDCa42f9341edb23bfbE36325dCFa733",
+			"0xB754A9E7Ee6Ff44b528ebD4255Fb78786c6DbED9"
+		]
     }
 ]
