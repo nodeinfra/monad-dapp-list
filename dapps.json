@@ -1,5 +1,16 @@
 [
     {
+        "name": "MACE",
+        "type": "DeFi",
+        "logo": "https://www.mace.ag/mace-logo-vertical.svg",
+        "website": "https://www.mace.ag/",
+        "description": "The first DEX aggregator on Monad - Providing the best swap routes, with the lowest slippage and more accurate costs estimation.",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x4515088F9dBF7766882C3fb554f0D55A9cC002a7"
+        ]
+    },
+    {
         "name": "Purps DEX",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1898733671798157312/SKe2XB43_400x400.jpg",
