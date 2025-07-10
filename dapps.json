@@ -13,7 +13,7 @@
     {
         "name": "Purps DEX",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1898733671798157312/SKe2XB43_400x400.jpg",
+        "logo": "https://www.purps.xyz/logo.svg",
         "website": "https://www.purps.xyz/",
         "description": "Deep Liquidity, Fluid Incubation & Unmatched DEX Execution",
         "monad_exclusive": true,
@@ -147,7 +147,7 @@
     {
         "name": "Pancake Swap",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1916803074364248064/KA8Jic9w_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1939946774153543680/G3tSeS6j_400x400.jpg",
         "website": "https://pancakeswap.finance/",
         "description": "Everyone's Favorite DEX",
         "monad_exclusive": false,
@@ -174,7 +174,7 @@
     {
         "name": "Zaros",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1877572008512204800/KwLZqD6k_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1917260361994031104/1pV4WECQ_400x400.jpg",
         "website": "https://www.zaros.fi/",
         "description": "Trade, Earn, and Build Derivatives on Zaros",
         "monad_exclusive": false,
@@ -256,7 +256,7 @@
     {
         "name": "Opals",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1886971538169323521/rec2Sh_B_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1924015382072840192/oOaoIuaV_400x400.png",
         "website": "https://opals.io/",
         "description": "Kickstart with Opals.io => PatronNFTs + Token Launcher + Diamond Hand Vesting",
         "monad_exclusive": true,
@@ -579,7 +579,7 @@
     {
         "name": "Fastlane",
         "type": "Staking",
-        "logo": "https://pbs.twimg.com/profile_images/1915844867864899584/GBre1nqp_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1935840734726270976/nnMo1axH_400x400.jpg",
         "website": "https://www.fastlane.xyz/",
         "description": "Accelerating execution & security on Monad with FastLane for Validators",
         "monad_exclusive": true,
@@ -620,7 +620,7 @@
     {
         "name": "Balancer",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1656222978919784449/eQgwPTaY_400x400.png",
+        "logo": "https://pbs.twimg.com/profile_images/1942693680021659648/WOvaSsDx_400x400.jpg",
         "website": "https://balancer.fi/",
         "description": "Build On Balancer http://discord.balancer.fi",
         "monad_exclusive": "",
@@ -732,7 +732,7 @@
     {
         "name": "Kuru",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1876637778336710656/2en6ZY-L_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1927899181395435520/rLJvNt1x_400x400.jpg",
         "website": "https://kuru.io/",
         "description": "Find and trade your favourite coins on a fully on-chain CLOB.",
         "monad_exclusive": true,
