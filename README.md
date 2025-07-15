@@ -54,7 +54,7 @@ NFT collection information has the following structure:
 
 1. **Prepare Required Information**
    - Application name
-   - Category (DeFi, Game, NFT, etc.)
+   - Category (DeFi, Game, Staking, etc.)
    - Logo image URL
    - Official website URL
    - Application description
