@@ -1,8 +1,19 @@
 [
     {
+        "name": "MACE",
+        "type": "DeFi",
+        "logo": "https://www.mace.ag/mace-logo-vertical.svg",
+        "website": "https://www.mace.ag/",
+        "description": "The first DEX aggregator on Monad - Providing the best swap routes, with the lowest slippage and more accurate costs estimation.",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x4515088F9dBF7766882C3fb554f0D55A9cC002a7"
+        ]
+    },
+    {
         "name": "Purps DEX",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1898733671798157312/SKe2XB43_400x400.jpg",
+        "logo": "https://www.purps.xyz/logo.svg",
         "website": "https://www.purps.xyz/",
         "description": "Deep Liquidity, Fluid Incubation & Unmatched DEX Execution",
         "monad_exclusive": true,
@@ -13,6 +24,15 @@
             "0x43DaE16358005f67f99D012613bf1e44568D3993",
             "0x4019EBaFEbe64213e7777D8F0A4Bd60e645dB599"
         ]
+    },
+	{
+        "name": "Amertis",
+        "type": "DeFi",
+        "logo": "https://testnet.amertis.exchange/icon.svg",
+        "website": "https://amertis.exchange/",
+        "description": "Simplifying DeFi swaps with the best rates. Connecting you to deep liquidity across multiple providers.",
+        "monad_exclusive": true,
+        "contracts": ["0xD158Cb79C63F4852485E37F05D20da3093d143Ed"]
     },
 	{
         "name": "NadPoker",
@@ -55,7 +75,6 @@
         "description": "zkSwap Finance is a DEX and a Swap to Earn DeFi Platform",
         "monad_exclusive": false,
         "contracts": [
-            "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
             "0x969491FC643492E7a6bCfD49ed06E20Bc9B98C53",
             "0x6dcd25E655A6F551b69A7a00D27e6cBd21c83438",
             "0xF82343c8b777BAdB0921ee4c4F7581c968687B6b",
@@ -109,23 +128,26 @@
         "contracts": ["0x3aE6D8A282D67893e17AA70ebFFb33EE5aa65893"]
     },
     {
-        "name": "MonadM0narch",
+        "name": "M0narch",
         "type": "Game",
         "logo": "https://m0narch.xyz/logo.jpg",
-	"website": "https://m0narch.xyz",
-        "description": "MonadM0narch is provably fair, fully on‑chain gaming platform",
+	    "website": "https://m0narch.xyz",
+        "description": "M0narch is provably fair, fully on‑chain gaming platform",
         "monad_exclusive": true,
         "contracts": [
             "0x32abcb3ec874c934bfb81fc66bc7943bf3dacde7",
             "0x801bab7088890ec76db4841822d9abc427a6aa8d",
             "0xb320c0db0e7d2feeda4cf09dbd009450561c551e",
-            "0x21730Db7aE00538A2ccfF5AFA602c37db1C0cC2f"
+            "0x21730Db7aE00538A2ccfF5AFA602c37db1C0cC2f",
+            "0x77371f7452AFF5FcaA3A3B59A11794dB19Af5981",
+            "0xeb2A705CEA0Fa7C9C37511a6C09cdfCF2E0B1B95",
+            "0x80f9cefc95699b7941dFA1F52c9c75d7C5e361Bd"
         ]
     },
     {
         "name": "Pancake Swap",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1916803074364248064/KA8Jic9w_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1939946774153543680/G3tSeS6j_400x400.jpg",
         "website": "https://pancakeswap.finance/",
         "description": "Everyone's Favorite DEX",
         "monad_exclusive": false,
@@ -152,7 +174,7 @@
     {
         "name": "Zaros",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1877572008512204800/KwLZqD6k_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1917260361994031104/1pV4WECQ_400x400.jpg",
         "website": "https://www.zaros.fi/",
         "description": "Trade, Earn, and Build Derivatives on Zaros",
         "monad_exclusive": false,
@@ -211,6 +233,7 @@
             "0x35e79dac2EF49aBD319F50d028F99e7d0f1a3559",
             "0x302f9eadE89F38Cef56a252C8F84f3a1F7f94933",
             "0x20db6a0DB7B47539E513CE29Ac4018fe504FBb2a",
+	    "0x4cECDc55CECE5fE10cF5982a43aa44Ad5C23479B",
             "0xe67b22228362f54c207623857ac01b0f8fa1e14f",
             "0xf5272255fef2ce9735944706625597011f45c986",
             "0xf49847295eeb5f262e29aa309b2af39e983c1734",
@@ -233,7 +256,7 @@
     {
         "name": "Opals",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1886971538169323521/rec2Sh_B_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1924015382072840192/oOaoIuaV_400x400.png",
         "website": "https://opals.io/",
         "description": "Kickstart with Opals.io => PatronNFTs + Token Launcher + Diamond Hand Vesting",
         "monad_exclusive": true,
@@ -347,7 +370,10 @@
         "monad_exclusive": true,
         "contracts": [
 		"0xb6091233aAcACbA45225a2B2121BBaC807aF4255",
-		"0xe26dd94f67Ca3615fcaF6062750147F37Df84F7a"
+		"0xe26dd94f67Ca3615fcaF6062750147F37Df84F7a",
+		"0x8B1fb7B1da49F111A2C0C11925D5bB86a2fab88E",
+		"0xD404cbEE8213aD72f545c07fA47c320CAB86677b",
+		"0x54a561ad4808dbabbb3b61347f5e90006fc05547"
 	]
     },
     {
@@ -553,7 +579,7 @@
     {
         "name": "Fastlane",
         "type": "Staking",
-        "logo": "https://pbs.twimg.com/profile_images/1915844867864899584/GBre1nqp_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1935840734726270976/nnMo1axH_400x400.jpg",
         "website": "https://www.fastlane.xyz/",
         "description": "Accelerating execution & security on Monad with FastLane for Validators",
         "monad_exclusive": true,
@@ -594,7 +620,7 @@
     {
         "name": "Balancer",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1656222978919784449/eQgwPTaY_400x400.png",
+        "logo": "https://pbs.twimg.com/profile_images/1942693680021659648/WOvaSsDx_400x400.jpg",
         "website": "https://balancer.fi/",
         "description": "Build On Balancer http://discord.balancer.fi",
         "monad_exclusive": "",
@@ -706,7 +732,7 @@
     {
         "name": "Kuru",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1876637778336710656/2en6ZY-L_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1927899181395435520/rLJvNt1x_400x400.jpg",
         "website": "https://kuru.io/",
         "description": "Find and trade your favourite coins on a fully on-chain CLOB.",
         "monad_exclusive": true,
@@ -5752,7 +5778,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1679045925556355075/lvEiK0XY_400x400.jpg",
         "website": "https://clober.io/",
         "description": "Clober is a fully on-chain orderbook DEX protocol that offers CEX-equivalent trading experience, powered by Limit Order Book with Segment Tree for Efficient Order-matching (LOBSTER) algorithm.",
-        "monad_exclusive": false,
+        "monad_exclusive": true,
         "contracts": [
             "0x7792669BEb769c4035bdFcA4F3d794d55922B954",
             "0xAA9575d63dFC224b9583fC303dB3188C08d5C85A",
@@ -5777,7 +5803,8 @@
             "0xDB1Aa7232c2fF7bb480823af254453570d0E4A16",
             "0x24A08695F06A37C8882CD1588442eC40061e597B",
             "0x41DF9f8a0c014a0ce398A3F2D1af3164ff0F492A",
-            "0x1D074e003E222905e31476A8398e36027141915b"
+            "0x1D074e003E222905e31476A8398e36027141915b",
+            "0xe01a781e7baF7b07a7cE9311a885633D32aE89F3"
         ]
     },
     {
@@ -5849,7 +5876,7 @@
     {
         "name": "Madness Finance",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1892429480926556160/FKy7hJOY_400x400.png",
+        "logo": "https://pbs.twimg.com/profile_images/1941755226932797440/OHwtaH1B_400x400.jpg",
         "website": "https://madness.finance/swap",
         "description":"Trade with Speed and Security - The Native DEX on Monad",
         "monad_exclusive": true,
@@ -5865,7 +5892,34 @@
             "0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714",
             "0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50",
             "0xE0590015A873bF326bd645c3E1266d4db41C4E6B",
-            "0x786f4aA162457EcdF8fa4657759fa3E86C9394fF"
+            "0x786f4aA162457EcdF8fa4657759fa3E86C9394fF",
+            "0x074Fc43E933A4d55000933c52A10001983d0aD3A",
+            "0x193592380abe7D23447991F50Bf6169061770cbD",
+            "0x22d22562b91AE95D3affcA5D3f722DE641Ba40F2",
+            "0xe3f4BD4786fAC82530132935094C4179028af599",
+            "0x067005015f4F3b6e64fb9935d0c59a0d02D3b095",
+            "0x00f5A0c9D8C2ad118D5D6b9c3D263b06547BA432",
+            "0xC44c96C78c40C26c76Da00ca04ee9B9480a889c4",
+            "0xF931E335a4b6E31CeB3409884E67aFe7d041421f",
+            "0xBa2f78144Bd039443ca980d7687e23add05d3aF0",
+            "0x893c5e849BF4D247bAAFD1c48053E6e52cB84094",
+            "0x41d8Cf5011dE646DfC16C35C443342E44e3B2dc6",
+            "0xE9b9300290d7853bae3b09B2952e17cA6fF484ca",
+            "0xE1f18267A09c15f4a19283620e93F95137191b9D",
+            "0x67e90Fc3e5f2b63D9617C7E1a73a9e25c8A04B5c",
+            "0xDAc65261409128ccc423606049e3CF182d5797a5",
+            "0x178D4fC0d1F93E0C3CE51f811b4070894a3E300e",
+            "0x87674cedcc9EAfb1dA4f01c71555986b2cd1e04A",
+            "0x6880226345797D5BdB8fF5980a05D62Ab7224027",
+            "0x0803994E7c053AdFb7c5B2f45436ee0fc37f25c1",
+            "0xFf55666E8A508CD550FeFFC64F2715278394a140",
+            "0xb31b8bec8855c3966daE16D017D714Dc7b278C0B",
+            "0x576271fE74D5E170B7c40e83B434aBABe649b0dc",
+            "0xdD4F612f51Dd04292364f6a569d20b4991a5aeEA",
+            "0x623d2148BF4ec13c0486CA624d84017bBD4Cf677",
+            "0x3aa81D3Fa0FEeA629c6Dcc62b028635a4D12a99b",
+            "0xCFdaFF350183C34c7b0A4DbE13ca4516D3bf221d",
+            "0xaa18Dd947A698FbD6270ABA1a54b0567FeF716C2"
         ]
     },
     {
@@ -5913,5 +5967,68 @@
         "description": "Libera: The Intelligent, Decentralized, and Non-Custodial gateway to the future of GambleFAI, powered by AI.",
         "monad_exclusive": false,
         "contracts": ["0x8a5eb2691dd625f58d47b0463f3adb5d0c716a10"]
+    },
+    {
+        "name": "Swmonad",
+        "type": "DeFi",
+        "logo": "https://pbs.twimg.com/profile_images/1924365506141650944/ZktiQ_yh_400x400.jpg",
+        "website": "https://swmonad.xyz/stake",
+        "description": "The Liquid Staking Platform on Monad",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x2Eb6709Ec63421b056522Aae424E94d060D13fA2",
+            "0xaf38734983a68eDFA4C1d6DB403dfa28bbf4009a",
+            "0x78ac1AA0452e293649FC1e0444DA6250ffF342C7"
+    ]
+    },
+	{
+        "name": "GrinderWiki",
+        "type": "Social",
+        "logo": "https://grinder.wiki/imgs/GrinderLogo.png",
+        "website": "https://new.grinder.wiki/",
+        "description": "The Complete Web3 Quest & Airdrop Platform: Track, Participate, Earn.",
+        "monad_exclusive": false,
+        "contracts": ["0xB5DE142df2d74976247132A34BfF08ADd11e17bB"]
+    },
+    {
+        "name": "Monday Trade",
+        "type": "DeFi",
+        "logo": "https://pbs.twimg.com/profile_images/1914526782990245888/eI-S7CCj_400x400.jpg",
+        "website": "https://app.monday.trade/",
+        "description": "Win the Week. Trade on Monday.",
+        "monad_exclusive": true,
+        "contracts": ["0xEf8DD29d887EcD977064Ce169366C95d53926B13"]
+    },
+    {
+        "name": "Sumer Money",
+        "type": "DeFi",
+        "logo": "https://i.postimg.cc/28pvSXyg/Sumer-logo-gold.png",
+        "website": "https://sumer.money/",
+        "description": "Sumer unifies correlated/non-correlated asset lending, CDP synthetics, and bridge liquidity into a capital-efficient DeFi pool.",
+        "monad_exclusive": false,
+        "contracts": [	"0x32F1C06EB41BF76dfd4C3E4F73BEfeBCAEc60D13",
+			"0xd813695790F6224DbefF433414cc0882A1159f3f",
+			"0x25b13e42763a97dd4041f595220642B593962356",
+			"0x4a997f2B619e7c7F4f7C2621b9Fa44CD616941E1",
+			"0x64A9b3e30f9E4A45AB6137d9C0B12AE2bA8DC251",
+			"0xE10b5F5B54eB544f68EFA073Fb6e9Ad16Cbf8bD0",
+			"0xEB441902ac56ae1340E178fBCcb3Ce5890206FcA",
+			"0x7DD4461FC2E0539596E4B9fFEF10C7748C2b8791",
+			"0x7181fBab419D5e45C07EB11d88Cd2C3230649FB8",
+			"0x229E77fC7Cf9a3e5cE79eE98989853C99e0FD225",
+			"0xC6E4cD806Cb6C1Fd032FA79488344D46afd70baD"
+		]
+    },
+    {
+        "name": "Wonad App",
+        "type": "SocialFi",
+        "logo": "https://www.thiswonad.xyz/assets/img/wonadlogo.png",
+        "website": "https://app.thiswonad.xyz/",
+        "description": "Wonad is the first Plant to Earn project in the Monad ecosystem, designed to provide a way to make a real-world impact while earning rewards. Wonad name meaning is World of Monad.",
+        "monad_exclusive": true,
+        "contracts": [	"0x0aD6Ef0E9EB962B4241a5180a94952612f1EB3Eb",
+			"0x15F752B6fDCa42f9341edb23bfbE36325dCFa733",
+			"0xB754A9E7Ee6Ff44b528ebD4255Fb78786c6DbED9"
+		]
     }
 ]
