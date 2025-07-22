@@ -4,7 +4,7 @@ A registry for managing DApp and NFT collection information operating on the Mon
 
 ## 📋 Overview
 
-This project manages metadata for registering various decentralized applications (DApps) and NFT collections operating on the Monad blockchain network to NadRadar.
+This project manages metadata for registering various decentralized applications (DApps) and NFT collections operating on the Monad blockchain network to nadradar.
 
 ## 🏗️ Data Structure
 
