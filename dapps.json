@@ -1,5 +1,18 @@
 [
     {
+        "name": "Kizzy",
+        "type": "Game",
+        "logo": "https://kizzy.io/images/kizzy-dark-logo.png",
+        "website": "https://kizzy.io",
+        "description": "Social media betting platform.",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x954a9b30f5aece2c1581e33b16d9ddfcd473a0f8",
+            "0x380850effbaef0be65e10e964c23f320e4917334",
+            "0x25859318f26a78b7613ef1b7a9005e997ea03821"
+        ]
+    },
+    {
         "name": "MACE",
         "type": "DeFi",
         "logo": "https://www.mace.ag/mace-logo-vertical.svg",
