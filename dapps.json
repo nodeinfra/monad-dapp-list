@@ -6066,5 +6066,35 @@
 			"0x887C4A5D984B472CdDa699F1b5158D5f217b54Aa",
 			"0xc55c86ef14Dc7A058895659CC11c97C344bF6e7B"
 		]
-}
+},
+ {
+    "name": "TownSquare",
+    "type": "DeFi",
+    "logo": "https://pbs.twimg.com/profile_images/1563311542334267398/gaQXK0FD_400x400.jpg",
+    "website": "https://www.townsq.xyz/",
+    "description": "TownSquare is a modular money market that powers leveraged yield for yield-bearing assets & RWAs.",
+    "monad_exclusive": false,
+    "contracts": [
+      "0xB3e5A792E03ca65BBcFeA28BCDeD5C7406bcEa10",
+      "0x9BCeEA5cF70F801d461AE40eBF75Dda72a02696c",
+      "0x74d7c47351E42C65824Ad4AC571CbEc993e3445F",
+      "0x4A8f7e9A4B20E323bdDE44EF17489c435B628434",
+      "0x243E0DC94CF51ecc584005ba76A3f89507054B0a",
+      "0x0BADD782eAa412b3Cc4ae199A4e0eDf68d021d66",
+      "0x9A730fFC53756928c14179660c5b6A622d2d27Bd",
+      "0x6ddd30336163ab7866FC0f1755b8e9B5fEdd49b8",
+      "0xA0D305c9c24cca6bA2D727886202E331ac9ed59D",
+      "0xBc8913A1AB93717A3FC0BDc207F12C1F7fB0abA3",
+      "0x9bcCa261B52346f7C26b82993A1f83Fb1e83a3e2",
+      "0x5407f318EBE3Fb2C3aCf1cA8218c12C3BbA1F6f0",
+      "0x9Ec59000F3978795337e87629Fe9a8F7Af461f4B",
+      "0x68507427e7ADF9ec7B3E1a94cCba022f45B68c9d",
+      "0x432604341627F5D2cDE2b0189018329D0E491e6b",
+      "0xB4D5E8114366c1e4bf4bbB48962270a7873fC2F0",
+      "0x072eCA70c5eF4449C64538b55e909527Ed569848",
+      "0x46111FC38177Dac8A0c20307114Bc38e15aAeAeE",
+      "0x10CfC510c2aBaed65339ce54FF793B22967452fc",
+      "0xFF2ab3eBE4628790f3Cb6d2a1c6727D9BD953B8C"
+    ]
+    }
 ]
