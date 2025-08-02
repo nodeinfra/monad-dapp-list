@@ -6137,5 +6137,19 @@
 			"0x9AC4BbD8Efa91293e99c86aD5d212C3D23BeD23A",
 			"0x4a090FE4714c72AABD7825B54cd836f373ff0D47"
 		]
-	}
+	},
+    {
+	"name": "Swyrl Finance",
+	"type": "DeFi",
+	"logo": "https://pbs.twimg.com/profile_images/1925440558769872897/j1BXlrTp_400x400.jpg",
+	"website": "https://swyrl.finance",
+	"description": "A Monad-native trading center and concentrated liquidity marketplace.",
+	"monad_exclusive": true,
+	"contracts": [
+		"0xfE5bC01Ff7631D495630331E02B4aEAA0BF9840D",
+		"0xBb1c0A20D503BA2583A2ac57c2A09AB154175595",
+		"0x2328a96b2Dff39AaA5Ce76a17a00D9B5eB7154A9",
+		"0x84Bed1332bb7007CC093Dc85cc93172Fcbf140e2"
+	]
+    }
 ]
