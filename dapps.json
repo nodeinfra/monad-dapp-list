@@ -160,7 +160,7 @@
     {
         "name": "Pancake Swap",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1939946774153543680/G3tSeS6j_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1949012010378952705/wZGdragb_400x400.jpg",
         "website": "https://pancakeswap.finance/",
         "description": "Everyone's Favorite DEX",
         "monad_exclusive": false,
@@ -235,7 +235,7 @@
     {
         "name": "Crystal",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1879675733162827777/8LXGXCcY_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1953332599734321156/4nB1AdDB_400x400.jpg",
         "website": "https://crystal.exchange/",
         "description": "Crystal is a fully on-chain CLOB exchange that brings CEX-grade performance to the EVM",
         "monad_exclusive": true,
@@ -516,7 +516,7 @@
     {
         "name": "Curvance",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1890481278673207296/TiHA905U_400x400.png",
+        "logo": "https://pbs.twimg.com/profile_images/1943327843619864576/e77RYQUQ_400x400.png",
         "website": "https://monad.curvance.com/monad",
         "description": "DeFi from everywhere, for everyone. Powered by @wormhole",
         "monad_exclusive": false,
@@ -745,7 +745,7 @@
     {
         "name": "Kuru",
         "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1927899181395435520/rLJvNt1x_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1950962142917619714/R7Cj_qk7_400x400.jpg",
         "website": "https://kuru.io/",
         "description": "Find and trade your favourite coins on a fully on-chain CLOB.",
         "monad_exclusive": true,
@@ -5740,7 +5740,7 @@
     {
         "name": "LootGO",
         "type": "Social",
-        "logo": "https://pbs.twimg.com/profile_images/1894255158218907648/P2CmvTG0_400x400.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1947490514921488384/TLSJg7Z5_400x400.jpg",
         "website": "https://lootgo.app/",
         "description": "A free walk-to-earn mobile game. Turn your daily life into a treasure hunt!",
         "monad_exclusive": false,
@@ -6056,7 +6056,7 @@
 	{
   	"name": "Peridot Protocol",
   	"type": "DeFi",
-  	"logo": "https://drive.google.com/file/d/1LX_uvqvmzLivBkvRO_1QT4_pmEEjh99g/view?usp=sharing",
+  	"logo": "https://pbs.twimg.com/profile_images/1912262810865664000/jdB-wURJ_400x400.jpg",
   	"website": "https://peridot.finance",
   	"description": "Peridot Protocol is a Cross-Chain Money Market enabling seamless Lending & Borrowing across any Blockchain",
   	"monad_exclusive": "false",
