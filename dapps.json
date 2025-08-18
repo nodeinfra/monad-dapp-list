@@ -6011,7 +6011,9 @@
         "website": "https://new.grinder.wiki/",
         "description": "The Complete Web3 Quest & Airdrop Platform: Track, Participate, Earn.",
         "monad_exclusive": false,
-        "contracts": ["0xB5DE142df2d74976247132A34BfF08ADd11e17bB"]
+        "contracts": ["0xB5DE142df2d74976247132A34BfF08ADd11e17bB",
+			          "0x21B2aED41b7BD7Fcc70909261544fB92C17B0978"
+		]
     },
     {
         "name": "Monday Trade",
