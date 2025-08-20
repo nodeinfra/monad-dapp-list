@@ -123,5 +123,10 @@
         "name": "Madness NFT",
         "logo": "https://ipfs.io/ipfs/bafkreigptfq6xnmssg5vntonwbuhploqs7zay75risr25m6vw7is5qfpte",
         "contracts": ["0x84a8cd84f6b11aee36a1bb406231215bb8dd7768"]
+    },
+    {
+        "name": "Monazuki",
+        "logo": "https://monazuki.littlebunnyrocket.com/logo-monazuki-small.png",
+        "contracts": ["0x6611001bcac4936d000b2b29054640cf16c3d2a1"]
     }
 ]
