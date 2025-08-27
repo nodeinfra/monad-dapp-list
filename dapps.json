@@ -6156,17 +6156,17 @@
 		]
     },
 	{
-	  "name": "Monazuki Neon Trials",
-	  "type": "Game (On-chain Adventure, NFT-powered)",
-	  "logo": "https://monazuki.littlebunnyrocket.com/game-logo.webp",
-	  "website": "https://monazuki.littlebunnyrocket.com/",
-	  "description": "Monazuki Neon Trials is an interactive on-chain adventure game on the Monad network. Players begin their journey by burning a fuel NFT, then navigate through branching story scenes with time-based cooldowns. Each choice affects score, transactions, and the chance of reaching a victory ending. Top players can earn Monazuki Badges (Soulbound) and secure a spot on the leaderboard. The game also features side actions with random rewards, Monad Games ID integration, and fully on-chain player data tracking.",
-	  "monad_exclusive": true,
-	  "contracts": [
-	    "0x7da7AfF4D2eFEE045aA166849B73Efa8752eC3Bb",
-	    "0x6611001bcac4936d000b2b29054640cf16c3d2a1",
-	    "0xe532620706eD231F858F0dBd43Ecb1451B329131",
-	    "0xceCBFF203C8B6044F52CE23D914A1bfD997541A4"
-	  ]
+		"name": "Monazuki Neon Trials",
+		"type": "Game (On-chain Adventure, NFT-powered)",
+		"logo": "https://monazuki.littlebunnyrocket.com/game-logo.webp",
+		"website": "https://monazuki.littlebunnyrocket.com/",
+		"description": "Monazuki Neon Trials is an interactive on-chain adventure game on the Monad network. Players begin their journey by burning a fuel NFT, then navigate through branching story scenes with time-based cooldowns. Each choice affects score, transactions, and the chance of reaching a victory ending. Top players can earn Monazuki Badges (Soulbound) and secure a spot on the leaderboard. The game also features side actions with random rewards, Monad Games ID integration, and fully on-chain player data tracking.",
+		"monad_exclusive": true,
+		"contracts": [
+			"0x7da7AfF4D2eFEE045aA166849B73Efa8752eC3Bb",
+			"0x6611001bcac4936d000b2b29054640cf16c3d2a1",
+			"0xe532620706eD231F858F0dBd43Ecb1451B329131",
+			"0xceCBFF203C8B6044F52CE23D914A1bfD997541A4"
+		]
 	}
 ]
