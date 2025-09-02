@@ -110,3 +110,4 @@ NFT collection information has the following structure:
 ---
 
 *This registry is continuously updated with the growth of the Monad testnet ecosystem.*
+
