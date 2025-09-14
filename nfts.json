@@ -128,5 +128,15 @@
         "name": "Monazuki",
         "logo": "https://monazuki.littlebunnyrocket.com/logo-monazuki-small.png",
         "contracts": ["0x6611001bcac4936d000b2b29054640cf16c3d2a1"]
+    },
+    {
+        "name": "Chogzuki",
+        "logo": "https://chogzuki.truthnode.xyz/chogzuki-logo.gif",
+        "contracts": ["0xccc181b0b67a668eec000a5d55d2caefad40c338"]
+    },
+    {
+        "name": "Chogzuki Genesis",
+        "logo": "https://chogzuki.truthnode.xyz/chogzuki-genesis-logo.gif",
+        "contracts": ["0x444e6a748aff7e812d36b68c774c6b5fdc3b0b43"]
     }
 ]
