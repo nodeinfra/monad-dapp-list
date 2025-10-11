@@ -6173,5 +6173,18 @@
 			"0xe532620706eD231F858F0dBd43Ecb1451B329131",
 			"0xceCBFF203C8B6044F52CE23D914A1bfD997541A4"
 		]
-	}
+	},
+	{
+        "name": "Something",
+        "type": "DeFi",
+        "logo": "https://ipfs.something.tools/ipfs/bafkreigq2fl4bkvs3oadwgo6udit5ek2gzemlnar4qyrmefwu74eabmp64",
+        "website": "https://testnet-monad.something.tools",
+        "description": "Something delivers a full Launchpad suite - flexible migration fees, a highly customizable AMM, and revenue sharing for creators.",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x037eCCCDEA8C1C3F5668A87AEf244010A8c83aeb",
+            "0x6aD85C8b26B5Ed7fCA7d8BaF0BAE8C03B247bd81",
+            "0x5d747C7CEB03287C4e6518C04e1631bEfBFa82dC"
+        ]
+    }
 ]
