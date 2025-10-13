@@ -3,24 +3,11 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["name", "logo", "contracts"],
+    "required": ["name", "contracts"],
     "properties": {
       "name": {
         "type": "string",
         "minLength": 1
-      },
-      "logo": {
-        "oneOf": [
-          { 
-            "type": "string",
-            "format": "uri" 
-          },
-          { "type": "null" },
-          {
-            "type": "string",
-            "enum": [""]
-          }
-        ]
       },
       "contracts": {
         "type": "array",

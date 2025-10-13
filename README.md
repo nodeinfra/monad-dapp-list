@@ -31,7 +31,6 @@ NFT collection information has the following structure:
 ```json
 {
   "name": "NFT collection name",
-  "logo": "Collection logo URL",
   "contracts": ["Array of contract addresses"]
 }
 ```
@@ -44,9 +43,8 @@ NFT collection information has the following structure:
 - URL format validation
 
 ### NFT Schema
-- Required field validation (name, logo, contracts)
+- Required field validation (name, contracts)
 - Contract address format validation
-- Logo URL or null values allowed
 
 ## 🔧 Registration Method
 
@@ -83,21 +81,18 @@ NFT collection information has the following structure:
 
 1. **Prepare Required Information**
    - NFT collection name
-   - Collection logo URL (optional)
    - Contract address list
 
 2. **Write in JSON Format**
    ```json
    {
      "name": "Your NFT Collection",
-     "logo": "https://your-logo-url.com/collection.jpg",
      "contracts": ["0x1234567890abcdef1234567890abcdef12345678"]
    }
    ```
 
 3. **Verify Schema Validation**
    - Name and contract addresses are required
-   - Logo is optional (null or empty string allowed)
    - Verify contract address format
 
 ## 📝 Notes
@@ -105,7 +100,6 @@ NFT collection information has the following structure:
 - All contract addresses follow Ethereum address format (0x + 40-character hexadecimal)
 - The `monad_exclusive` field indicates whether the DApp operates exclusively on the Monad network
 - Logo images must be in HTTP/HTTPS URL format
-- NFT collections may not have logos (null or empty string allowed)
 
 ---
 
