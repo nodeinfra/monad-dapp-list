@@ -1,0 +1,33 @@
+{
+  "name": "Nar.Bet",
+  "type": "Betting",
+  "logo": "https://narwhal-finance.gitbook.io/nar.bet/~gitbook/image?url=https%3A%2F%2F4151774980-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FBIUokmEXvULjLDdw7WOE%252Fuploads%252FnXdZQNYwpp2U1pZgWyh8%252FNAR.BET__Vertical_Gradient_Black.png%3Falt%3Dmedia%26token%3D86859c28-0cbd-4c59-8faa-ed933b940e3a&width=768&dpr=4&quality=100&sign=5c296506&sv=2",
+  "website": "https://testnet.nar.bet/",
+  "description": "Nar.bet brings the first fully on-chain, provably fair casino to Monad — turning betting into a gamified, social, and community-driven experience.",
+  "monad_exclusive": "Monad exclusive",
+  "contracts": ["BankrollAndStaking
+0xD6bb56a6DC5c6652B2619d0A715a60DCbc4Fa8c5
+CoinFlip
+0x8fE455C76b3E7976b9BE3Eb69F039de4Bb32C47c
+Dice
+0x2954ddd9b426FABf5D9909DE8286b7025f193A00
+RockPaperScissors
+0x2798965E32c3d50FE555617480E5cC587AcD6671
+Slots
+0xcf9D175420eff5F0DbDacF022D1252ec7cb84322
+Mines
+0xfbE1cdf94e47d89c16b567CaA428537A81b636d0
+Plinko
+0x08bD2622ae6DF7B06854cd4e49cAcd74ccd197A1
+VideoPoker
+0x57C6f3ccF3E28F9AEBd7416c9DD810C3A199b18D
+Baccarat
+0xcDcECE7b16A5Fe1dafE20AbEC98CfcE68d78c51E
+Roulette
+0x361BC8744D4fBfD20C37c33B722073a2f8397C63
+FishPrawnCrab
+0x4e4fe291eDce757b1c05f3527bFC18f1f6E548Ff
+Limbo
+0xF9493449B53dF83C7FD18fE0087DfAEf09405f6F
+"]
+}
