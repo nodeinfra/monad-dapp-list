@@ -6052,7 +6052,7 @@
     },
     {
         "name": "Wonad App",
-        "type": "SocialFi",
+        "type": "Social",
         "logo": "https://www.thiswonad.xyz/assets/img/wonadlogo.png",
         "website": "https://app.thiswonad.xyz/",
         "description": "Wonad is the first Plant to Earn project in the Monad ecosystem, designed to provide a way to make a real-world impact while earning rewards. Wonad name meaning is World of Monad.",
@@ -6186,6 +6186,43 @@
             "0x037eCCCDEA8C1C3F5668A87AEf244010A8c83aeb",
             "0x6aD85C8b26B5Ed7fCA7d8BaF0BAE8C03B247bd81",
             "0x5d747C7CEB03287C4e6518C04e1631bEfBFa82dC"
+        ]
+    },
+	{
+        "name": "LumiterraGame",
+        "type": "Game",
+        "logo": "https://pbs.twimg.com/profile_images/1667436896480563200/8YPmbLbv_400x400.png",
+        "website": "https://gmonad.lumiterra.net/lumonad",
+        "description": "🎮 MMO Sandbox | 🌐 Open Economy | 🤖 AI Agents",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x9E1DDC2a90bc0bec6325dF48Cbb3125Ce2879F7C",
+            "0xd862dBFff84faD719da5546118B75FAdbb688644"
+        ]
+    },
+	{
+        "name": "HashGame",
+        "type": "Game",
+        "logo": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/hashgame.jpg/public",
+        "website": "https://hashgame.io",
+        "description": "Focus on innovative web3 game project",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x0C3EAaAfB06A42a11b7Df0D9e59fA9681a4Ca585",
+            "0xf6f26D51Bd2aBc33c495782dD1fbC1cAB23aeE0B",
+            "0xBBD15B9f37a1044DaAe2f540d0e4c2AA54B2f165"
+        ]
+    },
+	{
+        "name": "Tadle",
+        "type": "Aggregator",
+        "logo": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/tadle.png/public",
+        "website": "https://tadle.com",
+        "description": "Parallel sandbox for dApps",
+        "monad_exclusive": false,
+        "contracts": [
+            "0xAc586b65F3cd0627D2D05AdB8EF551C9d2D76E12",
+            "0x89d6AeE63Bd92A9a021d3c4943a66C8e4C8D31f9"
         ]
     }
 ]
