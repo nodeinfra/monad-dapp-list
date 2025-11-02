@@ -1,5 +1,35 @@
 [
     {
+        "name": "Neverland",
+        "type": "DeFi",
+        "logo": "https://neverland.money/assets/brand/logo.png",
+        "website": "https://neverland.money",
+        "description": "Monad-native lending protocol enabling self-repaying loans, NFT governance, and automated yield strategies, designed to redistribute all protocol revenue to the community.",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x9861f6a26050e02Ff0C079657F5a3AFcD8D4af52",
+            "0xCa203799274B20421bDa8fF98926e9b0e21E54Ff",
+            "0xc7fE001DD712beFb2de20abD34597CeF0250a6Ba",
+            "0x6D918BFD4b978574b00cfe0f1872931203357d1E",
+            "0x18d5fb20B2D252EaE3C13B51Cb53745F5b7D01dc",
+            "0xFcb0C1De6159E6CED54CBf1222BB0187EB81e59f",
+            "0xDD1124Cc06B2fEB6B03B94C0feD40b7352C07C24",
+            "0x20838Ac96e96049C844f714B58aaa0cb84414d60",
+            "0x5e59DEBC244c947Cbc37763AB92E77A1acF24aF0",
+            "0x0eEa99C3691348E937d33AebBF6aa0537fD0d500",
+            "0xFDC8BC830Fef4BD6885043A279A768720Ec091be",
+            "0xB61fe1aF61D75F44450e3Fa84F2f2dd75059897C",
+            "0x81167bCBf086973018AeAb9F2598fC872EB3eE8E",
+            "0x4fd95e1609220Bf078b465456ee7864b9A780830",
+            "0x4D0a2adDEf97F02b11D0fdA1b0099Ca6907e37fb",
+            "0xbB40488f28c78d2d5CD79d46F934908308FA2169",
+            "0x8c30De5c41528494DEC99f77a410FB63817dC7E2",
+            "0x6bAf63f7959EA253006e7Af0BeFf29810CcbF661",
+            "0x7f60150CaF5AA98A99E6EcD2e34E1E8A18d99174",
+            "0x498d3bCB37b004f40EbAAF19fec0E6b9e61786a4"
+        ]
+    },
+    {
         "name": "Kizzy",
         "type": "Game",
         "logo": "https://kizzy.io/images/kizzy-dark-logo.png",
