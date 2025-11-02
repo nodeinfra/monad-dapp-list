@@ -1,5 +1,9 @@
 [
     {
+        "name": "Voting Escrow DUST",
+        "contracts": ["0x6bAf63f7959EA253006e7Af0BeFf29810CcbF661"]
+    },
+    {
         "name": "BreathOfEstova",
         "contracts": ["0xD528a57C0517EeA0E16b58040dEbe703597D9b2b"]
     },
