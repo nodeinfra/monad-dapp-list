@@ -6261,7 +6261,7 @@
 		  "logo": "https://lh3.googleusercontent.com/d/1YsYonhg2kbFYxhotYWeh7bQR2u8aKP2D",
 		  "website": "https://aethonswap.com/",
 		  "description": "AethonSwap is a V4, CL-AMM DEX aiming to be the chain's central liquidity hub, focused on extreme efficiency, community ownership, and vote‑escrow governance.",
-		  "monad_exclusive": "Monad Exclusive",
+		  "monad_exclusive": true,
 		  "contracts": [
 				"0x813F1EcAcFA1908A1DEF1fB410Ab5f0c0E3065E2",
 				"0x9b0589E4AfC8613334ADb553d8678360B19Abaa2",
