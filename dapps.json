@@ -6290,5 +6290,17 @@
 				"0x8f6e457f7CF29a04866D8B86368cFcB2DCB88568",
 				"0x7aFA538aB807413f37f67Cfe5Edcf9Aaf5064996"
 			]
-	}
+	},
+    {
+        "name": "MonTools",
+        "type": "Tools",
+        "logo": "https://pbs.twimg.com/profile_images/1919120426334040064/Zl3yP-Kj_400x400.jpg",
+        "website": "https://montools.xyz",
+        "description": "Montools is a suite of tools for the Monad network.",
+        "monad_exclusive": true,
+        "contracts": [
+                "0xf7005a4D86d277A1D43CB49D05660d20c24d79f2",
+                "0xB135EC2dF1Af065a38B901CBc818e0E462e8A1c6"
+        ]
+    }
 ]
