@@ -6302,5 +6302,16 @@
                 "0xf7005a4D86d277A1D43CB49D05660d20c24d79f2",
                 "0xB135EC2dF1Af065a38B901CBc818e0E462e8A1c6"
         ]
+    },
+    {
+        "name": "Levr Bet",
+        "type": "Game",
+        "logo": "https://cdn.prod.website-files.com/65081f5d020d0150e714aa28/67b67929c2d9707cbb6eaaa7_levrlogo.jpg",
+        "website": "https://www.levr.bet/",
+        "description": "The first Sportsbook to offer leverage on bets.",
+        "monad_exclusive": true,
+        "contracts": [
+                "0x66dD5e0BE80417Cef966D788079D9be7A8618753"
+        ]
     }
 ]
