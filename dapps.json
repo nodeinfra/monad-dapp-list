@@ -645,7 +645,11 @@
         "website": "https://monorail.xyz/",
         "description": "Merging orderbook efficiency with AMM liquidity into personalized orderbooks.",
         "monad_exclusive": true,
-        "contracts": ["0xC995498c22a012353FAE7eCC701810D673E25794"]
+        "contracts": [
+			"0xC995498c22a012353FAE7eCC701810D673E25794",
+			"0x11133460f102c5de431f7749c8bc2b7c172568e1",
+			"0x525B929fCd6a64AfF834f4eeCc6E860486cED700"
+		]
     },
     {
         "name": "aiCraft.fun",
