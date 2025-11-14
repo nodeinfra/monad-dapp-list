@@ -6317,5 +6317,22 @@
         "contracts": [
                 "0x66dD5e0BE80417Cef966D788079D9be7A8618753"
         ]
-    }
+    },
+    {
+    "name": "Yamata",
+    "type": "DeFi",
+    "logo": "https://cdn.prod.website-files.com/66b6132f28cd1d0953a7c38b/6915c8a7c29005828b3e6d0b_logo_red.png",
+    "website": "https://yamata.io",
+    "description": "CEX speed. DeFi soul. One superapp for high performance orderbook trading, prediction markets, options, perps & vaults - all on-chain and under one roof.",
+    "monad_exclusive": false,
+    "contracts": [
+      "0x3cEDc198b6a27E5881458b8f3d5907acAb0BA2AD",
+      "0x34F452053423bb32717cC7c63ce7F60a60da6B78",
+      "0xDC390b4194Cd23c82E55047e9AF558572E7e6eFD",
+      "0xDbCB040c7aED1c927B8E3dAEDa1e0133363e991F",
+      "0x93646DE5D150Fd23989fC453F63b66D81dCcbE00",
+      "0x8B110181109AB813067AA3FFcAf0033122D54fc1",
+      "0xFe124fF349B4BA65877ad5eACe3C73fDba5E0221"
+    ]
+  }
 ]
