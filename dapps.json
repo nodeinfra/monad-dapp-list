@@ -1931,7 +1931,7 @@
         "name": "earnAUSD",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1853600042952663040/AwOMmTi1_400x400.jpg",
-        "website": "upshift.finance",
+        "website": "https://upshift.finance",
         "description": "The primary liquid yield token on Monad, systematically allocating AUSD across top DeFi opportunities",
         "monad_exclusive": false,
         "contracts": [
