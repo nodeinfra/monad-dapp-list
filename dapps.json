@@ -430,17 +430,6 @@
         ]
     },
     {
-        "name": "Circle USDC",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1719446730091962368/Bl01sQsB_400x400.png",
-        "website": "https://circle.com",
-        "description": "Building the Internet Financial Platform",
-        "monad_exclusive": false,
-        "contracts": [
-            "0x754704Bc059F8C67012fEd69BC8A327a5aafb603"
-        ]
-    },
-    {
         "name": "Clanker",
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1953706842032324608/Arf6RRS3_400x400.jpg",
