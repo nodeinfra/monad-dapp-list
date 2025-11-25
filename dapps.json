@@ -7,12 +7,7 @@
         "description": "High performance APIs that aggregate DEX and private liquidity sources to provide optimal trade executions for digital asset trades.",
         "monad_exclusive": false,
         "contracts": [
-            "0x0000000000001fF3684f28c67538d4D072C22734",
-            "0x00000000000004533Fe15556B1E086BB1A72cEae",
-            "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
-            "0xFB36B62145A4B272bc804e5E1b41ddbf4BFF4CF4",
-            "0xb2376d1183829f444e0ffE9EF1FFaf1b483B84F3",
-            "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
+            "0x00000000000004533Fe15556B1E086BB1A72cEae"
         ]
     },
     {
@@ -1006,24 +1001,9 @@
         "monad_exclusive": false,
         "contracts": [
             "0x0000000000001fF3684f28c67538d4D072C22734",
-            "0x00000000000004533Fe15556B1E086BB1A72cEae",
             "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
             "0xFB36B62145A4B272bc804e5E1b41ddbf4BFF4CF4",
             "0xb2376d1183829f444e0ffE9EF1FFaf1b483B84F3",
-            "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
-        ]
-    },
-    {
-        "name": "Matcha Meta",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1989529128752787457/4CP3d619_400x400.jpg",
-        "website": "https://meta.matcha.xyz/",
-        "description": "The best and most transparent meta DEX & bridge aggregator. Swap with ease and confidence.",
-        "monad_exclusive": false,
-        "contracts": [
-            "0x0000000000001fF3684f28c67538d4D072C22734",
-            "0x00000000000004533Fe15556B1E086BB1A72cEae",
-            "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
             "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
         ]
     },
@@ -1049,17 +1029,6 @@
         "monad_exclusive": false,
         "contracts": [
             "0xaaae0243007AA3000000d8e8bEeF0a944A0d3900"
-        ]
-    },
-    {
-        "name": "Mintto.xyz",
-        "type": "NFT",
-        "logo": "https://pbs.twimg.com/profile_images/1902691653132980224/srfe6p40_400x400.jpg",
-        "website": "https://mintto.xyz/",
-        "description": "Create engaging NFT raffles with customizable prizes, evolving artwork, and transparent on-chain draws that transform the collector experience.",
-        "monad_exclusive": false,
-        "contracts": [
-            "0x00000000001594C61dD8a6804da9AB58eD2483ce"
         ]
     },
     {
