@@ -1,5 +1,16 @@
 [
     {
+      "name": "Something",
+      "type": "DeFi",
+      "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreia6kcth4yagcbquyuc5vfxzuxwmcn22vorhhdjssvhjuojlzj2pga",
+      "website": "https://monad.something.tools",
+      "description": "Something delivers a full launchpad with flexible migration fees, a highly customizable AMM, and revenue sharing for creators.",
+      "monad_exclusive": false,
+      "contracts": [
+        "0x00F4353C69039b25c9338097FfF51099981E00ce"
+      ]
+    },
+    {
       "name": "SomeSwap",
       "type": "DeFi",
       "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreicmt3l656cb6nhlotxlnvb6togtzgvc5sds32a7tnydwiwmokmepu",
