@@ -713,7 +713,9 @@
         "description": "Instant liquidity bridging for over 350+ chains",
         "monad_exclusive": false,
         "contracts": [
-            "0x9E22ebeC84c7e4C4bD6D4aE7FF6f4D436D6D8390"
+            "0x9E22ebeC84c7e4C4bD6D4aE7FF6f4D436D6D8390",
+            "0x391E7C679d29bD940d63be94AD22A25d25b5A604",
+            "0x8C826F795466E39acbfF1BB4eEeB759609377ba1"
         ]
     },
     {
