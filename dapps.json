@@ -1,5 +1,18 @@
 [
     {
+      "name": "SomeSwap",
+      "type": "DeFi",
+      "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreicmt3l656cb6nhlotxlnvb6togtzgvc5sds32a7tnydwiwmokmepu",
+      "website": "https://someswap.org",
+      "description": "SomeSwap is a next-generation AMM and DEX built on Monad, featuring Chameleon Pools, dynamic fee tiers, anti-sniping protection, and Chimera smart routing. It powers trading, liquidity, and token launches across the Something ecosystem.",
+      "monad_exclusive": true,
+      "contracts": [
+        "0x00008A3c1077325Bb19cd93e5a0f1E95144700fa",
+        "0x000799B28aE9C3E9ca70B7Ff67b191519ab80fee",
+        "0x001176F5eF99F53Eae957Bb2Fb2aE93E9b6F110c"
+      ]
+    },
+    {
         "name": "0x",
         "type": "DeFi",
         "logo": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee94/66967cfef0a246cbbb9aeeee_logo.svg",
