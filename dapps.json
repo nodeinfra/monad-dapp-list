@@ -215,7 +215,7 @@
     },
     {
         "name": "Bro Fun",
-        "type": "Gaming",
+        "type": "Consumer",
         "logo": "https://pbs.twimg.com/profile_images/1983519855279042560/ntgzrOaU_400x400.jpg",
         "website": "https://bro.fun",
         "description": "Where fortune favors the bros. Sink cups, become a legend.",
@@ -645,8 +645,8 @@
     },
     {
         "name": "Fastlane",
-        "type": "DeFi",
-        "logo": "https://pbs.twimg.com/profile_images/1601120909305073664/BVqaioHd_400x400.jpg",
+        "type": "LST",
+        "logo": "https://pbs.twimg.com/profile_images/1935840734726270976/nnMo1axH_400x400.jpg",
         "website": "https://www.shmonad.xyz/",
         "description": "Fastlane launched shmonad, the first holistic LST on Monad and Atlas, the first MEV protocol for apps to capture the MEV their users create.",
         "monad_exclusive": false,
@@ -801,7 +801,7 @@
     },
     {
         "name": "Kintsu",
-        "type": "DeFi",
+        "type": "LST",
         "logo": "https://pbs.twimg.com/profile_images/1984001421960704000/UpI70-s4_400x400.jpg",
         "website": "https://kintsu.xyz",
         "description": "Composable liquid staking protocol that powers decentralized validator curation, governed by the Kintsu DAO.",
@@ -998,7 +998,7 @@
     },
     {
         "name": "Magma",
-        "type": "DeFi",
+        "type": "LST",
         "logo": "https://pbs.twimg.com/profile_images/1798840544887787520/OWxSEpYX_400x400.jpg",
         "website": "https://www.magmastaking.xyz/",
         "description": "Native liquid staking and MEV, powered by the fastest block engine in crypto.",
@@ -1932,7 +1932,7 @@
     },
     {
         "name": "aPriori",
-        "type": "DeFi",
+        "type": "LST",
         "logo": "https://pbs.twimg.com/profile_images/1821177411796410369/GtzmUXok_400x400.jpg",
         "website": "https://www.apr.io/",
         "description": "The intelligent order flow coordination layer for high performance blockchains",
