@@ -1,0 +1,34 @@
+[
+  {
+    "ticker": "shMON",
+    "name": "shMonad Monad",
+    "dapp": "FastLane",
+    "contract": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
+    "image": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/shMON/logo.png",
+    "website": "https://shmonad.xyz/"
+  },
+  {
+    "ticker": "gMON",
+    "name": "Magma Monad",
+    "dapp": "Magma",
+    "contract": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
+    "image": "https://www.magmastaking.xyz/gMON.png",
+    "website": "https://www.magmastaking.xyz/"
+  },
+  {
+    "ticker": "sMON",
+    "name": "Kintsu Staked Monad",
+    "dapp": "Kintsu",
+    "contract": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
+    "image": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/sMON/logo.svg",
+    "website": "https://kintsu.xyz/"
+  },
+  {
+    "ticker": "aprMON",
+    "name": "aPriori Monad",
+    "dapp": "aPriori",
+    "contract": "0x0c65A0BC65a5D819235B71F554D210D3F80E0852",
+    "image": "https://raw.githubusercontent.com/monad-crypto/token-list/fd4cffc052dc5d061b7e4c22a8f012e8b107bfe2/mainnet/aprMON/aprmon.svg",
+    "website": "https://apr.io/"
+  }
+]
