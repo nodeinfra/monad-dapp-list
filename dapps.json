@@ -2125,5 +2125,18 @@
             "0x51FFf43eb9Cc9cE9de491E86dcfBFbf0864cfEED",
             "0x925726a0AAbB82464d21F6795A457fA9Fe0a57c1"
         ]
+    },
+    {
+        "name": "SLAB CASH",
+        "type": "Collectibles",
+        "logo": "https://pbs.twimg.com/profile_images/1944817732647542784/KOF2eYVo_400x400.png",
+        "website": "https://slab.cash",
+        "description": "Level up your collection with physical backed, onchain authenticated trading cards.",
+        "monad_exclusive": false,
+        "contracts": [
+            "0xC2DC75bdd0bAa476fcE8A9C628fe45a72e19C466",
+            "0x8a981C2cfdd7Fbc65395dD2c02ead94e9a2f65a7",
+            "0xb85D2443aEfbCaf9f0b32EAde7D47BeBc5D00972"
+        ]
     }
 ]
