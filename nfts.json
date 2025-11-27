@@ -114,5 +114,9 @@
     {
         "name": "Chogzuki Genesis",
         "contracts": ["0x444e6a748aff7e812d36b68c774c6b5fdc3b0b43"]
+    },
+    {
+        "name": "Slab",
+        "contracts": ["0x8a981C2cfdd7Fbc65395dD2c02ead94e9a2f65a7"]
     }
 ]
