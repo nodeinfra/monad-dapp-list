@@ -482,7 +482,11 @@
             "0x6657d192273731C3cAc646cc82D5F28D0CBE8CCC",
             "0x19b68a2b909D96c05B623050C276FBD457De8e83",
             "0xe424c211e2Ed8a5B6d1C57FA493C41715568D238",
-            "0x7B58A24C5628881a141D630f101Db433D419B372"
+            "0x7B58A24C5628881a141D630f101Db433D419B372",
+            "0xB09684f5486d1af80699BbC27f14dd5A905da873",
+            "0x54cd5332b1689b6506Ce089DA5651B1A814e9E7D",
+            "0xb1251BF43Bb7De76DE7e6CE7B64aF843dfc9d242",
+            "0x9050b0A12D92b8ba7369ecc87BcD04643Fa0CfDB"
         ]
     },
     {
@@ -2124,6 +2128,19 @@
             "0xfA2F863Eb512434E99E2365Fa5f7AC7674DDe000",
             "0x51FFf43eb9Cc9cE9de491E86dcfBFbf0864cfEED",
             "0x925726a0AAbB82464d21F6795A457fA9Fe0a57c1"
+        ]
+    },
+    {
+        "name": "SLAB CASH",
+        "type": "Collectibles",
+        "logo": "https://pbs.twimg.com/profile_images/1944817732647542784/KOF2eYVo_400x400.png",
+        "website": "https://slab.cash",
+        "description": "Level up your collection with physical backed, onchain authenticated trading cards.",
+        "monad_exclusive": false,
+        "contracts": [
+            "0xC2DC75bdd0bAa476fcE8A9C628fe45a72e19C466",
+            "0x8a981C2cfdd7Fbc65395dD2c02ead94e9a2f65a7",
+            "0xb85D2443aEfbCaf9f0b32EAde7D47BeBc5D00972"
         ]
     }
     {
