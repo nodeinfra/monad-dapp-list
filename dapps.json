@@ -2158,5 +2158,14 @@
             "0x0d3c2cfab83920236f266e70076b0d502cd060d0",
             "0x5f810dd164668ef52f60bf7e9830ac2dc3f7b1e8"
         ]
-    }
+    },
+    {
+    "name": "Wordle Fun",
+    "type": "Game",
+    "logo": "https://pbs.twimg.com/profile_images/1994437577475035136/VwjOn7jE_400x400.jpg",
+    "website": "https://www.wrdl.fun/",
+    "description": "Wrdl.fun is an on-chain word game built on Monad, inspired by the iconic Wordle format and enhanced with real on-chain incentives",
+    "monad_exclusive": "true",
+    "contracts": ["0x6FBB86d5940B11E23056a66a948d97289Bd320eB"]
+  }
 ]
