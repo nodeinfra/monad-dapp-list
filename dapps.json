@@ -257,13 +257,17 @@
         "logo": "https://pbs.twimg.com/profile_images/1931864507590045696/yn7mxTi9_400x400.jpg",
         "website": "https://capricorn.exchange/",
         "description": "The premier liquidity venue on Monad.",
-        "monad_exclusive": false,
+        "monad_exclusive": true,
         "contracts": [
             "0x6B5F564339DbAD6b780249827f2198a841FEB7F3",
+            "0x0136B6347509D386c6da3896162BEBaAF19e51c4",
             "0xEd2850D3704a1a5BcB6158f27deDA3d6FF4C31D9",
             "0x4C02af995BB1f574c9bf31F43ddc112414aE0Ac7",
+            "0xdac97b6a3951641B177283028A8f428332333071",
+            "0x830b22425257A752314A5f0902559164c84e44A4",
+            "0x53153392D0175D394D721CCF31173a49F7E6Ef53",
             "0xB430EDD2b54cdB3B25703fb3342ca3a88663A04D",
-            "0xdac97b6a3951641B177283028A8f428332333071"
+            "0xEcEB2CfcB38D1f469f55a3E5dc0C950Df8A465c3"
         ]
     },
     {
