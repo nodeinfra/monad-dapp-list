@@ -2142,5 +2142,17 @@
             "0x8a981C2cfdd7Fbc65395dD2c02ead94e9a2f65a7",
             "0xb85D2443aEfbCaf9f0b32EAde7D47BeBc5D00972"
         ]
+    },
+    {
+        "name": "Memenads",
+        "type": "DeFi",
+        "logo": "https://pbs.twimg.com/profile_images/1993957015132209153/v64sdIcG_400x400.jpg",
+        "website": "https://memenads.fun",
+        "description": "Memenads.fun is a one-click meme token launchpad that lets anyone create, deploy, and trade meme coins instantly. No coding required—launch your token in seconds and grow your community with built-in tools.",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x0d3c2cfab83920236f266e70076b0d502cd060d0",
+            "0x5f810dd164668ef52f60bf7e9830ac2dc3f7b1e8"
+        ]
     }
 ]
