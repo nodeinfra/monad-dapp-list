@@ -2165,7 +2165,7 @@
     "logo": "https://pbs.twimg.com/profile_images/1994437577475035136/VwjOn7jE_400x400.jpg",
     "website": "https://www.wrdl.fun/",
     "description": "Wrdl.fun is an on-chain word game built on Monad, inspired by the iconic Wordle format and enhanced with real on-chain incentives",
-    "monad_exclusive": "true",
+    "monad_exclusive": true,
     "contracts": ["0x6FBB86d5940B11E23056a66a948d97289Bd320eB"]
-  }
+    }
 ]
