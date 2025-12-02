@@ -1,3 +1,13 @@
 convert_protocols.js
 convert_protocols.py
 converted_protocols.json
+
+# Node.js
+node_modules/
+package.json
+package-lock.json
+
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
