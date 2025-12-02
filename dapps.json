@@ -2167,5 +2167,29 @@
         "description": "Wrdl.fun is an on-chain word game built on Monad, inspired by the iconic Wordle format and enhanced with real on-chain incentives",
         "monad_exclusive": true,
         "contracts": ["0x6FBB86d5940B11E23056a66a948d97289Bd320eB"]
+    },
+    {
+        "name": "Curvance",
+        "type": "Lending",
+        "logo": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/Curvance.png/public",
+        "website": "https://www.curvance.com/",
+        "description": "Click Less, Earn More.",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x1e240E30E51491546deC3aF16B0b4EAC8Dd110D4",
+            "0x926C101Cf0a3dE8725Eb24a93E980f9FE34d6230",
+            "0x8EE9FC28B8Da872c38A496e9dDB9700bb7261774",
+            "0xE01d426B589c7834a5F6B20D7e992A705d3c22ED",
+            "0xAd4AA2a713fB86FBb6b60dE2aF9E32a11DB6Abf2",
+            "0x0fcEd51b526BfA5619F83d97b54a57e3327eB183",
+            "0x6E182EB501800C555bd5E662E6D350D627F504D8",
+            "0x852FF1EC21D63b405eC431e04AE3AC760e29263D",
+            "0xfD493ce1A0ae986e09d17004B7E748817a47d73c",
+            "0x2B4e0232F46E6DB4af35474c140B968EeFCB09Ec",
+            "0xF32B334042DC1EB9732454cc9bc1a06205d184f2",
+            "0xD9E2025b907E95EcC963A5018f56B87575B4aB26",
+            "0x92EE4b4d33Dc61bd93a88601F29131B08aCedBF1",
+            "0x5af9b7cAc0530d3C9e11C23B7A69Cce335B8C395"
+        ]
     }
 ]
