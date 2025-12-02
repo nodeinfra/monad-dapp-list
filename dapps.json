@@ -2167,5 +2167,5 @@
         "description": "Wrdl.fun is an on-chain word game built on Monad, inspired by the iconic Wordle format and enhanced with real on-chain incentives",
         "monad_exclusive": true,
         "contracts": ["0x6FBB86d5940B11E23056a66a948d97289Bd320eB"]
-    }
+    }
 ]
