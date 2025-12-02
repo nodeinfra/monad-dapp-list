@@ -1170,7 +1170,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1988147564227764224/MnPg-Spe_400x400.jpg",
         "website": "https://nar.bet",
         "description": "Nar.Bet is a derivative project of Narwhal Finance, built exclusively on Monad, delivering the first fully on-chain, provably fair betting experience that is gamified, social, and community-driven.",
-        "monad_exclusive": false,
+        "monad_exclusive": true,
         "contracts": [
             "0x71dc4a726C92E6bf506F2Afc2Cee8B63A89B29EC",
             "0xa7f902847a16F1CDbF043c0653865D40e6695de5",
