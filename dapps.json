@@ -2191,5 +2191,23 @@
             "0x92EE4b4d33Dc61bd93a88601F29131B08aCedBF1",
             "0x5af9b7cAc0530d3C9e11C23B7A69Cce335B8C395"
         ]
+    },
+    {
+        "name": "zkSwap Finance",
+        "type": "DeFi",
+        "logo": "https://raw.githubusercontent.com/ZkSwapFinance/brand-kit/refs/heads/main/512x512.png",
+        "website": "https://www.zkswap.finance/",
+        "description": "The 1st Swap to Earn AMM DEX & DeFi Hub",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x486D7C009B78310528AcA11574eC816d2FdEf71B",
+            "0x45728A3D03fF67Cc0c8546f4290aFFB7C94F877a",
+            "0x98356a6276e0413FF21d41a17EB851dB9207A285",
+            "0x0aa3e6692e4E8845e21867b520A2Bb0377199350",
+            "0x68225b5ba7cE309fD0d3f0C9A74b947c7d7e03dA",
+            "0xC60cBC14D170A95938bb630AE78a8306dd7cF120",
+            "0xF82343c8b777BAdB0921ee4c4F7581c968687B6b",
+            "0xf5Cf2b71B8B368c84C4C4903AF453E790d392285"
+        ]
     }
 ]
