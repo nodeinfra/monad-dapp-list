@@ -2191,5 +2191,32 @@
             "0x92EE4b4d33Dc61bd93a88601F29131B08aCedBF1",
             "0x5af9b7cAc0530d3C9e11C23B7A69Cce335B8C395"
         ]
+    },
+    {
+        "name": "zkSwap Finance",
+        "type": "DeFi",
+        "logo": "https://github.com/ZkSwapFinance/brand-kit/blob/main/512x512%20Black.png",
+        "website": "https://www.zkswap.finance",
+        "description": "A multichain decentralized exchange that offers a Swap2Earn model, designed to provide incentives for both liquidity providers and traders",
+        "monad_exclusive": false,
+        "contracts": [
+            "0xF82343c8b777BAdB0921ee4c4F7581c968687B6b",
+            "0xC60cBC14D170A95938bb630AE78a8306dd7cF120",
+            "0x68225b5ba7cE309fD0d3f0C9A74b947c7d7e03dA",
+            "0x0ff16867BcaC3C5fdc2dc73558e3F8e2ed89EEA2",
+            "0xf5Cf2b71B8B368c84C4C4903AF453E790d392285",
+            "0xCe98a0E578b639AA90EE96eD5ba8E5a4022de529",
+            "0x98356a6276e0413FF21d41a17EB851dB9207A285",
+            "0xC5AB2BE64e27e43778C9AA692cf058ba043BC32a",
+            "0xb41bFa454808eE4d35638a225cc91389A5295e7F",
+            "0xcf7ff4717D5E1468C82aA69Dba8dAcb18eD5B585",
+            "0x734711633eF2c9a2386BE0eA1C010b06FB3b94Aa",
+            "0x45728A3D03fF67Cc0c8546f4290aFFB7C94F877a",
+            "0x486D7C009B78310528AcA11574eC816d2FdEf71B",
+            "0x2f2f2f74ab5db61AE8BD3c13ccD4Dc8c9E8A2f2f",
+            "0x123468b48EADbC13c65cd9c66A9913cdE4e94321",
+            "0x0aa3e6692e4E8845e21867b520A2Bb0377199350",
+            "0xF5AC2cE5002272EA0042a4Ba3dcBb45fd2b8A021"
+        ]
     }
 ]
