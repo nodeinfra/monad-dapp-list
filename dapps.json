@@ -2218,5 +2218,18 @@
             "0x0aa3e6692e4E8845e21867b520A2Bb0377199350",
             "0xF5AC2cE5002272EA0042a4Ba3dcBb45fd2b8A021"
         ]
+    },
+    {
+        "name": "MonBridgeDex",
+        "type": "DeFi",
+        "logo": "https://avatars.githubusercontent.com/u/210091763?s=400&u=d0acd4299e071def2fe61e0acd6216deda67d320&v=4",
+        "website": "https://monbridgedex.xyz",
+        "description": "Mon Bridge Dex is an advanced aggregator that bridges multiple DEXes to secure the best swap output for your trades on Monad",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x7dd7fc9380e3107028a158f49bd25a8a8d48b225",
+            "0xd2748ceA2ADa9Bfc4eDA8AD7fe170f8a6A0EABe8"
+        ]
     }
+    
 ]
