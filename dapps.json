@@ -2230,6 +2230,21 @@
             "0x7dd7fc9380e3107028a158f49bd25a8a8d48b225",
             "0xd2748ceA2ADa9Bfc4eDA8AD7fe170f8a6A0EABe8"
         ]
-    }
+    },
+    {
+        "name": "Color - RgbClash",
+        "type": "Game",
+        "logo": "https://www.rgbclash.xyz/center_filled.png",
+        "website": "https://www.rgbclash.xyz/",
+        "description": "Unleash your creativity and draw your yield bearing NFTs. Play to earn with multiplayer drawing-guessing game.",
+        "monad_exclusive": false,
+        "contracts": [
+			"0xC8bB93e4f11665D76C704d973e744d78b3d32A2c",
+			"0x2aF76C4e57886Aac03329a6dfF02761F250848A3",
+			"0xb25Ef8643414e6bb29E9eF24E8fD7dC9115b26e1",
+            "0x1f5E4a0fFaB85E5BBa68f73f878117eD314e4452",
+            "0x9Cc79CE554a6CebCE2EC90DAb0F77E6b08e89563"
+		]
+	}
     
 ]
