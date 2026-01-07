@@ -2265,7 +2265,7 @@
         "name": "dFusion AI",
         "type": "AI, Infrastructure",
         "logo": "https://cdn.prod.website-files.com/660ab3687f4b08443800247f/672240e6f55de869b96f325e_Light%20Logo.svg",
-        "website": "https://www.testnet.dfusion.ai",
+        "website": "https://testnet.dfusion.ai",
         "description": "dFusion AI turns curated data into specialized & accurate AI subnets, aligning usage, incentives, and ownership.",
         "monad_exclusive": true,
         "contracts": [
