@@ -2273,22 +2273,23 @@
 		]
 	},     
 {
-  “name”: “Monday Trade”,
-  “type”: “DeFi”,
-  “logo”: “https://mondaytrade.notion.site/Monday-Trade-Brand-Kit-1f948d36614f807bb374c003d7c35e70“,
-  “website”: “https://app.monday.trade“,
-  “description”: “Monday Trade is Monad’s native spot and perps DEX that offers the best of CEX and DEX trading experience”,
-  “monad_exclusive”: true,
-  “contracts”: [
-  “0xAD8974D98f7fc386e396FFE826B886cf20AfE232”,
-  “0x68b507BF58ED32173f41FF20aa2494A569daeC44",
-  “0xB97eCD41Aef0F842E773C8F9905919cDE49880C9”,
-  “0xFE951b693A2FE54BE5148614B109E316B567632F”,
-  “0xC1e98D0A2a58fB8aBd10ccc30a58efff4080Aa21”,
-  “0xdc67221ea8D223E0A1D0948eDeCB634cAF190eC9",
-  “0x15bC3C13cbf5903E78b97208ba1021E5dc1B4470”,
-  “0x2E32345Bf0592bFf19313831B99900C530D37d90",
-  “0xdfBA572929De47838BdE12336dfE8842B06d9628”,
-  “0x5FE49fb8770A8009335B1d76496c3e07Ca04FC9F”
+  "name": "Monday Trade",
+  "type": "DeFi",
+  "logo": "https://mondaytrade.notion.site/Monday-Trade-Brand-Kit-1f948d36614f807bb374c003d7c35e70",
+  "website": "https://app.monday.trade",
+  "description": "Monday Trade is Monad’s native spot and perps DEX that offers the best of CEX and DEX trading experience",
+  "monad_exclusive": true,
+  "contracts": [
+    "0xAD8974D98f7fc386e396FFE826B886cf20AfE232",
+    "0x68b507BF58ED32173f41FF20aa2494A569daeC44",
+    "0xB97eCD41Aef0F842E773C8F9905919cDE49880C9",
+    "0xFE951b693A2FE54BE5148614B109E316B567632F",
+    "0xC1e98D0A2a58fB8aBd10ccc30a58efff4080Aa21",
+    "0xdc67221ea8D223E0A1D0948eDeCB634cAF190eC9",
+    "0x15bC3C13cbf5903E78b97208ba1021E5dc1B4470",
+    "0x2E32345Bf0592bFf19313831B99900C530D37d90",
+    "0xdfBA572929De47838BdE12336dfE8842B06d9628",
+    "0x5FE49fb8770A8009335B1d76496c3e07Ca04FC9F"
   ]
 }
+
