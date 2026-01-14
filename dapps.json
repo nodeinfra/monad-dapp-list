@@ -822,13 +822,14 @@
     {
         "name": "Kodeus",
         "type": "AI",
-        "logo": "https://pbs.twimg.com/profile_images/1902345552207261696/RhHYYkpI_400x400.jpg",
+        "logo": "https://arweave.net/MS-KY8qBeQ0KHJvez0HgkkrXCN48_ZnlUWrzIQJil2k",
         "website": "https://kodeus.ai",
         "description": "Kodeus is the Internet's Agent Layer where users create programmable and monetizable agents that act, settle and prove autonomously",
         "monad_exclusive": false,
         "contracts": [
             "0x3d3c1Db86989eD5196358eE03e2F1258EA183dCB",
-            "0xa0371d51C086f846Bd02c331DD31cc510645332e"
+            "0xa0371d51C086f846Bd02c331DD31cc510645332e",
+			"0xa2c272C0D4fd83587ce3A4e81FA3Ad0eB9d63F9D"
         ]
     },
     {
