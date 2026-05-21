@@ -1,5 +1,18 @@
 [
   {
+    "name": "FoMonad",
+    "type": "DeFi",
+    "logo": "https://www.fomonad.wtf/fomonad-named.svg",
+    "website": "https://www.fomonad.wtf/",
+    "description": "A consensual rugpull on Monad. Every round: a new yield-bearing Vibecoin, a price curve, a timer, a prize pool. The rug is the product.",
+    "monad_exclusive": true,
+    "contracts": [
+      "0xd2C45789A6A26Cbb961E7E1B65fA2B5BB3872639",
+      "0x9f4834920e7ad3275F3cf6587Ad9c9F7d387F1CF",
+      "0xad269FBeC6ebbAD424FCdC0f8e62F2056A72B403"
+    ]
+  },
+  {
     "name": "Something",
     "type": "DeFi",
     "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreia6kcth4yagcbquyuc5vfxzuxwmcn22vorhhdjssvhjuojlzj2pga",
