@@ -2302,5 +2302,24 @@
       "0xdfBA572929De47838BdE12336dfE8842B06d9628",
       "0x5FE49fb8770A8009335B1d76496c3e07Ca04FC9F"
     ]
+  },
+  {
+    "name": "K613",
+    "type": "DeFi",
+    "logo": "https://icons.llama.fi/k613.jpg",
+    "website": "https://k613.net/",
+    "description": "K613 is an over-collateralized lending protocol on Monad, forked from Aave V3.",
+    "monad_exclusive": true,
+    "contracts": [
+      "0x1f6E754C6F7A49e2d69e5341d65EcB8f8506C69c",
+      "0x4Ba3856a4d851d39C27e2E866daB7A95eF6e0113",
+      "0x3F16A467c3fC589fB96864196047F2f417CAc28F",
+      "0x0dFfb00A751a74ac8CF8B022Bf86b1ECd9D7ae6F",
+      "0x115840CF79eb27713E0Bd3B66076651f8C081B0B",
+      "0xfc87bE7f3657AAD69baDb6247A88E924D1F8bc53",
+      "0xF689bB846eE7DD51947c3368cc3ee26713D3ED83",
+      "0xe1d8B642c83587Df813a36F361C682C0475c4ea4",
+      "0x7eEdb2D4D4b89b8B854c734e8fAABfB24E0537A6"
+    ]
   }
 ]
